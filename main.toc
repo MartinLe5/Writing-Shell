@@ -72,4 +72,6 @@
 \contentsline {chapter}{\numberline {E}LDA Gamma Table Counts}{229}% 
 \contentsline {subsection}{\numberline {E.0.1}Tables}{229}% 
 \contentsline {subsection}{\numberline {E.0.2}Maps}{229}% 
-\contentsline {chapter}{Bibliography}{267}% 
+\contentsline {chapter}{\numberline {F}Shift Share}{267}% 
+\contentsline {section}{\numberline {F.1}Dynamic Shift Share of the States}{267}% 
+\contentsline {chapter}{Bibliography}{294}% 
