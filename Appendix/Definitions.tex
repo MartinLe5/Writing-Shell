@@ -1,0 +1,32 @@
+\chapter{Definitions}
+\label{Definition_appendix}
+
+The Definition for the Emerging Hot Spots are taken from \cite{Esri} on the help page detailing Emerging Hotspot analysis\footnote{\url{https://pro.arcgis.com/en/pro-app/tool-reference/space-time-pattern-mining/learnmoreemerging.htm}}. 
+
+\begin{longtable}{|l|p{10cm}|}
+\caption{Emerging Hot Spot Analysis} 
+\label{App:EmergingHotspotdef}
+\endfirsthead
+\caption{Emerging Hot Spot Analysis Definitions} 
+\endhead
+\hline
+Pattern Name & Definition \\ \hline
+No Pattern Detected & Does not fall into any of the hot or cold spot patterns defined below. \\ \hline
+New Hot Spot & A location that is a statistically significant hot spot for the final time step and has never been a statistically significant hot spot before. \\ \hline
+Consecutive Hot Spot & A location with a single uninterrupted run of statistically significant hot spot bins in the final time-step intervals. The location has never been a statistically significant hot spot prior to the final hot spot run and less than ninety percent of all bins are statistically significant hot spots. \\ \hline
+Intensifying Hot Spot & A location that has been a statistically significant hot spot for ninety percent of the time-step intervals, including the final time step. In addition, the intensity of clustering of high counts in each time step is increasing overall and that increase is statistically significant. \\ \hline
+Persistent Hot Spot & A location that has been a statistically significant hot spot for ninety percent of the time-step intervals with no discernible trend indicating an increase or decrease in the intensity of clustering over time. \\ \hline
+Diminishing Hot Spot & A location that has been a statistically significant hot spot for ninety percent of the time-step intervals, including the final time step. In addition, the intensity of clustering in each time step is decreasing overall and that decrease is statistically significant. \\ \hline
+Sporadic Hot Spot & A location that is an on-again then off-again hot spot. Less than ninety percent of the time-step intervals have been statistically significant hot spots and none of the time-step intervals have been statistically significant cold spots. \\ \hline
+Oscillating Hot Spot & A statistically significant hot spot for the final time-step interval that has a history of also being a statistically significant cold spot during a prior time step. Less than ninety percent of the time-step intervals have been statistically significant hot spots. \\ \hline
+Historical Hot Spot & The most recent time period is not hot, but at least ninety percent of the time-step intervals have been statistically significant hot spots. \\ \hline
+New Cold Spot & A location that is a statistically significant cold spot for the final time step and has never been a statistically significant cold spot before. \\ \hline
+Consecutive Cold Spot & A location with a single uninterrupted run of statistically significant cold spot bins in the final time-step intervals. The location has never been a statistically significant cold spot prior to the final cold spot run and less than ninety percent of all bins are statistically significant cold spots. \\ \hline
+Intensifying Cold Spot & A location that has been a statistically significant cold spot for ninety percent of the time-step intervals, including the final time step. In addition, the intensity of clustering of low counts in each time step is increasing overall and that increase is statistically significant. \\ \hline
+Persistent Cold Spot & A location that has been a statistically significant cold spot for ninety percent of the time-step intervals with no discernible trend, indicating an increase or decrease in the intensity of clustering of counts over time. \\ \hline
+Diminishing Cold Spot & A location that has been a statistically significant cold spot for ninety percent of the time-step intervals, including the final time step. In addition, the intensity of clustering of low counts in each time step is decreasing overall and that decrease is statistically significant. \\ \hline
+Sporadic Cold Spot & A location that is an on-again then off-again cold spot. Less than ninety percent of the time-step intervals have been statistically significant cold spots and none of the time-step intervals have been statistically significant hot spots. \\ \hline
+Oscillating Cold Spot & A statistically significant cold spot for the final time-step interval that has a history of also being a statistically significant hot spot during a prior time step. Less than ninety percent of the time-step intervals have been statistically significant cold spots. \\ \hline
+Historical Cold Spot & The most recent time period is not cold, but at least ninety percent of the time-step intervals have been statistically significant cold spots. \\ \hline
+
+\end{longtable}

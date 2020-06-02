@@ -1,0 +1,74 @@
+\documentclass[12pt,letterpaper]{book}
+\usepackage[latin1]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{csquotes}
+\usepackage{epstopdf} 
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{setspace}
+\usepackage{rotating}
+\usepackage{longtable} % for 'longtable' environment
+\usepackage{pdflscape} 
+\usepackage{footmisc}
+\usepackage{natbib}
+\usepackage[colorinlistoftodos,prependcaption,textsize=tiny]{todonotes}
+\usepackage[intoc]{nomencl}
+\makenomenclature
+\usepackage{url}
+\usepackage[toc,page]{appendix}
+\usepackage[super]{nth}
+\usepackage{float}
+\usepackage{lipsum}
+\usepackage{subcaption}
+\graphicspath{{images/}}
+\usepackage[left=1.50in, right=1.00in, top=1.00in, bottom=1.00in]{geometry}
+\renewcommand\footnotelayout{\fontsize{10}{12}\selectfont}
+\doublespacing
+\title{Examination of Institutional Investment in the USA from 1999 to 2018 }
+\begin{document}
+	
+	\tableofcontents
+	\pagebreak[4]
+	
+	
+	
+	\addcontentsline{toc}{chapter}{List of Figures}
+	\listoffigures
+	\newpage
+	\addcontentsline{toc}{chapter}{List of Tables}
+	\listoftables\newpage
+	\addcontentsline{toc}{chapter}{List of Appendices}
+	%\listofmyappendices\newpage
+	%\addcontentsline{toc}{chapter}{List of Abbreviations, Symbols, and Nomenclature}
+	%\large List of Abbreviations, Symbols, and Nomenclature \normalsize
+	
+	\printnomenclature[1.75in]
+	
+	
+	\newpage
+	
+	\begin{spacing}{2}
+		
+		%\include{ChapterI}
+		\include{ChapterII}
+		%\include{ChapterIII}
+		%\include{ChapterIV}
+		\include{ChapterV}
+		%\include{ChapterVI}
+		%\include{Conclusion}
+		%\include{ChapterVII}
+		\begin{appendices}
+		%\include{Appendix/Shift_share}
+		\include{Appendix/CountbyState_Lda34}
+		\end{appendices}
+
+	\end{spacing}
+	%% This adds a line for the Bibliography in the Table of Contents.
+	\addcontentsline{toc}{chapter}{Bibliography}
+	\bibliographystyle{chicago}
+	\bibliography{Mybibliography}
+	
+\end{document}
