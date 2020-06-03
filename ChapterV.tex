@@ -146,7 +146,7 @@ P(Z|W,D) = \dfrac{\# of words W in topic Z + \beta_{w}}{total tokens in Z + \bet
 	
 	
 	\end{tikzpicture}
-	\caption[Graphical Model of Latent Dirichlet Allocation]{Graphical Model of Latent Dirichlet Allocation replicated from the graphic in Blei (2012), where K is the total number of topics, $ \beta _{k}$ is the topic, a distribution over the vocabulary, $D$ is the total number of documents, $\Theta_{d}$ is the per-document topic proportions, N is the total number of words in a document, $Z_{d},_{n}$ is the per-word topic assignment, $W_{d},_{n}$ observed word, and finally $\alpha$ and $n$ as dirichlet parameters. }
+	\caption[Graphical Model of Latent Dirichlet allocation]{Graphical Model of Latent Dirichlet allocation replicated from the graphic in Blei (2012), where K is the total number of topics, $ \beta _{k}$ is the topic, a distribution over the vocabulary, $D$ is the total number of documents, $\Theta_{d}$ is the per-document topic proportions, N is the total number of words in a document, $Z_{d},_{n}$ is the per-word topic assignment, $W_{d},_{n}$ observed word, and finally $\alpha$ and $n$ as dirichlet parameters. }
 	
 	\label{fig:LDA_graphic}
 \end{figure}
@@ -178,7 +178,7 @@ Another practice that is common in literary-based uses of of LDA is stemming wor
 
 
 
-\section{Number of topics}
+\section{Number of Topics}
 
 LDA requires the user to determine \textit{a priori} the number of topics used in the Topic Model.  This leads to the lumper vs splitter problem.  Where one has to classify $n$ objects, the optimal number of categories will exist between 1 and $n$, for 1 category encompasses the ensemble of things to be classified, and $n$ categories will have perfect fit, but is utterly meaningless since it does not reduce data into a meaningful form.  As such, classification is an art as well as a science, since many categories can exist as part of a continuum.
 
@@ -197,7 +197,7 @@ After the model is trained, the LDA provides two tables: beta table and gamma ta
 
 
 %per-document-per-topic probabilities
-\subsection{Beta Table}
+\subsection{Per-Topic Probabilities}
 
 Figures \ref{fig:lda34-1-9} to \ref{fig:lda34-28-34} display the 10 stocks with the highest probability of being assigned to each Topic.  It should be noted that the order of each topic number is purely arbitrary, and nothing should be read in the rank-order of the different topics, nor the relative distance between topic numbers \citep{Silge2018}.  
 
@@ -234,44 +234,104 @@ On the other hand, this 34 topic LDA gives us topics that would appear superfici
 \end{figure}
 
 
-\subsection{Gama table}
+\subsection{Per-Document-Per-Topic Probabilities}
 
-The per-document-per-topic probabilities is found in gamma table of the output.  This table aggregates each stock's probability of belonging to a topic for each investor and thus gives the probability of each investor of belonging to each topic.  The aggregate probability of each topic is displayed in Tables \ref{tab:Topics_investors_2013-2014} to \ref{tab:Topics_investors_2017-2018}, giving us an idea of how the popularity of each topic fares over time.  For example, Topic 26 saw a precipitous decline from 172.40 to 14.15 aggregate investor probability of belonging to this topic, conversely Topic 23 grew from 3.58 to 198.21 in this same metric.  
+The per-document-per-topic probabilities are found in gamma table of the output.  This table aggregates each stock's probability of belonging to a topic for each investor and thus gives the probability of each investor of belonging to each topic.  The aggregate probability of each topic is displayed in Tables \ref{tab:Topics_investors_2013-2014} to \ref{tab:Topics_investors_2017-2018}, giving us an idea of how the popularity of each topic fares over time.  For example, Topic 26 saw a precipitous decline from 172.40 to 14.15 aggregate investor probability of belonging to this topic, conversely Topic 23 grew from 3.58 to 198.21 in this same metric.  
 
-Given that the investors were already geocoded in a previous chapter, the investors' topic probability was aggregated by State, and figures \ref{fig:StateLDA1} to \ref{fig:StateLDA34} were created using the geofacet package in R. These geofacet maps allows for the thematic representation of line graphs in a geometric patters that resembles the adjacency of US States, offering easier insights into the evolution of a topic over time than a series of choropleth maps.  
+Given that the investors were already geocoded in a previous chapter, the investors' topic probability was aggregated by State, and Figures \ref{fig:StateLDA1} to \ref{fig:StateLDA34} were created using the geofacet package in R. These geofacet maps allows for the thematic representation of line graphs in a geometric patters that resembles the adjacency of US States, facilitating an easier to grok representation of the data than a series of choropleth maps representing different time slices.  
 
-Looking deeply at the aggregate investor probability tables gives hints at why  certain seemingly related topics, such as Topics 10 and 13 -- high concentrations of ETFs -- as mentioned earlier might have a high thematic similarity, however these investors are given high probability classification to one topic have and a correspondingly low probability classification for the other topic.  Going back to the fundamentals of Modern Portfolio Theory (MPT) might give insights into this outcome, and we are simply seeing two broadly similar strategies that are conceptually similar, but use different securities in the process.  Furthermore, a look at the tables \ref{tab:Topics_investors_2013-2014} to \ref{tab:Topics_investors_2017-2018} indicates that these topics are getting more followers over time, however figures \ref{fig:StateLDA10} and \ref{fig:StateLDA13} show that this growth is geographically uneven, given that Topic 13 has most of its growth coming from investors located outside of New York State than is the case with Topic 10. 
+Looking deeply at the aggregate investor probability tables offer hints at why  certain seemingly related topics, such as Topics 10 and 13 -- high concentrations of ETFs -- as mentioned earlier might have a high thematic similarity, however these investors are given high probability classification to one topic and have a correspondingly low probability classification for the other topic.  Going back to the fundamentals of Modern Portfolio Theory (MPT) might give insights into this outcome, and we are simply seeing two broadly similar strategies that are conceptually similar, but use different securities in the process.  Furthermore, a look at the tables \ref{tab:Topics_investors_2013-2014} to \ref{tab:Topics_investors_2017-2018} indicates that these topics are getting more followers over time, however figures \ref{fig:StateLDA10} and \ref{fig:StateLDA13} show that this growth is geographically uneven, given that Topic 13 has most of its growth coming from investors located outside of New York State than is the case with Topic 10. 
+
+In a more general sense, the maps from Figure \ref{fig:StateLDA1} to \ref{fig:StateLDA34} are a reflection of the national locational trends seen in Chapter \ref{ChapterIII} (Exploring the Data), in that institutional investor firms prefer to locate in places where there are already other institutional investors (mainly NY and to some extent California, Massachusetts and Texas).  Furthermore, this fractional accounting of investment firms by percentage probability of belonging to an investment strategy will reflect this reality.  That being said, this isn't really surprising in light of the literature on location decisions.  \cite{covalthe2001} show that it was the smaller investors that had out-sized returns from pursuing locality-based investment strategies, and that these strategies -- due to the required personal interaction -- would be very hard to scale up.  Secondly, the reliance of HQ location for tying an investor to their location does not preclude an investor having an oil specialist in Houston or Calgary for their oil portfolio research. 
+
+Overall, what does this mean?  Best practices and strategies tend to homogenize portfolios.  Some strategies might be geographically concentrated to a certain extent, but the nature of trading as it is currently practiced has reduced the friction of information transfer, and thus while not quite unshackling the geography of trading, has added additional links to the chains. 
+
+\section{Shift-Share}
+
+Shift-share is a technique used in econometrics and regional studies developed by Edgar Dunn Jr. to ascribe changes in the share of a particular sector of the local economy into 3 main factors: a national factor, that is to say how the global economy is doing, an industry factor, that is to say how well a particular industry is doing, and a regional factor, that is to say taking into account the national and industry trends \citep{dunn1960statistical}.   This last factor is important, since it allows various regions to see how they are doing relative to the set of global and industry headwinds, such that for an industry in decline, a regional decline of 3\% in an industry declining 10\% with a national economy growing by 2\% is doing relatively well all things considered.  Similarly, the use of regional shifts to measure how well a region is doing with regards to an investment topic is useful for determining how well a given strategy is doing when keeping with the investment topic and the national trends. 
+
+The equation for shift share is as follows:
+\begin{equation}
+   e^{t+n}_{i} - e^{t}_{i} = NS_{i} + IM_{i} + RS_{i}
+    \label{Eq:Shft_share}
+\end{equation}
+
+Where $e$ is the shift-share in industry $i$ between the time periods $t$ and $t+n$.  This shift-share is the sum of the three effects: national growth effect ($NS_{i}$), the industry mix effect ($IM_{i}$) and the local shift ($RS_{i}$). 
+
+The national share is calculated as follows:
+
+\begin{equation}
+    NS = e^{r}_{i}g^{n}
+    \label{Eq:NationalShare}
+\end{equation}
+
+The industry mix is calculated as follows:
+\begin{equation}
+    IM = e^{r}_{i}(g^{n}_{i} - g^{n})
+    \label{Eq:IndustryMix}
+\end{equation}
+and the regional shift is calculated as follows: 
+\begin{equation}
+    RS =  e^{r}_{i}(g^{r}_{i} - g^{n}_{i})
+    \label{Eq:RegionalShare}
+\end{equation}
+
+Where $e^{r}_{i}$ is the value in Sector $i$ in Region $r$ at the beginning of the period, $g^{n}$ is the growth rate for the value for the total area under study over the time period, $g^{n}_{i}$ is the growth rate of Sector $i$ for the total area under study for the time period, and $g^{r}_{i}$ growth rate in sector $i$ in Region $r$ for the time period. \citep{Houston67}. 
+
+\subsection{Dynamic Shift-Share}
+
+However, as the release of data became more granular, both in terms of time period and geography, a more nuanced version of shift-share was developed: the dynamic shift-share.  This version of shift-share takes into account the period to period fluctuations by performing the shift-share in a time-series and adding together all of the shifts \citep{BarffKnight88}.  Since this model uses a time-series, it is less vulnerable to effects caused by choosing the start and end years. Furthermore, \cite{BarffKnight88} and \cite{harris1994dynamic} show that the use of a dynamic shift-share with regular reporting periods (as is the case of 13F-HR data) means that there is less of a compounding effect. That is to say that one abnormally large change in a short period of time in the data creates an change in regional-shift that is disproportional to the underlying trend. In this case, this could be exemplified by the start-up of one large fund entering the data-set and having a profound quarter-to-quarter change in the data during the quarter it entered and then returning to a national growth rate.  The dynamic shift-share is better prepared to deal with this type of data intrusion.  
+
+The dynamic shift-share is written as follows:
+
+\begin{equation}
+    e^{t+n}_{i} - e^{t}_{i} = NS_{i} + IM_{i} + RS_{i}
+\end{equation}
+
+If the study period ranges from year $t$ to year $t+n$, the traditional shift-share effects are calculated for every year $k$, where k spans from $t+1$ to $t+n$. 
+
+\begin{equation}
+    NS_{i} = \sum_{k=t+1}^{t+n}[e^{k-1}_{i}(G^{k})]
+    \label{Eq:NationalShare_dynamic}
+\end{equation}
+
+\begin{equation}
+    IM_{i} = \sum_{k=t+1}^{t+n}[e^{k-1}_i(G^{k}_{i}-G^{k})]
+     \label{Eq:IndustryMix_dynamic}
+\end{equation}
+
+\begin{equation}
+    RS_{i} = \sum_{k=t+1}^{t+n}[e^{k-1}_i(g^{k}_{i} - G^{k}_{i} )]
+        \label{Eq:RegionalShare_dynamic}
+\end{equation}
+
+For the dynamic model shift-share, Equation \ref{Eq:NationalShare_dynamic} replaces Equation \ref{Eq:NationalShare} for the national share, Equation \ref{Eq:IndustryMix_dynamic} replaces Equation \ref{Eq:IndustryMix}  for the industry mix and Equation \ref{Eq:RegionalShare_dynamic} replaces Equation \ref{Eq:RegionalShare} for the regional share.  The dynamic model shift-share is then calculated at the sum of the annual effects \citep{BarffKnight88}.  
+
+In this case, rather than calculate yearly effects for $k$, this application of the dynamic shift-share used each quarterly filing between the second quarter of 2013 to the fourth quarter of 2018, therefore creating 23 discreet time steps.
+
+\todo{new material}
+In order to get the values for the shift share, each 
+\todo{end}
+
+
+The analysis was performed using \cite{Soudis2019} R package implementation for dynamic shift-share. The holdings of each portfolio was weighted by the $\beta$ of each topic/portfolio archetype as determined by the 34 topic LDA analysis, and summed by relevant geography. The results in tabular form are in Appendix \ref{appendix:shiftshare}.
+
+By taking the regional shift values and then mapping them onto a map of the USA, this displays the local/regional effects of a given topic/portfolio archetype in a given geography while keeping the overall growth of the stock market and the varying popularity of a particular strategy constant. In order to minimize the role of outlier-values over-exposing the linear scale of the regional-shift, the regional shifts were binned into 10 categories using the Jenks method via the ClassInt package in R \citep{classInt}.  The Jenks method classifies continuous data by grouping them iteratively into $k$ groups such that it maximizes the square of variance between groups and minimizes the square of variance within groups \citep{jenks1967data}.  
 
 
 
 
+\section{Regional results}
 
+Throughout the ensemble of the 34 maps displaying the regional shifts for the continental USA, a re-occurring theme is that New York State and the State of California are often at odds with one-another. In the majority of these cases, New York State has a positive regional-shift value, and California has a corresponding negative shift value, whereas the reverse is only true in two cases: Topic 13 (majority Berkshire Hathaway) and Topic 32 (mostly broad sector and indexed ETFs).   The question then becomes, why is California suffering such as persistent subordinate position to New York, despite being ranked second in the number of firms and firm growth during the time period of 1999 to 2018?  
 
+New York is not only number 1 in terms of absolute number of new firms, but also these firms proportionally handle more money (see Chapter \ref{ChapterIII}).  While California's tech sector might be a massive economic engine, these investment firms growing in San Francisco and Los Angeles are smaller than the new firms in New York City and Manhattan in particular. This may be explained by leaning into New York City's historic role as the United States' financial centre: Wall Street and the Financial District.  Furthermore, the presence of Wall Street and the Financial District is further cemented by the wave of consolidation in the aftermath of the Great Financial Crisis of 2008 setting up operations in New York. In fact, New York is home to 5 of the 8 systemically important banks located in the USA\footnote{Morgan Stanley, JPMorgan Chase, Goldman Sachs, Citigroup and Bank of NY Mellon}, and 2 of the 3 other banks have substantial operations in New York\footnote{Wells Fargo has its official Headquarters in San Francisco and a substantial operation in the Seagram Building on Park Avenue,  Bank of America has substantial operations in New York in the Bank of America Tower on Sixth Avenue} \citep{FSB2019}. 
 
+As such, this hints strongly that while NYC may be in relative decline in terms of number of institutional investors in the USA, NYC is still the centre of gravity in the system.  
 
+-The dogs that don't bark - Boston and Chicago 
 
--As mentioned earlier, New York State the predominant location for investors, and this appears to be the case for most of the topics under study.   
-
-except Topic 29, 
-13 diffused
-15, more in Texas than Cali, NY still king
-16 Fades out over time
-
-
-
-
-
-
-
-\section{By State Results}
-
--shift share was calculated as follows:
-Each portfolio was weighted using the beta table 
-This weighted portfolio was aggrigated by State
-These state totals were used to perform Shift-Share.
-
-Since each state had at least one investors for the duration of the time period, there was no need to add the fudge factor in order to prevent the divide by zero problem.  This was nessessary for county level analysis, but since the principle county is highly reflective of the State. 
-
+Topic 13 is very strong in Missouri, Texas and Illinois, while weak in NY and CA.
 
 
 
@@ -303,9 +363,4 @@ Since each state had at least one investors for the duration of the time period,
 	\label{fig:shift-share_lda34-28-34}
 \end{figure}
 
-
-
-- Californa-New York are often at odds
-
-Topic 13 is very strong in Missouri, Texas and Illinois, while weak in NY and CA.
 
