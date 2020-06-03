@@ -77,11 +77,39 @@ month = {11},
 pages = {},
 title = {Is Venture Capital a regional business? - The role of syndication}
 }
+
+@Misc{FSB2019,
+  author = {{Financial Stability Board}},
+  year = {2019},
+  date   = {2019-11-22},
+  title  = {2019 list of global systemically important banks (G-SIBs) },
+  url    = {\url{https://www.fsb.org/wp-content/uploads/P221119-1.pdf}},
+}
+@article{jenks1967data,
+  title={The data model concept in statistical mapping},
+  author={Jenks, George F},
+  journal={International yearbook of cartography},
+  volume={7},
+  pages={186--190},
+  year={1967}
+}
+
+
+@article{dunn1960statistical,
+  title={A statistical and analytical technique for regional analysis},
+  author={Dunn Jr, Edgar S},
+  journal={Papers in Regional Science},
+  volume={6},
+  number={1},
+  pages={97--112},
+  year={1960},
+  publisher={Wiley Online Library}
+}
 @Misc{Crippen2010,
   author = {Alex Crippen},
   editor = {CNBC},
   date   = {2010-01-21},
-  title  = {Berkshire Hathaway ‘B’ Shares Soar After Split},
+  title  = {Berkshire Hathaway `B' Shares Soar After Split},
   note   = {\url{https://www.cnbc.com/2010/01/21/berkshire-hathaway-b-shares-soar-after-split.html}},
 }
 @Misc{Underwood2012,
@@ -3278,9 +3306,6 @@ at the Oxford China Business Forum, Beijing, 9 September 2010.},
   pages    = {430 - 461},
   url      = {http://www.sciencedirect.com/science/article/pii/S037887330700010X},
   volume   = {29},
-  abstract = {Well before the coming of the Internet, strong ties with friends and relatives stretched beyond the neighborhood: the traditional domain of community. Phones, cars and planes allowed people to have contact over substantial distances. But the mere fact that ties stretched over long distances does not tell us the extent to which distance mattered for contact and support in pre-Internet days. Although, scholars have mused about this question, they have not provided empirical evidence. This paper applies multi-level analysis to assess the extent contact and support declines with distance. It shows a marked drop in the frequency of face-to-face contact at about 5&} # xa0;miles. The frequency of contact continues to decrease steadily
-	further away, with substantial declines happening at about 50 and
-	100& #{xa0;miles. Distance affects telephone contact somewhat differently, with a marked drop only happening at about 100&#xa0;miles. Distance also has a significant impact on providing tangible support. As our data were gathered in 1978 in the Toronto area of East York, they allow comparisons with how relationships have changed in light of new forms of communication, such as the Internet and mobile phones.},
   journal  = {Social Networks},
   keywords = {Internet},
   year     = {2007},
