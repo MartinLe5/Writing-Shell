@@ -70,22 +70,20 @@ At this point, it is important to state that LDA assumes that language is a "bag
 	\item  Have you eaten my child\textinterrobang 
 \end{itemize}
 
-This study will be using LDA on Stock unique identifiers (CUSPI), the "bag of words" methodology works to our advantage, since the presented order of stocks in an institutional investor's portfolio will not influence the sorting algorithm. This relative location agnosticism is useful in this case, since unlike earth movers' distance classification, this method of classification is dependant on the initial relative distribution within the input variables, and therefore there is no need for a special ordering of stock positions in the input file.  
+This study will be using LDA on Stock unique identifiers (CUSIP), the "bag of words" methodology works to our advantage, since the presented order of stocks in an institutional investor's portfolio will not influence the sorting algorithm. This relative location agnosticism is useful in this case, since unlike earth movers' distance classification \citep{rubner2000earth}, this method of classification is dependant on the initial relative distribution within the input variables, and therefore there is no need for a special ordering of stock positions in the input file.  
 
 
 The LDA process is mapped out graphically in Figure \ref{fig:LDA_graphic} and written out in Equation \ref{LDAequation}. For each possible topic (Z), 
 
 
-
-
-
-
 \begin{equation}
-P(Z|W,D) = \dfrac{\# of words W in topic Z + \beta_{w}}{total tokens in Z + \beta}*(\# of words in D that belong to Z + \alpha)
+P(Z|W,D) = \dfrac{\# \text{ of words } W \text{ in topic } Z + \beta_{w}}{\text{total tokens in } Z + \beta}*(\# \text{ of words in } D \text{ that belong to } Z + \alpha)
 \label{LDAequation}
 \end{equation}
 
-\begin{figure}
+
+
+\begin{figure}[H]
 	\tikzset{every picture/.style={line width=0.75pt}} %set default line width to 0.75pt        
 	
 	\begin{tikzpicture}[x=0.75pt,y=0.75pt,yscale=-1,xscale=1]
@@ -152,15 +150,12 @@ P(Z|W,D) = \dfrac{\# of words W in topic Z + \beta_{w}}{total tokens in Z + \bet
 \end{figure}
 
 
-That being said, for the purpose of this study, the 
 
 
-Considering that we are training the model on  For our purpose of using LDA on stock portfolio, the relative ordering of the stocks has zero effect on the output, just the amount of each stock.  
 
-
-A closer analogue to using LDA is using this technique to classifying card selection in games such as Magic:The Gathering \citep{Hlynsson2017}.  This collectible card game uses 60 cards decks that are selected ahead of time.  Due the game's complex resource system and multiple different strategies for attacking one's opponent, cards are not fungible, and thus the game consolidates towards certain discreet collection of cards.  Similarly, the use LDA can be used to aggregate different stock portfolios into different investment strategies strategies.  
 
 \section{Preparing the Data}
+A closer analogue to using LDA is using this technique to classifying card selection in games such as Magic:The Gathering \citep{Hlynsson2017}.  This collectible card game uses 60 cards decks that are selected ahead of time by the player.  Due the game's complex resource system and multiple different strategies for attacking one's opponent, cards are not fungible, and thus the game consolidates towards certain discreet collection of cards.  Similarly, the use LDA can be used to aggregate different stock portfolios into different investment strategies strategies.  
 
 In order to conduct an LDA analysis, the data was taken from the XBRL database of 13-F HR database for the period of the second quarter of 2013 to the end of 2018.  The process used in collecting and cleaning this data was explained in Chapter \ref{Section:13F}.  
 
@@ -309,14 +304,10 @@ For the dynamic model shift-share, Equation \ref{Eq:NationalShare_dynamic} repla
 
 In this case, rather than calculate yearly effects for $k$, this application of the dynamic shift-share used each quarterly filing between the second quarter of 2013 to the fourth quarter of 2018, therefore creating 23 discreet time steps.
 
-\todo{new material}
-In order to get the values for the shift share, each 
-\todo{end}
-
 
 The analysis was performed using \cite{Soudis2019} R package implementation for dynamic shift-share. The holdings of each portfolio was weighted by the $\beta$ of each topic/portfolio archetype as determined by the 34 topic LDA analysis, and summed by relevant geography. The results in tabular form are in Appendix \ref{appendix:shiftshare}.
 
-By taking the regional shift values and then mapping them onto a map of the USA, this displays the local/regional effects of a given topic/portfolio archetype in a given geography while keeping the overall growth of the stock market and the varying popularity of a particular strategy constant. In order to minimize the role of outlier-values over-exposing the linear scale of the regional-shift, the regional shifts were binned into 10 categories using the Jenks method via the ClassInt package in R \citep{classInt}.  The Jenks method classifies continuous data by grouping them iteratively into $k$ groups such that it maximizes the square of variance between groups and minimizes the square of variance within groups \citep{jenks1967data}.  
+By taking the regional shift values and then mapping them onto a map of the USA, this displays the local/regional effects of a given topic/portfolio archetype in a given geography while keeping the overall growth of the stock market and the varying popularity of a particular strategy constant. In order to minimize the role of outlier-values over-exposing the linear scale of the regional-shift, the regional shifts were binned into 10 categories using the Jenks method via the ClassInt package in R \citep{classInt}.  The Jenks natural breaks method classifies continuous data by grouping them iteratively into $k$ groups such that it maximizes the square of variance between groups and minimizes the square of variance within groups \citep{jenks1967data}.  
 
 
 

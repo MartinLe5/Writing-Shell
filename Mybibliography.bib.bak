@@ -80,10 +80,10 @@ title = {Is Venture Capital a regional business? - The role of syndication}
 
 @Misc{FSB2019,
   author = {{Financial Stability Board}},
-  year = {2019},
   date   = {2019-11-22},
-  title  = {2019 list of global systemically important banks (G-SIBs) },
+  title  = {2019 list of global systemically important banks (G-SIBs)},
   url    = {\url{https://www.fsb.org/wp-content/uploads/P221119-1.pdf}},
+  year   = {2019},
 }
 @article{jenks1967data,
   title={The data model concept in statistical mapping},

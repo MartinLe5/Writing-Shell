@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.3.29)  3 JUN 2020 08:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.3.29)  3 JUN 2020 09:37
 entering extended mode
 **./main.tex
 (main.tex
@@ -1174,52 +1174,64 @@ LaTeX Warning: Reference `ChapterII' on page 8 undefined on input line 19.
 Underfull \vbox (badness 5446) has occurred while \output is active []
 
  [9]
-[10] [11]
+[10]
+
+Package natbib Warning: Citation `rubner2000earth' on page 11 undefined on inpu
+t line 73.
+
+[11]
+Overfull \hbox (5.16614pt too wide) detected at line 82
+\OML/cmm/m/it/12 P\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 Z\OMS/cmsy/m/n/12 j\OML/cmm
+/m/it/12 W; D\OT1/cmr/m/n/12 ) = [] \OMS/cmsy/m/n/12  \OT1/cmr/m/n/12 (#[]\OML
+/cmm/m/it/12 D[]Z \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 \OT1/cmr/m/n/12 )
+ []
+
+
+LaTeX Warning: Reference `Section:13F' on page 12 undefined on input line 160.
+
+[12] [13]
+
+Package natbib Warning: Citation `Buffet96' on page 14 undefined on input line 
+172.
+
+[14]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12]
-
-LaTeX Warning: Reference `Section:13F' on page 13 undefined on input line 165.
-
-[13] [14]
-
-Package natbib Warning: Citation `Buffet96' on page 15 undefined on input line 
-177.
-
-[15] [16]
-<Figures/ChapterV/TopicSelection.pdf, id=87, 794.97pt x 614.295pt>
+ [15]
+<Figures/ChapterV/TopicSelection.pdf, id=83, 794.97pt x 614.295pt>
 File: Figures/ChapterV/TopicSelection.pdf Graphic file (type pdf)
 <use Figures/ChapterV/TopicSelection.pdf>
 Package pdftex.def Info: Figures/ChapterV/TopicSelection.pdf  used on input lin
-e 189.
+e 184.
 (pdftex.def)             Requested size: 433.62001pt x 335.07939pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17 <./Figures/ChapterV/TopicSelection.pdf>]
+ [16]
+[17 <./Figures/ChapterV/TopicSelection.pdf>]
 <Figures/ChapterV/LDA34_1-9.pdf, id=96, 853.1875pt x 568.1225pt>
 File: Figures/ChapterV/LDA34_1-9.pdf Graphic file (type pdf)
 <use Figures/ChapterV/LDA34_1-9.pdf>
-Package pdftex.def Info: Figures/ChapterV/LDA34_1-9.pdf  used on input line 210
+Package pdftex.def Info: Figures/ChapterV/LDA34_1-9.pdf  used on input line 205
 .
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
 <Figures/ChapterV/LDA34_10_18.pdf, id=97, 853.1875pt x 568.1225pt>
 File: Figures/ChapterV/LDA34_10_18.pdf Graphic file (type pdf)
 <use Figures/ChapterV/LDA34_10_18.pdf>
 Package pdftex.def Info: Figures/ChapterV/LDA34_10_18.pdf  used on input line 2
-17.
+12.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
 <Figures/ChapterV/LDA34_19_27.pdf, id=98, 853.1875pt x 568.1225pt>
 File: Figures/ChapterV/LDA34_19_27.pdf Graphic file (type pdf)
 <use Figures/ChapterV/LDA34_19_27.pdf>
 Package pdftex.def Info: Figures/ChapterV/LDA34_19_27.pdf  used on input line 2
-24.
+19.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
 <Figures/ChapterV/LDA34_28_34.pdf, id=99, 853.1875pt x 568.1225pt>
 File: Figures/ChapterV/LDA34_28_34.pdf Graphic file (type pdf)
 <use Figures/ChapterV/LDA34_28_34.pdf>
 Package pdftex.def Info: Figures/ChapterV/LDA34_28_34.pdf  used on input line 2
-31.
+26.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1232,7 +1244,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [23]
 
-LaTeX Warning: Reference `ChapterIII' on page 24 undefined on input line 245.
+LaTeX Warning: Reference `ChapterIII' on page 24 undefined on input line 240.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1243,32 +1255,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [25]
 [26] [27] [28]
 
-LaTeX Warning: Reference `ChapterIII' on page 29 undefined on input line 328.
+LaTeX Warning: Reference `ChapterIII' on page 29 undefined on input line 319.
 
-[29]
-<Figures/ChapterV/States_01_09.jpg, id=180, 852.93657pt x 852.93657pt>
+<Figures/ChapterV/States_01_09.jpg, id=174, 852.93657pt x 852.93657pt>
 File: Figures/ChapterV/States_01_09.jpg Graphic file (type jpg)
 <use Figures/ChapterV/States_01_09.jpg>
 Package pdftex.def Info: Figures/ChapterV/States_01_09.jpg  used on input line 
-340.
+331.
 (pdftex.def)             Requested size: 433.62001pt x 433.62535pt.
-<Figures/ChapterV/States_10_18.jpg, id=182, 852.93657pt x 852.93657pt>
+[29]
+<Figures/ChapterV/States_10_18.jpg, id=181, 852.93657pt x 852.93657pt>
 File: Figures/ChapterV/States_10_18.jpg Graphic file (type jpg)
 <use Figures/ChapterV/States_10_18.jpg>
 Package pdftex.def Info: Figures/ChapterV/States_10_18.jpg  used on input line 
-347.
+338.
 (pdftex.def)             Requested size: 433.62001pt x 433.62535pt.
-<Figures/ChapterV/States_19_27.jpg, id=183, 852.93657pt x 852.93657pt>
+<Figures/ChapterV/States_19_27.jpg, id=182, 852.93657pt x 852.93657pt>
 File: Figures/ChapterV/States_19_27.jpg Graphic file (type jpg)
 <use Figures/ChapterV/States_19_27.jpg>
 Package pdftex.def Info: Figures/ChapterV/States_19_27.jpg  used on input line 
-354.
+345.
 (pdftex.def)             Requested size: 433.62001pt x 433.62535pt.
-<Figures/ChapterV/States_28_34.jpg, id=184, 852.93657pt x 852.93657pt>
+<Figures/ChapterV/States_28_34.jpg, id=183, 852.93657pt x 852.93657pt>
 File: Figures/ChapterV/States_28_34.jpg Graphic file (type jpg)
 <use Figures/ChapterV/States_28_34.jpg>
 Package pdftex.def Info: Figures/ChapterV/States_28_34.jpg  used on input line 
-361.
+352.
 (pdftex.def)             Requested size: 433.62001pt x 433.62535pt.
 ) [30] [31 <./Figures/ChapterV/States_01_09.jpg>] [32 <./Figures/ChapterV/State
 s_10_18.jpg>] [33 <./Figures/ChapterV/States_19_27.jpg>] [34 <./Figures/Chapter
@@ -1303,205 +1315,205 @@ Overfull \hbox (17.57623pt too wide) in paragraph at lines 97--135
 [][] 
  []
 
-<Figures/ChapterV/USA_34_Topic01.pdf, id=211, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic01.pdf, id=210, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic01.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic01.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic01.pdf  used on input lin
 e 145.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic02.pdf, id=212, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic02.pdf, id=211, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic02.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic02.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic02.pdf  used on input lin
 e 152.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic03.pdf, id=213, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic03.pdf, id=212, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic03.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic03.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic03.pdf  used on input lin
 e 159.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic04.pdf, id=214, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic04.pdf, id=213, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic04.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic04.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic04.pdf  used on input lin
 e 166.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic05.pdf, id=215, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic05.pdf, id=214, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic05.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic05.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic05.pdf  used on input lin
 e 173.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic06.pdf, id=216, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic06.pdf, id=215, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic06.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic06.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic06.pdf  used on input lin
 e 180.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic07.pdf, id=217, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic07.pdf, id=216, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic07.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic07.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic07.pdf  used on input lin
 e 187.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic08.pdf, id=218, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic08.pdf, id=217, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic08.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic08.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic08.pdf  used on input lin
 e 194.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic09.pdf, id=219, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic09.pdf, id=218, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic09.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic09.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic09.pdf  used on input lin
 e 201.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic10.pdf, id=220, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic10.pdf, id=219, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic10.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic10.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic10.pdf  used on input lin
 e 208.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic11.pdf, id=221, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic11.pdf, id=220, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic11.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic11.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic11.pdf  used on input lin
 e 215.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic12.pdf, id=222, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic12.pdf, id=221, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic12.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic12.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic12.pdf  used on input lin
 e 222.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic13.pdf, id=223, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic13.pdf, id=222, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic13.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic13.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic13.pdf  used on input lin
 e 229.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic14.pdf, id=224, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic14.pdf, id=223, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic14.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic14.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic14.pdf  used on input lin
 e 236.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic15.pdf, id=225, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic15.pdf, id=224, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic15.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic15.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic15.pdf  used on input lin
 e 243.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic16.pdf, id=226, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic16.pdf, id=225, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic16.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic16.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic16.pdf  used on input lin
 e 250.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic17.pdf, id=227, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic17.pdf, id=226, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic17.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic17.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic17.pdf  used on input lin
 e 257.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic18.pdf, id=228, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic18.pdf, id=227, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic18.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic18.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic18.pdf  used on input lin
 e 264.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic19.pdf, id=229, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic19.pdf, id=228, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic19.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic19.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic19.pdf  used on input lin
 e 271.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic20.pdf, id=230, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic20.pdf, id=229, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic20.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic20.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic20.pdf  used on input lin
 e 278.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic21.pdf, id=231, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic21.pdf, id=230, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic21.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic21.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic21.pdf  used on input lin
 e 285.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic22.pdf, id=232, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic22.pdf, id=231, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic22.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic22.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic22.pdf  used on input lin
 e 292.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic23.pdf, id=233, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic23.pdf, id=232, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic23.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic23.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic23.pdf  used on input lin
 e 299.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic24.pdf, id=234, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic24.pdf, id=233, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic24.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic24.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic24.pdf  used on input lin
 e 306.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic25.pdf, id=235, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic25.pdf, id=234, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic25.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic25.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic25.pdf  used on input lin
 e 313.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic26.pdf, id=236, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic26.pdf, id=235, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic26.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic26.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic26.pdf  used on input lin
 e 320.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic27.pdf, id=237, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic27.pdf, id=236, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic27.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic27.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic27.pdf  used on input lin
 e 327.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic28.pdf, id=238, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic28.pdf, id=237, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic28.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic28.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic28.pdf  used on input lin
 e 334.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic29.pdf, id=239, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic29.pdf, id=238, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic29.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic29.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic29.pdf  used on input lin
 e 341.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic30.pdf, id=240, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic30.pdf, id=239, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic30.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic30.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic30.pdf  used on input lin
 e 348.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic31.pdf, id=241, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic31.pdf, id=240, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic31.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic31.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic31.pdf  used on input lin
 e 355.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic32.pdf, id=242, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic32.pdf, id=241, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic32.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic32.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic32.pdf  used on input lin
 e 362.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic33.pdf, id=243, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic33.pdf, id=242, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic33.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic33.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic33.pdf  used on input lin
 e 369.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic34.pdf, id=244, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic34.pdf, id=243, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic34.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic34.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic34.pdf  used on input lin
@@ -1561,13 +1573,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 28824 strings out of 492945
- 559555 string characters out of 3135513
- 803565 words of memory out of 3000000
- 32218 multiletter control sequences out of 15000+200000
+ 28752 strings out of 492945
+ 557967 string characters out of 3135513
+ 803566 words of memory out of 3000000
+ 32146 multiletter control sequences out of 15000+200000
  543559 words of font info for 67 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 65i,9n,115p,1914b,1051s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 65i,9n,115p,1914b,820s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\marti\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
 tcrm1200.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.
 pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/
@@ -1575,16 +1587,15 @@ Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program
 Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (110 pages, 1594627 bytes).
+1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on main.pdf (110 pages, 1582301 bytes).
 PDF statistics:
- 704 PDF objects out of 1000 (max. 8388607)
+ 700 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  324 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -10,6 +10,7 @@ Warning--entry type for "Whale_Watching_CNBC_12" isn't style-file defined
 --line 4806 of file Mybibliography.bib
 Warning--entry type for "Chen2011" isn't style-file defined
 --line 5756 of file Mybibliography.bib
+Warning--I didn't find a database entry for "rubner2000earth"
 Warning--I didn't find a database entry for "Buffet96"
 Warning--no journal in blei2003latent
 Warning--no number and no volume in blei2003latent
@@ -21,4 +22,4 @@ Warning--page numbers missing in harris1994dynamic
 Warning--empty organization in LDAtuning
 Warning--empty organization in LDAvis
 Warning--empty organization in Soudis2019
-(There were 14 warnings)
+(There were 15 warnings)

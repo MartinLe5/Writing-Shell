@@ -5425,7 +5425,15 @@ at the Oxford China Business Forum, Beijing, 9 September 2010.},
   year      = {1974},
 }
 
-@Article{,
+@Article{rubner2000earth,
+  author    = {Rubner, Yossi and Tomasi, Carlo and Guibas, Leonidas J},
+  title     = {The earth mover's distance as a metric for image retrieval},
+  number    = {2},
+  pages     = {99--121},
+  volume    = {40},
+  journal   = {International journal of computer vision},
+  publisher = {Springer},
+  year      = {2000},
 }
 
 @Article{Semple85,
