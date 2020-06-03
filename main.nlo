@@ -1,22 +1,4 @@
-\nomenclatureentry{aSEA of 1934@[{SEA of 1934}]\begingroup Securities Exchange Act of 1934\nomeqref {1.0}|nompageref}{15}
-\nomenclatureentry{aSEC@[{SEC}]\begingroup Securities and Exchange Commission\nomeqref {1.0}|nompageref}{20}
-\nomenclatureentry{aEMH@[{EMH}]\begingroup Efficient Market Hypothesis\nomeqref {1.0}|nompageref}{22}
-\nomenclatureentry{aQLT@[{QLT}]\begingroup Quaternary Location Theory\nomeqref {1.0}|nompageref}{24}
-\nomenclatureentry{aOLS@[{OLS}]\begingroup ordinary least squares\nomeqref {1.0}|nompageref}{25}
-\nomenclatureentry{aFIRE@[{FIRE}]\begingroup Finance, Insurance and Real Estate\nomeqref {1.0}|nompageref}{30}
-\nomenclatureentry{aCBD@[{CBD}]\begingroup Central Business District\nomeqref {1.0}|nompageref}{30}
-\nomenclatureentry{aCIK@[{CIK}]\begingroup Central Index Key\nomeqref {2.0}|nompageref}{35}
-\nomenclatureentry{aUSD@[{USD}]\begingroup United States Dollar\nomeqref {2.0}|nompageref}{38}
-\nomenclatureentry{aNASDAQ@[{NASDAQ}]\begingroup National Association of Securities Dealers Automated Quotations Composite\nomeqref {2.0}|nompageref}{41}
-\nomenclatureentry{aS\&P 500@[{S\&P 500}]\begingroup The Standard and Poors 500 Index\nomeqref {2.0}|nompageref}{41}
-\nomenclatureentry{aDJIA@[{DJIA}]\begingroup Dow Jones Industrial Average\nomeqref {2.0}|nompageref}{41}
-\nomenclatureentry{aDOW@[{DOW}]\begingroup Dow Jones Industrial Average\nomeqref {2.0}|nompageref}{41}
-\nomenclatureentry{aEDA@[{EDA}]\begingroup Exploratory Data Analysis\nomeqref {3.0}|nompageref}{45}
-\nomenclatureentry{aCBSA@[{CBSA}]\begingroup Core-Based Statistical Area\nomeqref {3.0}|nompageref}{51}
-\nomenclatureentry{aMAP@[{MAP}]\begingroup Modifiable Areal Problem\nomeqref {3.0}|nompageref}{60}
-\nomenclatureentry{aBos-Ny-Wash@[{Bos-Ny-Wash}]\begingroup Boston-New York-Washington DC Megaregion\nomeqref {3.0}|nompageref}{63}
-\nomenclatureentry{aRMSE@[{RMSE}]\begingroup Root Mean Square Error\nomeqref {3.5}|nompageref}{80}
-\nomenclatureentry{aMPT@[{MPT}]\begingroup Modern Portfolio Theory\nomeqref {5.0}|nompageref}{137}
-\nomenclatureentry{aVAR@[{VAR}]\begingroup Value at Risk\nomeqref {5.0}|nompageref}{138}
-\nomenclatureentry{aLDA@[{LDA}]\begingroup Latent Dirichlet allocation\nomeqref {5.0}|nompageref}{139}
-\nomenclatureentry{aLDA@[{LDA}]\begingroup Latent Dirichlet allocation\nomeqref {5.0}|nompageref}{139}
+\nomenclatureentry{aMPT@[{MPT}]\begingroup Modern Portfolio Theory\nomeqref {1.0}|nompageref}{7}
+\nomenclatureentry{aVAR@[{VAR}]\begingroup Value at Risk\nomeqref {1.0}|nompageref}{8}
+\nomenclatureentry{aLDA@[{LDA}]\begingroup Latent Dirichlet allocation\nomeqref {1.0}|nompageref}{9}
+\nomenclatureentry{aLDA@[{LDA}]\begingroup Latent Dirichlet allocation\nomeqref {1.0}|nompageref}{9}

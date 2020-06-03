@@ -1,10 +1,5 @@
 \begin{thebibliography}{}
 
-\bibitem[\protect\citeauthoryear{Appelbaum, Hilzenrath, and Paley}{Appelbaum
-  et~al.}{2008}]{Appelbaum2008}
-Appelbaum, B., D.~S. Hilzenrath, and A.~R. Paley (2008).
-\newblock {'All Just One Big Lie'}.
-
 \bibitem[\protect\citeauthoryear{Arun, Suresh, Veni~Madhavan, and
   Narasimha~Murthy}{Arun et~al.}{2010}]{Arun2010}
 Arun, R., V.~Suresh, C.~E. Veni~Madhavan, and M.~N. Narasimha~Murthy (2010).
@@ -14,43 +9,17 @@ Arun, R., V.~Suresh, C.~E. Veni~Madhavan, and M.~N. Narasimha~Murthy (2010).
   Advances in Knowledge Discovery and Data Mining}, Berlin, Heidelberg, pp.\
   391--402. Springer Berlin Heidelberg.
 
-\bibitem[\protect\citeauthoryear{Bachelier}{Bachelier}{1900}]{Bachelier1900}
-Bachelier, L. (1900).
-\newblock Th\'{e}orie the la sp\'{e}culation.
-\newblock {\em Annales scientifiques de l'\'{E}.N.S. 3e s\'{e}rie\/}~{\em tome
-  17}, p. 21--86.
+\bibitem[\protect\citeauthoryear{Barff and {Knight III}}{Barff and {Knight
+  III}}{1988}]{BarffKnight88}
+Barff, R.~A. and P.~L. {Knight III} (1988).
+\newblock Dynamic shift-share analysis.
+\newblock {\em Growth and Change\/}~{\em 19\/}(2), 1--10.
 
-\bibitem[\protect\citeauthoryear{Baddeley, Rubak, and Turner}{Baddeley
-  et~al.}{2015}]{spatstatBook}
-Baddeley, A., E.~Rubak, and R.~Turner (2015).
-\newblock {\em Spatial Point Patterns: Methodology and Applications with {R}}.
-\newblock London: Chapman and Hall/CRC.
-
-\bibitem[\protect\citeauthoryear{Bagli}{Bagli}{2011}]{NYT_2011}
-Bagli, C.~V. (2011).
-\newblock {Regretting Move, Bank May Return to Manhattan}.
-\newblock New York Times
-  \url{http://www.nytimes.com/2011/06/09/nyregion/ubs-may-move-back-to-manhattan-from-stamford.html}.
-
-\bibitem[\protect\citeauthoryear{BarclayHedge}{BarclayHedge}{2018}]{BarclayHedge2018}
-BarclayHedge (2018).
-\newblock Hedge fund assets under management.
-\newblock
-  \url{https://www.barclayhedge.com/solutions/assets-under-management/hedge-fund-assets-under-management/hedge-fund-industry/}
-  (Acessed on 2018-12-22).
-
-\bibitem[\protect\citeauthoryear{Birch, Oom, and Beecham}{Birch
-  et~al.}{2007}]{birch2007rectangular}
-Birch, C.~P., S.~P. Oom, and J.~A. Beecham (2007).
-\newblock Rectangular and hexagonal grids used for observation, experiment and
-  simulation in ecology.
-\newblock {\em Ecological modelling\/}~{\em 206\/}(3-4), 347--359.
-
-\bibitem[\protect\citeauthoryear{Bivand, Keitt, and Rowlingson}{Bivand
-  et~al.}{2015}]{rgdal}
-Bivand, R., T.~Keitt, and B.~Rowlingson (2015).
-\newblock {\em {rgdal: Bindings for the Geospatial Data Abstraction Library}}.
-\newblock R package version 0.9-2.
+\bibitem[\protect\citeauthoryear{Bivand}{Bivand}{2013}]{classInt}
+Bivand, R. (2013).
+\newblock {\em {classInt: Choose Univariate Class Intervals}}.
+\newblock R package.
+\newblock version 0.1-21.
 
 \bibitem[\protect\citeauthoryear{Blei, Ng, and Jordan}{Blei
   et~al.}{2003}]{blei2003latent}
@@ -62,57 +31,14 @@ Blei, D.~M. (2012, April).
 \newblock Probabilistic topic models.
 \newblock {\em Commun. ACM\/}~{\em 55\/}(4), 77--84.
 
-\bibitem[\protect\citeauthoryear{Blume and Keim}{Blume and
-  Keim}{2012}]{Blume2012}
-Blume, M.~E. and D.~B. Keim (2012).
-\newblock {Institutional Investors and Stock Market Liquidity: Trends and
-  Relationships}.
-
-\bibitem[\protect\citeauthoryear{Bodenman}{Bodenman}{1998}]{bodenmanthe1998}
-Bodenman, J.~E. (1998).
-\newblock {The Suburbanization of the Institutional Investment Advisory
-  Industry: Metropolitan Philadelphia, 1983--1993}.
-\newblock {\em The Professional Geographer\/}~{\em 50\/}(1), 112--126.
-
-\bibitem[\protect\citeauthoryear{Bodenman}{Bodenman}{2000}]{bodenmanfirm2000}
-Bodenman, J.~E. (2000).
-\newblock {Firm Characteristics and Location: The Case of the Institutional
-  Investment Advisory Industry in the United States, 1983 -- 1996}.
-\newblock {\em Papers in Regional Science\/}~{\em 79\/}(1), 33--56.
-
-\bibitem[\protect\citeauthoryear{Bradley, Pantzalis, and Yuan}{Bradley
-  et~al.}{2016}]{Bradley2016}
-Bradley, D., C.~Pantzalis, and X.~Yuan (2016).
-\newblock {The influence of political bias in state pension funds}.
-\newblock {\em Journal of Financial Economics\/}~{\em 119\/}(1), 69--91.
-
 \bibitem[\protect\citeauthoryear{Brodie}{Brodie}{2013}]{cramerwhale}
 Brodie, L. (2013, May).
 \newblock {Cramer: Don't Fall for Whale Watching `Nonsense'!}
 \newblock \url{http://www.cnbc.com/id/100744278}.
 
-\bibitem[\protect\citeauthoryear{Brody, Rip, Vinten-Johansen, Paneth, and
-  Rachman}{Brody et~al.}{2000}]{brody2000map}
-Brody, H., M.~R. Rip, P.~Vinten-Johansen, N.~Paneth, and S.~Rachman (2000).
-\newblock Map-making and myth-making in broad street: the london cholera
-  epidemic, 1854.
-\newblock {\em The Lancet\/}~{\em 356\/}(9223), 64--68.
-
 \bibitem[\protect\citeauthoryear{Brody}{Brody}{2012}]{Whale_Watching_CNBC_12}
 Brody, L. (2012).
 \newblock Wall street whale watching: 13f filings flood street.
-
-\bibitem[\protect\citeauthoryear{Brunsdon and Comber}{Brunsdon and
-  Comber}{2015}]{brunsdon2015introduction}
-Brunsdon, C. and L.~Comber (2015).
-\newblock {\em An introduction to R for spatial analysis and mapping}.
-\newblock Sage.
-
-\bibitem[\protect\citeauthoryear{Calomiris}{Calomiris}{2000}]{Calomiris2000}
-Calomiris, C.~W. (2000).
-\newblock {\em U.S. bank deregulation in historical perspective}.
-\newblock New York: Cambridge University Press.
-\newblock 359 pages.
 
 \bibitem[\protect\citeauthoryear{Cao, Xia, Li, Zhang, and Tang}{Cao
   et~al.}{2009}]{CAO2009}
@@ -121,40 +47,9 @@ Cao, J., T.~Xia, J.~Li, Y.~Zhang, and S.~Tang (2009).
 \newblock {\em Neurocomputing\/}~{\em 72\/}(7), 1775 -- 1781.
 \newblock Advances in Machine Learning and Computational Intelligence.
 
-\bibitem[\protect\citeauthoryear{{Capital IQ Compustat}}{{Capital IQ
-  Compustat}}{2019}]{Compustat}
-{Capital IQ Compustat} (2019).
-\newblock Compustat data.
-
-\bibitem[\protect\citeauthoryear{Cashman, Harrison, Seiler, and Sheng}{Cashman
-  et~al.}{2017}]{Cashman2017}
-Cashman, G.~D., D.~M. Harrison, M.~J. Seiler, and H.~Sheng (2017).
-\newblock {The Impact of Geographic and Cultural Dispersion on Information
-  Opacity}.
-\newblock {\em Journal of Real Estate Finance and Economics\/}, 1--43.
-
 \bibitem[\protect\citeauthoryear{Chen}{Chen}{2011}]{Chen2011}
 Chen, E. (2011).
 \newblock Introduction to latent dirichlet allocation.
-
-\bibitem[\protect\citeauthoryear{Choe, Kho, and Stulz}{Choe
-  et~al.}{2005}]{choedo2004}
-Choe, H., B.-C. Kho, and R.~M. Stulz (2005).
-\newblock {Do Domestic Investors Have an Edge? The Trading Experience of
-  Foreign Investors in Korea}.
-\newblock {\em Review of Financial Studies\/}~{\em 18\/}(3), 795--829.
-
-\bibitem[\protect\citeauthoryear{Chow}{Chow}{1960}]{Chow1960}
-Chow, G.~C. (1960).
-\newblock Tests of equality between sets of coefficients in two linear
-  regressions.
-\newblock {\em Econometrica\/}~{\em 28\/}(3), 591--605.
-
-\bibitem[\protect\citeauthoryear{Clark}{Clark}{2005}]{clarkmoney2005}
-Clark, G.~L. (2005).
-\newblock {Money Flows Like Mercury: The Geography of Global Finance}.
-\newblock {\em Geografiska Annaler: Series B, Human Geography\/}~{\em 87\/}(2),
-  99--112.
 
 \bibitem[\protect\citeauthoryear{Cohen, Frazzini, and Malloy}{Cohen
   et~al.}{2008}]{Cohen2008}
@@ -162,20 +57,6 @@ Cohen, L., A.~Frazzini, and C.~Malloy (2008).
 \newblock The small world of investing: Board connections and mutual fund
   returns.
 \newblock {\em Journal of Political Economy\/}~{\em 116\/}(5), 951--979.
-
-\bibitem[\protect\citeauthoryear{Courtault, Kabanov, Bru, Cr{\'{e}}pel, Lebon,
-  and {Le Marchand}}{Courtault et~al.}{2000}]{Courtault2000}
-Courtault, J.-M., Y.~Kabanov, B.~Bru, P.~Cr{\'{e}}pel, I.~Lebon, and A.~{Le
-  Marchand} (2000).
-\newblock Louis bachelier on the centenary of th{\'{e}}orieth´th{\'{e}}orie de
-  la sp{\'{e}}culationsp´sp{\'{e}}culation.
-\newblock {\em Mathematical Finance\/}~{\em 10\/}(3), 341--353.
-
-\bibitem[\protect\citeauthoryear{Coval and Moskowitz}{Coval and
-  Moskowitz}{1999}]{covalhome1999}
-Coval, J.~D. and T.~J. Moskowitz (1999).
-\newblock {Home Bias at Home: Local Equity Preference in Domestic Portfolios}.
-\newblock {\em The Journal of Finance\/}~{\em 54\/}(6), 2045--2073.
 
 \bibitem[\protect\citeauthoryear{Coval and Moskowitz}{Coval and
   Moskowitz}{2001}]{covalthe2001}
@@ -189,37 +70,6 @@ Crippen, A.
 \newblock
   \url{https://www.cnbc.com/2010/01/21/berkshire-hathaway-b-shares-soar-after-split.html}.
 
-\bibitem[\protect\citeauthoryear{Crymble}{Crymble}{2019}]{Crymble19}
-Crymble, A. (2019).
-\newblock Introduction to gravity models of migration \& trade.
-\newblock {\em The Programming Historian 8\/}.
-
-\bibitem[\protect\citeauthoryear{Dallos}{Dallos}{1974a}]{Dallos74a}
-Dallos, R.~E. (1974a, Dec 07).
-\newblock Bad times thin herd at broker convention.
-\newblock Copyright - Copyright Times Mirror Company Dec 7, 1974; Last updated
-  - 2010-05-31.
-
-\bibitem[\protect\citeauthoryear{Dallos}{Dallos}{1974b}]{Dallos74}
-Dallos, R.~E. (1974b, Dec 06).
-\newblock Securities leaders rapped for killing industry overhaul.
-\newblock Copyright - Copyright Times Mirror Company Dec 6, 1974; Last updated
-  - 2010-05-31.
-
-\bibitem[\protect\citeauthoryear{Davis and Steil}{Davis and
-  Steil}{2001}]{Davis2001}
-Davis, E.~P. and B.~Steil (2001).
-\newblock {\em {Institutional Investors}}.
-\newblock Cambridge, Mass.: MIT Press.
-\newblock 524 pages.
-
-\bibitem[\protect\citeauthoryear{Dear and Flusty}{Dear and
-  Flusty}{1998}]{dearpostmodern1998}
-Dear, M. and S.~Flusty (1998).
-\newblock {Postmodern Urbanism}.
-\newblock {\em Annals of the Association of American Geographers\/}~{\em
-  88\/}(1), 50--72.
-
 \bibitem[\protect\citeauthoryear{Deveaud, SanJuan, and Bellot}{Deveaud
   et~al.}{2014}]{deveaud2014}
 Deveaud, R., E.~SanJuan, and P.~Bellot (2014).
@@ -227,51 +77,10 @@ Deveaud, R., E.~SanJuan, and P.~Bellot (2014).
   retrieval.
 \newblock {\em Document num{\'e}rique\/}~{\em 17\/}(1), 61--84.
 
-\bibitem[\protect\citeauthoryear{Dixon}{Dixon}{2014}]{dixon2014r}
-Dixon, P.~M. (2014).
-\newblock R ipley's k function.
-\newblock {\em Wiley StatsRef: Statistics Reference Online\/}.
-
-\bibitem[\protect\citeauthoryear{Dvo\v{r}\'{a}k}{Dvo\v{r}\'{a}k}{2005}]{Dovak2005}
-Dvo\v{r}\'{a}k, T. (2005).
-\newblock {Do Domestic Investors Have an Information Advantage? Evidence from
-  Indonesia}.
-\newblock {\em The Journal of Finance\/}~{\em 60\/}(2), 817--839.
-
-\bibitem[\protect\citeauthoryear{Easley and O'Hara}{Easley and
-  O'Hara}{2011}]{Easley2011}
-Easley, D. and M.~O'Hara (2011).
-\newblock {Opaque Trading and Asset Prices}.
-\newblock {\em papers.ssrn.com\/}.
-
-\bibitem[\protect\citeauthoryear{Eckel, L{\"{o}}ffler, Maurer, and
-  Schmidt}{Eckel et~al.}{2011}]{Eckel2011}
-Eckel, S., G.~L{\"{o}}ffler, A.~Maurer, and V.~Schmidt (2011).
-\newblock {Measuring the effects of geographical distance on stock market
-  correlation}.
-\newblock {\em Journal of Empirical Finance\/}~{\em 18\/}(2), 237--247.
-
-\bibitem[\protect\citeauthoryear{ESRI}{ESRI}{2019}]{Esri}
-ESRI (2019).
-\newblock {\em ArcGIS Desktop: Release 10.6.}
-\newblock Redlands, CA.
-
-\bibitem[\protect\citeauthoryear{Fama}{Fama}{1970}]{Fama1970}
-Fama, E.~F. (1970).
-\newblock {Efficient Capital Markets: A Review of Theory and Empirical Work}.
-\newblock {\em The Journal of Finance\/}~{\em 25\/}(2), 383.
-
-\bibitem[\protect\citeauthoryear{Fama}{Fama}{1991}]{Fama1991}
-Fama, E.~F. (1991).
-\newblock {Efficient Capital Markets: II}.
-\newblock {\em The Journal of Finance\/}~{\em 46\/}(5), 1575.
-
-\bibitem[\protect\citeauthoryear{Farooq}{Farooq}{2013}]{Farooq2013}
-Farooq, O. (2013).
-\newblock {Who was informative? Performance of foreign and local analysts'
-  stock recommendations during the Asian financial crisis}.
-\newblock {\em Research in International Business and Finance\/}~{\em 29\/}(1),
-  61--76.
+\bibitem[\protect\citeauthoryear{Dunn~Jr}{Dunn~Jr}{1960}]{dunn1960statistical}
+Dunn~Jr, E.~S. (1960).
+\newblock A statistical and analytical technique for regional analysis.
+\newblock {\em Papers in Regional Science\/}~{\em 6\/}(1), 97--112.
 
 \bibitem[\protect\citeauthoryear{Feinerer, Hornik, and Meyer}{Feinerer
   et~al.}{2008}]{tmpackage}
@@ -279,79 +88,10 @@ Feinerer, I., K.~Hornik, and D.~Meyer (2008, March).
 \newblock Text mining infrastructure in r.
 \newblock {\em Journal of Statistical Software\/}~{\em 25\/}(5), 1--54.
 
-\bibitem[\protect\citeauthoryear{Fischer and Getis}{Fischer and
-  Getis}{2009}]{fischer2009handbook}
-Fischer, M.~M. and A.~Getis (2009).
-\newblock {\em Handbook of applied spatial analysis: software tools, methods
-  and applications}.
-\newblock Springer Science \& Business Media.
-
-\bibitem[\protect\citeauthoryear{Fotheringham and Wong}{Fotheringham and
-  Wong}{1991}]{Fotheringham1991}
-Fotheringham, A.~S. and D.~W.~S. Wong (1991).
-\newblock The modifiable areal unit problem in multivariate statistical
-  analysis.
-\newblock {\em Environment and Planning A: Economy and Space\/}~{\em 23\/}(7),
-  1025--1044.
-
-\bibitem[\protect\citeauthoryear{Friedman}{Friedman}{1996}]{friedmaneconomic1996}
-Friedman, B. (1996).
-\newblock {Economic Implications of Changing Share Ownership}.
-\newblock {\em Journal of Portfolio Management\/}~{\em 22\/}(3), 59--70.
-
-\bibitem[\protect\citeauthoryear{Fritsch and Schilder}{Fritsch and
-  Schilder}{2006}]{Fritsch06}
-Fritsch, M. and D.~Schilder (2006, 11).
-\newblock Is venture capital a regional business? - the role of syndication.
-
-\bibitem[\protect\citeauthoryear{Gershman}{Gershman}{1982}]{gershmanabscam1982}
-Gershman, B. (1982).
-\newblock {ABSCAM, the Judiciary, and the Ethics of Entrapment}.
-\newblock {\em Yale Law Journal\/}~{\em 91}, 1565--1591.
-
-\bibitem[\protect\citeauthoryear{Getis and Ord}{Getis and
-  Ord}{2010}]{getis2010analysis}
-Getis, A. and J.~K. Ord (2010).
-\newblock The analysis of spatial association by use of distance statistics.
-\newblock In {\em Perspectives on Spatial Data Analysis}, pp.\  127--145.
-  Springer.
-
-\bibitem[\protect\citeauthoryear{Gong and Keenan}{Gong and
-  Keenan}{2012}]{gongthe2012}
-Gong, H. and K.~Keenan (2012).
-\newblock {The Impact of 9/11 on the Geography of Financial Services in New
-  York: A Few Years Later}.
-\newblock {\em The Professional Geographer\/}~{\em 64\/}(3), 370--388.
-
-\bibitem[\protect\citeauthoryear{Graves}{Graves}{1998}]{gravesthe1998}
-Graves, W. (1998).
-\newblock {The Geography of Mutual Fund Assets}.
-\newblock {\em The Professional Geographer\/}~{\em 50\/}(2), 243--255.
-
-\bibitem[\protect\citeauthoryear{Graves}{Graves}{2003}]{Graves2003}
-Graves, W. (2003).
-\newblock {Financing Flexibility in a Global Market: The Metropolitan
-  Distribution of Equity Investment
-  {\textless}sup{\textgreater}1{\textless}/sup{\textgreater}}.
-\newblock {\em Urban Geography\/}~{\em 24\/}(7), 611--635.
-
-\bibitem[\protect\citeauthoryear{Green}{Green}{1993}]{greena1993}
-Green, M.~B. (1993).
-\newblock {A Geography of Institutional Stock Ownership in the United States}.
-\newblock {\em Annals of the Association of American Geographers\/}~{\em
-  83\/}(1), 66--89.
-
-\bibitem[\protect\citeauthoryear{Green}{Green}{1995}]{Green1995}
-Green, M.~B. (1995).
-\newblock {A Geography of U.S. Institutional Investment, 1990}.
-\newblock {\em Urban Geography\/}~{\em 16\/}(1), 46--69.
-
-\bibitem[\protect\citeauthoryear{Griffin and Xu}{Griffin and
-  Xu}{2009}]{griffinhow2009}
-Griffin, J.~M. and J.~Xu (2009).
-\newblock {How Smart Are the Smart Guys? A Unique View from Hedge Fund Stock
-  Holdings}.
-\newblock {\em Review of Financial Studies\/}~{\em 22\/}(7), 2531--2570.
+\bibitem[\protect\citeauthoryear{{Financial Stability Board}}{{Financial
+  Stability Board}}{2019}]{FSB2019}
+{Financial Stability Board} (2019).
+\newblock 2019 list of global systemically important banks (g-sibs).
 
 \bibitem[\protect\citeauthoryear{Griffiths and Steyvers}{Griffiths and
   Steyvers}{2004}]{Griffiths2004}
@@ -366,18 +106,9 @@ Haldane, A. (2009).
   Student Association, Amsterdam}.
 \newblock \url{http://www.bis.org/review/r100909e.pdf}.
 
-\bibitem[\protect\citeauthoryear{Harris and Lewis}{Harris and
-  Lewis}{1998}]{harrisconstructing1998}
-Harris, R. and R.~Lewis (1998).
-\newblock {Constructing a Fault(y) Zone: Misrepresentations of American Cities
-  and Suburbs 1900 - 1950}.
-\newblock {\em Annals of the Association of American Geographers\/}~{\em
-  88\/}(4), 622--639.
-
-\bibitem[\protect\citeauthoryear{Hau}{Hau}{2001}]{Hau2001}
-Hau, H. (2001).
-\newblock {Location Matters: An Examination of Trading Profits}.
-\newblock {\em The Journal of Finance\/}~{\em 56\/}(5), 1959--1983.
+\bibitem[\protect\citeauthoryear{Harris}{Harris}{1994}]{harris1994dynamic}
+Harris, T.~R. (1994).
+\newblock dynamic shift-share analysis of the nevada economy.
 
 \bibitem[\protect\citeauthoryear{Hlavac}{Hlavac}{2018}]{Stargazer}
 Hlavac, M. (2018).
@@ -392,49 +123,15 @@ Hlynsson, H.~D. (2017).
 \newblock Finding magic: The gathering archetypes with latent dirichlet
   allocation.
 
-\bibitem[\protect\citeauthoryear{Hoaglin, Mosteller, and Tukey}{Hoaglin
-  et~al.}{1983}]{Hoaglin1982}
-Hoaglin, D.~C., F.~Mosteller, and J.~W. Tukey (1983).
-\newblock {\em Understanding Robust and Exploratory Data Analysis}.
-\newblock New York, Toronto: Wiley.
-\newblock 447 pages.
+\bibitem[\protect\citeauthoryear{Houston}{Houston}{1967}]{Houston67}
+Houston, D.~B. (1967).
+\newblock The shift and share analysis of regional growth: A critique.
+\newblock {\em Southern Economic Journal\/}~{\em 33\/}(4), 577--581.
 
-\bibitem[\protect\citeauthoryear{Huberman}{Huberman}{2001}]{Huberman2001}
-Huberman, G. (2001).
-\newblock Familiarity breeds investment.
-\newblock {\em Review of Financial Studies\/}~{\em 14\/}(3), 659--680.
-
-\bibitem[\protect\citeauthoryear{Ingram and Franco}{Ingram and
-  Franco}{2014}]{national2014urban}
-Ingram, D. and S.~Franco (2014).
-\newblock Urban-rural classification scheme for counties.
-
-\bibitem[\protect\citeauthoryear{Kenney and Von~Burg}{Kenney and
-  Von~Burg}{1999}]{kenney1999technology}
-Kenney, M. and U.~Von~Burg (1999).
-\newblock Technology, entrepreneurship and path dependence: industrial
-  clustering in silicon valley and route 128.
-\newblock {\em Industrial and corporate change\/}~{\em 8\/}(1), 67--103.
-
-\bibitem[\protect\citeauthoryear{Lang and Nelson}{Lang and
-  Nelson}{2007}]{lang2007america}
-Lang, R.~E. and A.~C. Nelson (2007).
-\newblock America 2040: The rise of the megapolitans.
-\newblock {\em Planning\/}~{\em 73\/}(1), 7--12.
-
-\bibitem[\protect\citeauthoryear{{Library of Congress}}{{Library of
-  Congress}}{1975}]{libraryofcongress}
-{Library of Congress} (1975).
-\newblock {S.249 - An Act to amend the Securities Exchange Act of 1934 to
-  remove barriers to competition, to foster the development of a national
-  securities market system and a national clearance and settlement system, to
-  make uniform the Securities and Exchange Commission's authority over
-  self-regulatory organizations, to provide for the regulation of brokers,
-  dealers and banks trading in municipal securities, to facilitate the
-  collection and public dissemination of information concerning the holdings of
-  and transactions in securities by institutional investment managers, and for
-  other purposes.}
-\newblock https://www.congress.gov/bill/94th-congress/senate-bill/249.
+\bibitem[\protect\citeauthoryear{Jenks}{Jenks}{1967}]{jenks1967data}
+Jenks, G.~F. (1967).
+\newblock The data model concept in statistical mapping.
+\newblock {\em International yearbook of cartography\/}~{\em 7}, 186--190.
 
 \bibitem[\protect\citeauthoryear{Lienou, Maitre, and Datcu}{Lienou
   et~al.}{2010}]{Lienou2010}
@@ -444,41 +141,10 @@ Lienou, M., H.~Maitre, and M.~Datcu (2010).
 \newblock {\em IEEE Geoscience and Remote Sensing Letters\/}~{\em 7\/}(1),
   28--32.
 
-\bibitem[\protect\citeauthoryear{Lo}{Lo}{2016}]{Lo21}
-Lo, A.~W. (2016).
-\newblock What is an index?
-\newblock {\em The Journal of Portfolio Management\/}~{\em 42\/}(2), 21--36.
-
 \bibitem[\protect\citeauthoryear{Lofthouse}{Lofthouse}{1997}]{Lofthouse53}
 Lofthouse, S. (1997).
 \newblock International diversification.
 \newblock {\em The Journal of Portfolio Management\/}~{\em 24\/}(1), 53--56.
-
-\bibitem[\protect\citeauthoryear{Lynch and Moorcroft}{Lynch and
-  Moorcroft}{2008}]{HeatherJ.Lynch2008}
-Lynch, H.~J. and P.~R. Moorcroft (2008).
-\newblock A spatiotemporal ripley's k-function to analyze interactions between
-  spruce budworm and fire in british columbia, canada.
-\newblock {\em Canadian Journal of Forest Research\/}~{\em 38\/}(12),
-  3112--3119.
-
-\bibitem[\protect\citeauthoryear{Malloy}{Malloy}{2005}]{malloythe2005}
-Malloy, C.~J. (2005).
-\newblock The geography of equity analysis.
-\newblock {\em The Journal of Finance\/}~{\em 60\/}(2), 719--755.
-
-\bibitem[\protect\citeauthoryear{Marino}{Marino}{2019}]{Marino19}
-Marino, V. (2019).
-\newblock Revitalization projects reawaken downtown los angeles.
-\newblock {\em New York Times\/}.
-
-\bibitem[\protect\citeauthoryear{Markopolos}{Markopolos}{2009}]{Marko09}
-Markopolos, H. (2009).
-\newblock Testimony of harry markopolos, cfa, cfe, before the u.s. house of
-  representatives committee on financial services wednesday february 4, 2009.
-\newblock Note = {Available online at
-  \url{http://online.wsj.com/public/resources/documents/MarkopolosTestimony20090203.pdf
-  }}.
 
 \bibitem[\protect\citeauthoryear{Markowitz}{Markowitz}{1952}]{Markowitz1952}
 Markowitz, H. (1952).
@@ -493,49 +159,6 @@ Marwick, B. (2014).
 \newblock In Y.~Zhao and Y.~Cen (Eds.), {\em Data Mining Applications with R},
   pp.\  63 -- 93. Boston: Academic Press.
 
-\bibitem[\protect\citeauthoryear{Meyer and Green}{Meyer and
-  Green}{1996}]{GreenMeyer1996}
-Meyer, S.~P. and M.~B. Green (1996).
-\newblock {Foreign Direct Investment From Canada: An Overview}.
-\newblock {\em Canadian Geographer / Le Géographe canadien\/}~{\em 40\/}(3),
-  219--237.
-
-\bibitem[\protect\citeauthoryear{Millard}{Millard}{2013}]{EnvStats-book}
-Millard, S.~P. (2013).
-\newblock {\em EnvStats: An R Package for Environmental Statistics}.
-\newblock New York: Springer.
-
-\bibitem[\protect\citeauthoryear{{Ministry of Justice}}{{Ministry of
-  Justice}}{2018}]{CrownDependencies}
-{Ministry of Justice} (2018).
-\newblock Fact sheet on the uk's relationship with the crown dependencies.
-
-\bibitem[\protect\citeauthoryear{Mitchell}{Mitchell}{2019}]{Mitchell_London_2019}
-Mitchell, S. (2019).
-\newblock London calling? agglomeration economies in literature since 1700.
-\newblock {\em J Urban Econ\/}~{\em 112}, 16--32.
-
-\bibitem[\protect\citeauthoryear{Monk}{Monk}{2009}]{Monk2009}
-Monk, A.~H. (2009).
-\newblock {The geography of pension liabilities and fund governance in the
-  United States}.
-\newblock {\em Environment and Planning A\/}~{\em 41\/}(4), 859--878.
-
-\bibitem[\protect\citeauthoryear{Moriset and Malecki}{Moriset and
-  Malecki}{2009}]{Moriset2009}
-Moriset, B. and E.~J. Malecki (2009).
-\newblock {Organization versus Space: The Paradoxical Geographies of the
-  Digital Economy}.
-\newblock {\em Geography Compass\/}~{\em 3\/}(1), 256--274.
-
-\bibitem[\protect\citeauthoryear{Munroe}{Munroe}{2012}]{XKCD1138}
-Munroe, R. (2012).
-\newblock Xkcd 1138.
-
-\bibitem[\protect\citeauthoryear{NASDAQ}{NASDAQ}{}]{NASDAQ2018}
-NASDAQ.
-\newblock Nasdaq composite eligibility criteria.
-
 \bibitem[\protect\citeauthoryear{Newman and Block}{Newman and
   Block}{2006}]{newman2006probabilistic}
 Newman, D.~J. and S.~Block (2006).
@@ -549,12 +172,6 @@ Nikita, M. (2019).
 \newblock {\em ldatuning: Tuning of the Latent Dirichlet Allocation Models
   Parameters}.
 \newblock R package version 1.0.0.
-
-\bibitem[\protect\citeauthoryear{O'Brien}{O'Brien}{1992}]{Obrian1992}
-O'Brien, R. (1992).
-\newblock {\em Global Financial Integration: The End of Geography}.
-\newblock Council of Foreign Relations.
-\newblock 120 pages.
 
 \bibitem[\protect\citeauthoryear{Papadimitriou, Raghavan, Tamaki, and
   Vempala}{Papadimitriou et~al.}{2000}]{PAPADIMITRIOU2000217}
@@ -571,61 +188,6 @@ Papadimitriou, C.~H., H.~Tamaki, P.~Raghavan, and S.~Vempala (1998).
   Symposium on Principles of Database Systems}, PODS '98, New York, NY, USA,
   pp.\  159--168. Association for Computing Machinery.
 
-\bibitem[\protect\citeauthoryear{Pohl}{Pohl}{2004}]{Pohl2004}
-Pohl, N. (2004).
-\newblock {Where is Wall Street? Financial Geography after 09/11}.
-\newblock {\em Industrial Geographer\/}~{\em 2\/}(1), 72--93.
-
-\bibitem[\protect\citeauthoryear{Pred}{Pred}{1977}]{pred1977}
-Pred, A. (1977).
-\newblock {\em City-systems in Advanced Economies. Past Growth, Present
-  Processes and Future Options}.
-\newblock Hutchinson.
-
-\bibitem[\protect\citeauthoryear{Ravenstein}{Ravenstein}{1885}]{ravenstein1885laws}
-Ravenstein, E.~G. (1885).
-\newblock The laws of migration.
-\newblock {\em Journal of the statistical society of London\/}~{\em 48\/}(2),
-  167--235.
-
-\bibitem[\protect\citeauthoryear{Rhoades}{Rhoades}{1982}]{rhoades1982size}
-Rhoades, S.~A. (1982).
-\newblock Size and rank stability of the 100 largest commercial banks,
-  1925--1978.
-\newblock {\em Journal of Economics and Business\/}~{\em 34\/}(2), 123--128.
-
-\bibitem[\protect\citeauthoryear{Ripley}{Ripley}{1976}]{ripley1976second}
-Ripley, B.~D. (1976).
-\newblock The second-order analysis of stationary point processes.
-\newblock {\em Journal of applied probability\/}, 255--266.
-
-\bibitem[\protect\citeauthoryear{Robert, Robert~J., James, Valerie, Christina,
-  David, James, and Mark~W.}{Robert et~al.}{2020}]{NBERBCDC2020}
-Robert, H., G.~Robert~J., P.~James, R.~Valerie, R.~Christina, R.~David,
-  S.~James, and W.~Mark~W. (2020).
-\newblock The nber's business cycle dating committee.
-
-\bibitem[\protect\citeauthoryear{Robeson, Li, and Huang}{Robeson
-  et~al.}{2015}]{SphericalK}
-Robeson, S., A.~Li, and C.~Huang (2015).
-\newblock {\em SphericalK: Spherical K-Function}.
-\newblock R package version 1.2.
-
-\bibitem[\protect\citeauthoryear{Samuelson}{Samuelson}{1966}]{Samuelson1966}
-Samuelson, P. (1966).
-\newblock Science and stocks.
-\newblock {\em Newsweek\/}.
-
-\bibitem[\protect\citeauthoryear{Semple}{Semple}{1985}]{Semple85}
-Semple, R.~K. (1985).
-\newblock Toward a quaternary place theory.
-\newblock {\em Urban Geography\/}~{\em 6\/}(4), 285--296.
-
-\bibitem[\protect\citeauthoryear{Shaw}{Shaw}{1981}]{Shaw1981}
-Shaw, M. (1981).
-\newblock {Congress in the 1970s: A Decade of Reform}.
-\newblock {\em Parliamentary Affairs\/}~{\em XXXIV\/}(3), 272--290.
-
 \bibitem[\protect\citeauthoryear{Sievert and Shirley}{Sievert and
   Shirley}{2015}]{LDAvis}
 Sievert, C. and K.~Shirley (2015).
@@ -636,57 +198,14 @@ Sievert, C. and K.~Shirley (2015).
 Silge, J. (2018).
 \newblock The game is afoot! topic modeling of sherlock holmes stories.
 
-\bibitem[\protect\citeauthoryear{{S\&P Dow Jones Indecies}}{{S\&P Dow Jones
-  Indecies}}{2020a}]{DOW2020}
-{S\&P Dow Jones Indecies} (2020a).
-\newblock Dow jones industrial average.
-
-\bibitem[\protect\citeauthoryear{{S\&P Dow Jones Indecies}}{{S\&P Dow Jones
-  Indecies}}{2020b}]{SNP2020}
-{S\&P Dow Jones Indecies} (2020b).
-\newblock Dow jones industrial average.
-
-\bibitem[\protect\citeauthoryear{Teo}{Teo}{2009}]{teothe2009}
-Teo, M. (2009).
-\newblock {The Geography of Hedge Funds}.
-\newblock {\em Review of Financial Studies\/}~{\em 22\/}(9), 3531--3561.
-
-\bibitem[\protect\citeauthoryear{Tobler}{Tobler}{1995}]{Tobler1995}
-Tobler, W. (1995).
-\newblock Migration: Ravenstein, thornthwaite, and beyond.
-\newblock {\em Urban Geography\/}~{\em 16\/}(4), 327--343.
-
-\bibitem[\protect\citeauthoryear{Tobler}{Tobler}{2002}]{Tobler2002}
-Tobler, W. (2002).
-\newblock {Global spatial analysis}.
-\newblock ~{\em 26\/}(6), 493--500.
-
-\bibitem[\protect\citeauthoryear{Tukey}{Tukey}{1977}]{tukey77}
-Tukey, J.~W. (1977).
-\newblock {\em Exploratory Data Analysis\/} (First Edition ed.).
-\newblock Addison-Wesley Publishing Company.
-\newblock 688 pages.
+\bibitem[\protect\citeauthoryear{Soudis}{Soudis}{2019}]{Soudis2019}
+Soudis, D. (2019).
+\newblock {\em A package to performe Shift Share Analysis in R}.
+\newblock R package.
 
 \bibitem[\protect\citeauthoryear{Underwood}{Underwood}{2012}]{Underwood2012}
 Underwood, T. (2012).
 \newblock Topic modeling made just simple enough.
-
-\bibitem[\protect\citeauthoryear{{U.S. Census Bureau}}{{U.S. Census
-  Bureau}}{2013}]{USCensus13}
-{U.S. Census Bureau} (2013).
-\newblock {\em 2013 TIGER/Line Shapefiles [machine-readable data files]}.
-
-\bibitem[\protect\citeauthoryear{{US Census Bureau}}{{US Census
-  Bureau}}{2016}]{USCensusCBSAdef}
-{US Census Bureau} (2016).
-
-\bibitem[\protect\citeauthoryear{{U.S. Securities and Exchange
-  Commission}}{{U.S. Securities and Exchange
-  Commission}}{1971}]{U.S.SecuritiesandExchangeCommission1971}
-{U.S. Securities and Exchange Commission} (1971).
-\newblock {Institutional Investor Study Report of the Securities and Exchange
-  Commission, Volumes 1-3}.
-\newblock ~{\em 19\/}(92), 1--83.
 
 \bibitem[\protect\citeauthoryear{Valle, Baiser, Woodall, and Chazdon}{Valle
   et~al.}{2014}]{Vale2014}
@@ -694,65 +213,5 @@ Valle, D., B.~Baiser, C.~W. Woodall, and R.~Chazdon (2014).
 \newblock Decomposing biodiversity data using the latent dirichlet allocation
   model, a probabilistic multivariate statistical method.
 \newblock {\em Ecology Letters\/}~{\em 17\/}(12), 1591--1601.
-
-\bibitem[\protect\citeauthoryear{Westaway}{Westaway}{1974}]{Westaway1974}
-Westaway, J. (1974).
-\newblock The spatial hierarchy of business organizations and its implications
-  for the british urban system.
-\newblock {\em Regional Studies\/}~{\em 8\/}(2), 145--155.
-
-\bibitem[\protect\citeauthoryear{Wheeler}{Wheeler}{1988}]{JAMES1988}
-Wheeler, J. (1988).
-\newblock The corperate role of large metropolitan areas in the united states.
-\newblock {\em Growth and Change\/}~{\em 19\/}(2), 75--86.
-
-\bibitem[\protect\citeauthoryear{Wheeler and Mitchelson}{Wheeler and
-  Mitchelson}{1989a}]{WheelerMitchelson89}
-Wheeler, J.~O. and R.~L. Mitchelson (1989a).
-\newblock {Atlanta's Role as an Information Center: Intermetropolitan Spatial
-  Links}.
-\newblock {\em The Professional Geographer\/}~{\em 41\/}(2), 162--172.
-
-\bibitem[\protect\citeauthoryear{Wheeler and Mitchelson}{Wheeler and
-  Mitchelson}{1989b}]{Wheeler1989}
-Wheeler, J.~O. and R.~L. Mitchelson (1989b).
-\newblock {Information Flows among Major Metropolitan Areas in the United
-  States}.
-\newblock {\em Annals of the Association of American Geographers\/}~{\em
-  79\/}(4), 523--543.
-
-\bibitem[\protect\citeauthoryear{WilmerHale}{WilmerHale}{2013}]{WhaleReport13}
-WilmerHale (2013, January).
-\newblock {\em {Report of JPMorgan Chase \& Co. Management Task Force Regarding
-  2012 CIO Losses}}.
-\newblock Available online at
-  \url{http://files.shareholder.com/downloads/ONE/2272984969x0x628656/4cb574a0-0bf5-4728-9582-625e4519b5ab/Task_Force_Report.pdf}.
-
-\bibitem[\protect\citeauthoryear{Wilschut, Laudisoit, Hughes, Addink, de~Jong,
-  Heesterbeek, Reijniers, Eagle, Dubyanskiy, and Begon}{Wilschut
-  et~al.}{2015}]{wilschut2015spatial}
-Wilschut, L.~I., A.~Laudisoit, N.~K. Hughes, E.~A. Addink, S.~M. de~Jong, H.~A.
-  Heesterbeek, J.~Reijniers, S.~Eagle, V.~M. Dubyanskiy, and M.~Begon (2015).
-\newblock Spatial distribution patterns of plague hosts: point pattern analysis
-  of the burrows of great gerbils in kazakhstan.
-\newblock {\em Journal of biogeography\/}~{\em 42\/}(7), 1281--1292.
-
-\bibitem[\protect\citeauthoryear{Yuill}{Yuill}{1971}]{Yuill1971}
-Yuill, R.~S. (1971).
-\newblock The standard deviational ellipse; an updated tool for spatial
-  description.
-\newblock {\em Geografiska Annaler. Series B, Human Geography\/}~{\em 53\/}(1),
-  28--39.
-
-\bibitem[\protect\citeauthoryear{Zhu}{Zhu}{2002}]{Zhu2002}
-Zhu, N. (2002, oct).
-\newblock {The Local Bias of Individual Investors}.
-\newblock {\em SSRN Electronic Journal\/}, 1--59.
-
-\bibitem[\protect\citeauthoryear{Zimmerman}{Zimmerman}{1971}]{Zimmerman1971}
-Zimmerman, F.~L. (1971).
-\newblock {House Panel Set To Mull Curbing Bank Trust Units: Patman Bill to
-  Include Rules On Ownership}.
-\newblock {\em Wall Streeet Journal\/}~{\em February 8}, 2.
 
 \end{thebibliography}
