@@ -1,4 +1,22 @@
-\nomenclatureentry{aMPT@[{MPT}]\begingroup Modern Portfolio Theory\nomeqref {1.0}|nompageref}{7}
-\nomenclatureentry{aVAR@[{VAR}]\begingroup Value at Risk\nomeqref {1.0}|nompageref}{8}
-\nomenclatureentry{aLDA@[{LDA}]\begingroup Latent Dirichlet allocation\nomeqref {1.0}|nompageref}{9}
-\nomenclatureentry{aLDA@[{LDA}]\begingroup Latent Dirichlet allocation\nomeqref {1.0}|nompageref}{9}
+\nomenclatureentry{aSEA of 1934@[{SEA of 1934}]\begingroup Securities Exchange Act of 1934\nomeqref {1.0}|nompageref}{13}
+\nomenclatureentry{aSEC@[{SEC}]\begingroup Securities and Exchange Commission\nomeqref {1.0}|nompageref}{18}
+\nomenclatureentry{aEMH@[{EMH}]\begingroup Efficient Market Hypothesis\nomeqref {1.0}|nompageref}{20}
+\nomenclatureentry{aQLT@[{QLT}]\begingroup Quaternary Location Theory\nomeqref {1.0}|nompageref}{22}
+\nomenclatureentry{aOLS@[{OLS}]\begingroup ordinary least squares\nomeqref {1.0}|nompageref}{23}
+\nomenclatureentry{aFIRE@[{FIRE}]\begingroup Finance, Insurance and Real Estate\nomeqref {1.0}|nompageref}{28}
+\nomenclatureentry{aCBD@[{CBD}]\begingroup Central Business District\nomeqref {1.0}|nompageref}{28}
+\nomenclatureentry{aCIK@[{CIK}]\begingroup Central Index Key\nomeqref {2.0}|nompageref}{33}
+\nomenclatureentry{aUSD@[{USD}]\begingroup United States Dollar\nomeqref {2.0}|nompageref}{36}
+\nomenclatureentry{aNASDAQ@[{NASDAQ}]\begingroup National Association of Securities Dealers Automated Quotations Composite\nomeqref {2.0}|nompageref}{39}
+\nomenclatureentry{aS\&P 500@[{S\&P 500}]\begingroup The Standard and Poors 500 Index\nomeqref {2.0}|nompageref}{39}
+\nomenclatureentry{aDJIA@[{DJIA}]\begingroup Dow Jones Industrial Average\nomeqref {2.0}|nompageref}{39}
+\nomenclatureentry{aDOW@[{DOW}]\begingroup Dow Jones Industrial Average\nomeqref {2.0}|nompageref}{39}
+\nomenclatureentry{aEDA@[{EDA}]\begingroup Exploratory Data Analysis\nomeqref {3.0}|nompageref}{43}
+\nomenclatureentry{aCBSA@[{CBSA}]\begingroup Core-Based Statistical Area\nomeqref {3.0}|nompageref}{49}
+\nomenclatureentry{aMAP@[{MAP}]\begingroup Modifiable Areal Problem\nomeqref {3.0}|nompageref}{58}
+\nomenclatureentry{aBos-Ny-Wash@[{Bos-Ny-Wash}]\begingroup Boston-New York-Washington DC Megaregion\nomeqref {3.0}|nompageref}{61}
+\nomenclatureentry{aRMSE@[{RMSE}]\begingroup Root Mean Square Error\nomeqref {3.5}|nompageref}{78}
+\nomenclatureentry{aMPT@[{MPT}]\begingroup Modern Portfolio Theory\nomeqref {5.0}|nompageref}{139}
+\nomenclatureentry{aVAR@[{VAR}]\begingroup Value at Risk\nomeqref {5.0}|nompageref}{140}
+\nomenclatureentry{aLDA@[{LDA}]\begingroup Latent Dirichlet allocation\nomeqref {5.0}|nompageref}{141}
+\nomenclatureentry{aLDA@[{LDA}]\begingroup Latent Dirichlet allocation\nomeqref {5.0}|nompageref}{141}

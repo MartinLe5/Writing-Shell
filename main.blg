@@ -1,25 +1,83 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
+A level-1 auxiliary file: ChapterII.aux
+White space in argument---line 18 of file ChapterII.aux
+ : \citation{US
+ :              Code}
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: ChapterIII.aux
+A level-1 auxiliary file: ChapterIIIb.aux
+A level-1 auxiliary file: ChapterIV.aux
 A level-1 auxiliary file: ChapterV.aux
+A level-1 auxiliary file: Conclusion.aux
 A level-1 auxiliary file: Appendix/CountbyState_Lda34.aux
 A level-1 auxiliary file: Appendix/Shift_share.aux
 The style file: chicago.bst
 Database file #1: Mybibliography.bib
+Warning--entry type for "NYT_2011" isn't style-file defined
+--line 322 of file Mybibliography.bib
 Warning--entry type for "cramerwhale" isn't style-file defined
---line 921 of file Mybibliography.bib
+--line 945 of file Mybibliography.bib
+Warning--entry type for "Compustat" isn't style-file defined
+--line 1117 of file Mybibliography.bib
 Warning--entry type for "Whale_Watching_CNBC_12" isn't style-file defined
---line 4806 of file Mybibliography.bib
+--line 4830 of file Mybibliography.bib
+Warning--entry type for "BarclayHedge2018" isn't style-file defined
+--line 4957 of file Mybibliography.bib
+Warning--string name "december" is undefined
+--line 5557 of file Mybibliography.bib
 Warning--entry type for "Chen2011" isn't style-file defined
---line 5756 of file Mybibliography.bib
-Warning--I didn't find a database entry for "rubner2000earth"
+--line 5784 of file Mybibliography.bib
+Warning--I didn't find a database entry for "lerner2019investing"
 Warning--I didn't find a database entry for "Buffet96"
+Name 8 in "Robert, Hall and Robert J., Gordon and James, Poterba and Valerie, Ramey and Christina, Romer and David, Romer and James, Stock and Mark W., Watson," has a comma at the end for entry NBERBCDC2020
+while executing---line 1563 of file chicago.bst
+Name 8 in "Robert, Hall and Robert J., Gordon and James, Poterba and Valerie, Ramey and Christina, Romer and David, Romer and James, Stock and Mark W., Watson," has a comma at the end for entry NBERBCDC2020
+while executing---line 1563 of file chicago.bst
+Name 8 in "Robert, Hall and Robert J., Gordon and James, Poterba and Valerie, Ramey and Christina, Romer and David, Romer and James, Stock and Mark W., Watson," has a comma at the end for entry NBERBCDC2020
+while executing---line 1608 of file chicago.bst
+Name 8 in "Robert, Hall and Robert J., Gordon and James, Poterba and Valerie, Ramey and Christina, Romer and David, Romer and James, Stock and Mark W., Watson," has a comma at the end for entry NBERBCDC2020
+while executing---line 1608 of file chicago.bst
+Warning--empty organization in rgdal
 Warning--no journal in blei2003latent
 Warning--no number and no volume in blei2003latent
 Warning--page numbers missing in blei2003latent
+Warning--empty note in Blume2012
+Warning--no number and no volume in Cashman2017
 Warning--empty year in Crippen2010
+Warning--no number and no volume in Crymble19
+Warning--page numbers missing in Crymble19
+Warning--no journal in derenoncourt2019can
+Warning--no number and no volume in derenoncourt2019can
+Warning--page numbers missing in derenoncourt2019can
+Warning--no number and no volume in dixon2014r
+Warning--page numbers missing in dixon2014r
+Warning--no number and no volume in Easley2011
+Warning--page numbers missing in Easley2011
+Warning--empty organization in Esri
+Warning--no journal in Fritsch06
+Warning--no number and no volume in Fritsch06
+Warning--page numbers missing in Fritsch06
 Warning--no journal in harris1994dynamic
 Warning--no number and no volume in harris1994dynamic
 Warning--page numbers missing in harris1994dynamic
+Warning--no number and no volume in Marino19
+Warning--page numbers missing in Marino19
+Warning--empty booktitle in Marko09
+Warning--empty year in NASDAQ2018
 Warning--empty organization in LDAtuning
+Warning--no number and no volume in ripley1976second
+Name 8 in "Robert, Hall and Robert J., Gordon and James, Poterba and Valerie, Ramey and Christina, Romer and David, Romer and James, Stock and Mark W., Watson," has a comma at the end for entry NBERBCDC2020
+while executing---line 1645 of file chicago.bst
+Name 8 in "Robert, Hall and Robert J., Gordon and James, Poterba and Valerie, Ramey and Christina, Romer and David, Romer and James, Stock and Mark W., Watson," has a comma at the end for entry NBERBCDC2020
+while executing---line 1645 of file chicago.bst
+Warning--empty organization in SphericalK
+Warning--no number and no volume in Samuelson1966
+Warning--page numbers missing in Samuelson1966
 Warning--empty organization in LDAvis
 Warning--empty organization in Soudis2019
-(There were 15 warnings)
+Warning--no journal in Tobler2002
+Warning--empty organization in USCensus13
+Warning--no journal in U.S.SecuritiesandExchangeCommission1971
+Warning--empty organization in WhaleReport13
+Warning--no number and no volume in Zhu2002
+(There were 7 error messages)

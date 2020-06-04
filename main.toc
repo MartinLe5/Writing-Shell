@@ -1,22 +1,78 @@
-\contentsline {chapter}{List of Figures}{3}% 
-\contentsline {chapter}{List of Tables}{5}% 
-\contentsline {chapter}{\numberline {1}LDA of Investments in the United States}{7}% 
-\contentsline {section}{\numberline {1.1}Introduction}{7}% 
-\contentsline {section}{\numberline {1.2}Latent Dirichlet allocation}{9}% 
-\contentsline {subsection}{\numberline {1.2.1}How does LDA work?}{10}% 
-\contentsline {section}{\numberline {1.3}Preparing the Data}{12}% 
-\contentsline {section}{\numberline {1.4}Number of Topics}{16}% 
-\contentsline {section}{\numberline {1.5}Applying the Model to the Data}{18}% 
-\contentsline {subsection}{\numberline {1.5.1}Per-Topic Probabilities}{18}% 
-\contentsline {subsection}{\numberline {1.5.2}Per-Document-Per-Topic Probabilities}{23}% 
-\contentsline {section}{\numberline {1.6}Shift-Share}{25}% 
-\contentsline {subsection}{\numberline {1.6.1}Dynamic Shift-Share}{26}% 
-\contentsline {section}{\numberline {1.7}Regional results}{28}% 
-\contentsline {chapter}{List of Appendices}{6}% 
-\contentsline {chapter}{Appendices}{35}% 
-\contentsline {chapter}{\numberline {A}LDA Gamma Table Counts}{37}% 
-\contentsline {subsection}{\numberline {A.0.1}Tables}{37}% 
-\contentsline {subsection}{\numberline {A.0.2}Maps}{37}% 
-\contentsline {chapter}{\numberline {B}Shift Share}{75}% 
-\contentsline {section}{\numberline {B.1}Dynamic Shift Share of the States}{75}% 
-\contentsline {chapter}{Bibliography}{107}% 
+\contentsline {chapter}{List of Figures}{5}% 
+\contentsline {chapter}{List of Tables}{11}% 
+\contentsline {chapter}{\numberline {1}Literature Review and Related Works}{13}% 
+\contentsline {section}{\numberline {1.1}What is institutional Investment}{13}% 
+\contentsline {subsection}{\numberline {1.1.1}History of Institutional Investment}{14}% 
+\contentsline {subsection}{\numberline {1.1.2}Fears and Questions about Institutional Investment in the 1960s}{16}% 
+\contentsline {section}{\numberline {1.2}Why Geography and not Economics}{19}% 
+\contentsline {subsection}{\numberline {1.2.1}Trading in Aspatial Random Walks}{19}% 
+\contentsline {subsection}{\numberline {1.2.2}Big role for geography}{21}% 
+\contentsline {subsection}{\numberline {1.2.3}Moderate Role for Geography}{27}% 
+\contentsline {chapter}{List of Appendices}{12}% 
+\contentsline {chapter}{\numberline {2}The Data Pipeline}{31}% 
+\contentsline {section}{\numberline {2.1}Introduction}{31}% 
+\contentsline {section}{\numberline {2.2}The 13F-Holding Report}{31}% 
+\contentsline {subsection}{\numberline {2.2.1}Investors by Country}{33}% 
+\contentsline {section}{\numberline {2.3}Tying Capital to Physical Space}{37}% 
+\contentsline {section}{\numberline {2.4}The Time Period}{38}% 
+\contentsline {section}{\numberline {2.5}Conclusion}{40}% 
+\contentsline {chapter}{\numberline {3}Exploring the Data}{43}% 
+\contentsline {section}{\numberline {3.1}Introduction}{43}% 
+\contentsline {section}{\numberline {3.2}Count and Percentage by Region}{44}% 
+\contentsline {subsection}{\numberline {3.2.1}Investors By State}{45}% 
+\contentsline {subsection}{\numberline {3.2.2}Investors by Core-Based Statistical Area}{49}% 
+\contentsline {subsection}{\numberline {3.2.3}Investors by County}{50}% 
+\contentsline {subsection}{\numberline {3.2.4}By County Urban Intensity Index}{52}% 
+\contentsline {subsection}{\numberline {3.2.5}Investors By Region}{58}% 
+\contentsline {section}{\numberline {3.3}The K-function}{61}% 
+\contentsline {subsection}{\numberline {3.3.1}Spherical K-function}{67}% 
+\contentsline {section}{\numberline {3.4}Standard Deviation Ellipsis}{69}% 
+\contentsline {section}{\numberline {3.5}The Gravity Model of Trade}{72}% 
+\contentsline {subsection}{\numberline {3.5.1}Discussion}{77}% 
+\contentsline {section}{\numberline {3.6}Conclusion}{79}% 
+\contentsline {chapter}{\numberline {4}Space Time}{81}% 
+\contentsline {section}{\numberline {4.1}Introduction}{81}% 
+\contentsline {section}{\numberline {4.2}Space-Time Cube}{81}% 
+\contentsline {subsection}{\numberline {4.2.1}Emerging Hot Spot Analysis}{84}% 
+\contentsline {subsection}{\numberline {4.2.2}Local Outlier Analysis}{84}% 
+\contentsline {section}{\numberline {4.3}United States of America}{85}% 
+\contentsline {subsection}{\numberline {4.3.1}Count Data}{85}% 
+\contentsline {subsection}{\numberline {4.3.2}Funds under Management}{86}% 
+\contentsline {section}{\numberline {4.4}Boston}{87}% 
+\contentsline {subsection}{\numberline {4.4.1}Count Data}{87}% 
+\contentsline {subsection}{\numberline {4.4.2}Funds under Management}{88}% 
+\contentsline {section}{\numberline {4.5}Chicago}{89}% 
+\contentsline {subsection}{\numberline {4.5.1}Count Data}{89}% 
+\contentsline {subsection}{\numberline {4.5.2}Funds under Management}{89}% 
+\contentsline {section}{\numberline {4.6}Los Angeles}{90}% 
+\contentsline {subsection}{\numberline {4.6.1}Count Data}{90}% 
+\contentsline {subsection}{\numberline {4.6.2}Funds Under Management}{90}% 
+\contentsline {section}{\numberline {4.7}New York City}{91}% 
+\contentsline {subsection}{\numberline {4.7.1}Count Data}{91}% 
+\contentsline {subsection}{\numberline {4.7.2}Funds Under Management}{92}% 
+\contentsline {section}{\numberline {4.8}San Francisco}{92}% 
+\contentsline {subsection}{\numberline {4.8.1}Count Data}{92}% 
+\contentsline {subsection}{\numberline {4.8.2}Funds Under Management}{93}% 
+\contentsline {section}{\numberline {4.9}Conclusion}{93}% 
+\contentsline {chapter}{\numberline {5}LDA of Investments in the United States}{139}% 
+\contentsline {section}{\numberline {5.1}Introduction}{139}% 
+\contentsline {section}{\numberline {5.2}Latent Dirichlet allocation}{141}% 
+\contentsline {subsection}{\numberline {5.2.1}How does LDA work?}{142}% 
+\contentsline {section}{\numberline {5.3}Preparing the Data}{144}% 
+\contentsline {section}{\numberline {5.4}Number of Topics}{148}% 
+\contentsline {section}{\numberline {5.5}Applying the Model to the Data}{150}% 
+\contentsline {subsection}{\numberline {5.5.1}Per-Topic Probabilities}{150}% 
+\contentsline {subsection}{\numberline {5.5.2}Per-Document-Per-Topic Probabilities}{155}% 
+\contentsline {section}{\numberline {5.6}Shift-Share}{157}% 
+\contentsline {subsection}{\numberline {5.6.1}Dynamic Shift-Share}{158}% 
+\contentsline {section}{\numberline {5.7}Regional results}{160}% 
+\contentsline {chapter}{\numberline {6}Conclusion}{167}% 
+\contentsline {section}{\numberline {6.1}Chapter IV summary}{170}% 
+\contentsline {section}{\numberline {6.2}Chapter V summary}{170}% 
+\contentsline {chapter}{Appendices}{171}% 
+\contentsline {chapter}{\numberline {A}LDA Gamma Table Counts}{173}% 
+\contentsline {subsection}{\numberline {A.0.1}Tables}{173}% 
+\contentsline {subsection}{\numberline {A.0.2}Maps}{173}% 
+\contentsline {chapter}{\numberline {B}Shift Share}{211}% 
+\contentsline {section}{\numberline {B.1}Dynamic Shift Share of the States}{211}% 
+\contentsline {chapter}{Bibliography}{243}% 
