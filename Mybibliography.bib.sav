@@ -5789,9 +5789,6 @@ at the Oxford China Business Forum, Beijing, 9 September 2010.},
   url    = {http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/},
 }
 
-@Article{,
-}
-
 @Article{rubner2000earth,
   author    = {Rubner, Yossi and Tomasi, Carlo and Guibas, Leonidas J},
   title     = {The earth mover's distance as a metric for image retrieval},
@@ -5801,6 +5798,9 @@ at the Oxford China Business Forum, Beijing, 9 September 2010.},
   journal   = {International journal of computer vision},
   publisher = {Springer},
   year      = {2000},
+}
+
+@Article{,
 }
 
 @Article{,
