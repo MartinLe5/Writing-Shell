@@ -301,7 +301,6 @@ For the dynamic model shift-share, Equation \ref{Eq:NationalShare_dynamic} repla
 
 In this case, rather than calculate yearly effects for $k$, this application of the dynamic shift-share used each quarterly filing between the second quarter of 2013 to the fourth quarter of 2018, therefore creating 23 discreet time steps.
 
-
 The analysis was performed using \cite{Soudis2019} R package implementation for dynamic shift-share. The holdings of each portfolio was weighted by the $\beta$ of each topic/portfolio archetype as determined by the 34 topic LDA analysis, and summed by relevant geography. The results in tabular form are in Appendix \ref{appendix:shiftshare}.
 
 By taking the regional shift values and then mapping them onto a map of the USA, this displays the local/regional effects of a given topic/portfolio archetype in a given geography while keeping the overall growth of the stock market and the varying popularity of a particular strategy constant. In order to minimize the role of outlier-values over-exposing the linear scale of the regional-shift, the regional shifts were binned into 10 categories using the Jenks method via the ClassInt package in R \citep{classInt}.  The Jenks natural breaks method classifies continuous data by grouping them iteratively into $k$ groups such that it maximizes the square of variance between groups and minimizes the square of variance within groups \citep{jenks1967data}.  
@@ -352,3 +351,20 @@ Topic 13 is very strong in Missouri, Texas and Illinois, while weak in NY and CA
 \end{figure}
 
 
+\begin{figure}
+	\centering
+	\includegraphics[width=1\linewidth]{Figures/ChapterV/Violinplot_q1}
+	\caption[Violin Plot of Firm holding Size for CA, IL, MA and NY.]{Violin Plot of Firm holding Size for the States of California, Illinois, Massachusetts and New York.}
+	\label{fig:violinplotq1}
+\end{figure}
+
+
+
+-Assuming a scenario in which New York State isn't at the centre of the US financial system would strain the credulity of the credulous considering that Wall Street has been the toponyme of the US financial and business concerns for nearly a hundred years.  In this case, we see that in most categories created by LDA analysis, New York has unparalleled growth, and that California is lagging behind.  
+
+-As to why California lags behind may well be an artifact of the dataset, for California is quite famous for it's venture capital investment culture \cite{greenventure2004}, and its large herd of unicorns\footnote{A unicorn is a private start-up with a valuation above one billion USD. \citep{Lee2013}} \cite{kenney2019unicorns}. The money exists in California, but it exists in a different ledger since VC invests before companies go public, and the 13-F HR database only records holdings of publicly traded stocks. Furthermore, due to recent changes in American regulations for start-ups, 2012's JOBs Act in particular allowing for greater number of qualified investors in a company before requiring companies to go public, has incentivezed institutional capital to invest in star-ups prior to their IPO.  
+
+- As per \cite{florida2016rise}, Californa contains four of the top 6 metro areas for venture capital, with San Francisco Bay area (San Francisco and San Jose) accounting for nearly one of every four dollars invested in venture capital nationwide, and Southern California (Los Angles, San Diego and Orange County) when taken collectively outranks New York City. 
+
+The next question is why is Boston so normal, even though it's next in line after the Bay Area metro?  
+.   

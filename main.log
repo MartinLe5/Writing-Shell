@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.3.29)  4 JUN 2020 07:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.3.29)  21 JUN 2020 07:27
 entering extended mode
 **./main.tex
 (main.tex
@@ -1597,55 +1597,46 @@ LaTeX Warning: Reference `Definition_appendix' on page 84 undefined on input li
 ne 42.
 
 [84]
-<Figures/ChapterIV/USA_Count_EH.pdf, id=556, 568.1225pt x 853.1875pt>
+<Figures/ChapterIV/USA_Count_EH.pdf, id=556, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/USA_Count_EH.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/USA_Count_EH.pdf>
 Package pdftex.def Info: Figures/ChapterIV/USA_Count_EH.pdf  used on input line
  61.
-(pdftex.def)             Requested size: 433.62001pt x 651.21523pt.
-
-
-LaTeX Warning: Float too large for page by 39.7852pt on input line 64.
+(pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [85]
-<Figures/ChapterIV/USA_Count_LO.pdf, id=561, 568.1225pt x 853.1875pt>
+<Figures/ChapterIV/USA_Count_LO.pdf, id=561, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/USA_Count_LO.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/USA_Count_LO.pdf>
 Package pdftex.def Info: Figures/ChapterIV/USA_Count_LO.pdf  used on input line
  73.
-(pdftex.def)             Requested size: 433.62001pt x 651.21523pt.
+(pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Float too large for page by 39.7852pt on input line 76.
-
-<Figures/ChapterIV/USA_Money_EH.pdf, id=562, 568.1225pt x 853.1875pt>
+ [86 <./Figures/ChapterIV/USA_Count_EH.pdf>] [87 <./Figures/ChapterIV/USA_Count
+_LO.pdf>]
+<Figures/ChapterIV/USA_Money_EH.pdf, id=586, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/USA_Money_EH.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/USA_Money_EH.pdf>
 Package pdftex.def Info: Figures/ChapterIV/USA_Money_EH.pdf  used on input line
  84.
-(pdftex.def)             Requested size: 433.62001pt x 651.21523pt.
+(pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
 
-LaTeX Warning: Float too large for page by 39.7852pt on input line 87.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \vbox (badness 1824) has occurred while \output is active []
-
- [86]
-<Figures/ChapterIV/USA_Money_LO.pdf, id=566, 568.1225pt x 853.1875pt>
+ [88 <./Figures/ChapterIV/USA_Money_EH.pdf>]
+<Figures/ChapterIV/USA_Money_LO.pdf, id=599, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/USA_Money_LO.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/USA_Money_LO.pdf>
 Package pdftex.def Info: Figures/ChapterIV/USA_Money_LO.pdf  used on input line
  94.
-(pdftex.def)             Requested size: 433.62001pt x 651.21523pt.
-
-
-LaTeX Warning: Float too large for page by 39.7852pt on input line 97.
-
-[87]
-<Figures/ChapterIV/Bos_Count_EH.pdf, id=570, 568.1225pt x 853.1875pt>
+(pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
+ [89 <./Figures/ChapterIV/USA_Money_LO.pdf>]
+<Figures/ChapterIV/Bos_Count_EH.pdf, id=612, 568.1225pt x 853.1875pt>
 File: Figures/ChapterIV/Bos_Count_EH.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/Bos_Count_EH.pdf>
 Package pdftex.def Info: Figures/ChapterIV/Bos_Count_EH.pdf  used on input line
@@ -1655,13 +1646,13 @@ Package pdftex.def Info: Figures/ChapterIV/Bos_Count_EH.pdf  used on input line
 
 LaTeX Warning: Float too large for page by 39.7852pt on input line 113.
 
-<Figures/ChapterIV/Bos_Count_EH_Downtown.pdf, id=571, 853.1875pt x 568.1225pt>
+<Figures/ChapterIV/Bos_Count_EH_Downtown.pdf, id=613, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/Bos_Count_EH_Downtown.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/Bos_Count_EH_Downtown.pdf>
 Package pdftex.def Info: Figures/ChapterIV/Bos_Count_EH_Downtown.pdf  used on i
 nput line 119.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-<Figures/ChapterIV/Bos_Count_LO.pdf, id=572, 568.1225pt x 853.1875pt>
+<Figures/ChapterIV/Bos_Count_LO.pdf, id=614, 568.1225pt x 853.1875pt>
 File: Figures/ChapterIV/Bos_Count_LO.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/Bos_Count_LO.pdf>
 Package pdftex.def Info: Figures/ChapterIV/Bos_Count_LO.pdf  used on input line
@@ -1670,28 +1661,36 @@ Package pdftex.def Info: Figures/ChapterIV/Bos_Count_LO.pdf  used on input line
 
 LaTeX Warning: Float too large for page by 25.2852pt on input line 129.
 
-<Figures/ChapterIV/Bos_Count_LO_Downtown.pdf, id=573, 853.1875pt x 568.1225pt>
+<Figures/ChapterIV/Bos_Count_LO_Downtown.pdf, id=615, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/Bos_Count_LO_Downtown.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/Bos_Count_LO_Downtown.pdf>
 Package pdftex.def Info: Figures/ChapterIV/Bos_Count_LO_Downtown.pdf  used on i
 nput line 133.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-<Figures/ChapterIV/Bos_Money_EH.pdf, id=574, 568.1225pt x 853.1875pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [90]
+[91 <./Figures/ChapterIV/Bos_Count_EH.pdf>] [92 <./Figures/ChapterIV/Bos_Count_
+EH_Downtown.pdf>] [93 <./Figures/ChapterIV/Bos_Count_LO.pdf>] [94 <./Figures/Ch
+apterIV/Bos_Count_LO_Downtown.pdf>]
+<Figures/ChapterIV/Bos_Money_EH.pdf, id=662, 568.1225pt x 853.1875pt>
 File: Figures/ChapterIV/Bos_Money_EH.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/Bos_Money_EH.pdf>
 Package pdftex.def Info: Figures/ChapterIV/Bos_Money_EH.pdf  used on input line
  145.
 (pdftex.def)             Requested size: 433.62001pt x 651.21523pt.
 
+
 LaTeX Warning: Float too large for page by 39.7852pt on input line 148.
 
-<Figures/ChapterIV/Bos_Money_EH_Downtown.pdf, id=575, 853.1875pt x 568.1225pt>
+<Figures/ChapterIV/Bos_Money_EH_Downtown.pdf, id=663, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/Bos_Money_EH_Downtown.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/Bos_Money_EH_Downtown.pdf>
 Package pdftex.def Info: Figures/ChapterIV/Bos_Money_EH_Downtown.pdf  used on i
 nput line 152.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-<Figures/ChapterIV/Bos_Money_LO.pdf, id=576, 568.1225pt x 853.1875pt>
+<Figures/ChapterIV/Bos_Money_LO.pdf, id=664, 568.1225pt x 853.1875pt>
 File: Figures/ChapterIV/Bos_Money_LO.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/Bos_Money_LO.pdf>
 Package pdftex.def Info: Figures/ChapterIV/Bos_Money_LO.pdf  used on input line
@@ -1700,13 +1699,13 @@ Package pdftex.def Info: Figures/ChapterIV/Bos_Money_LO.pdf  used on input line
 
 LaTeX Warning: Float too large for page by 25.2852pt on input line 165.
 
-<Figures/ChapterIV/Bos_Money_LO_Downtown.pdf, id=577, 853.1875pt x 568.1225pt>
+<Figures/ChapterIV/Bos_Money_LO_Downtown.pdf, id=665, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/Bos_Money_LO_Downtown.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/Bos_Money_LO_Downtown.pdf>
 Package pdftex.def Info: Figures/ChapterIV/Bos_Money_LO_Downtown.pdf  used on i
 nput line 170.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-<Figures/ChapterIV/Chi_Count_EH.pdf, id=578, 568.1225pt x 853.1875pt>
+<Figures/ChapterIV/Chi_Count_EH.pdf, id=666, 568.1225pt x 853.1875pt>
 File: Figures/ChapterIV/Chi_Count_EH.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/Chi_Count_EH.pdf>
 Package pdftex.def Info: Figures/ChapterIV/Chi_Count_EH.pdf  used on input line
@@ -1715,48 +1714,50 @@ Package pdftex.def Info: Figures/ChapterIV/Chi_Count_EH.pdf  used on input line
 
 LaTeX Warning: Float too large for page by 39.7852pt on input line 186.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [88]
-<Figures/ChapterIV/Chi_Count_EH_Downtown.pdf, id=582, 853.1875pt x 568.1225pt>
+<Figures/ChapterIV/Chi_Count_EH_Downtown.pdf, id=667, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/Chi_Count_EH_Downtown.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/Chi_Count_EH_Downtown.pdf>
 Package pdftex.def Info: Figures/ChapterIV/Chi_Count_EH_Downtown.pdf  used on i
 nput line 190.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-<Figures/ChapterIV/Chi_Count_LO.pdf, id=583, 568.1225pt x 853.1875pt>
+<Figures/ChapterIV/Chi_Count_LO.pdf, id=668, 568.1225pt x 853.1875pt>
 File: Figures/ChapterIV/Chi_Count_LO.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/Chi_Count_LO.pdf>
 Package pdftex.def Info: Figures/ChapterIV/Chi_Count_LO.pdf  used on input line
  199.
 (pdftex.def)             Requested size: 433.62001pt x 651.21523pt.
 
-
 LaTeX Warning: Float too large for page by 25.2852pt on input line 202.
 
-<Figures/ChapterIV/Chi_Count_LO_Downtown.pdf, id=584, 853.1875pt x 568.1225pt>
+<Figures/ChapterIV/Chi_Count_LO_Downtown.pdf, id=669, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/Chi_Count_LO_Downtown.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/Chi_Count_LO_Downtown.pdf>
 Package pdftex.def Info: Figures/ChapterIV/Chi_Count_LO_Downtown.pdf  used on i
 nput line 206.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-<Figures/ChapterIV/Chi_Money_EH.pdf, id=585, 568.1225pt x 853.1875pt>
+
+Underfull \vbox (badness 4036) has occurred while \output is active []
+
+ [95]
+[96 <./Figures/ChapterIV/Bos_Money_EH.pdf>] [97 <./Figures/ChapterIV/Bos_Money_
+EH_Downtown.pdf>] [98 <./Figures/ChapterIV/Bos_Money_LO.pdf>]
+<Figures/ChapterIV/Chi_Money_EH.pdf, id=704, 568.1225pt x 853.1875pt>
 File: Figures/ChapterIV/Chi_Money_EH.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/Chi_Money_EH.pdf>
 Package pdftex.def Info: Figures/ChapterIV/Chi_Money_EH.pdf  used on input line
  217.
 (pdftex.def)             Requested size: 433.62001pt x 651.21523pt.
 
+
 LaTeX Warning: Float too large for page by 39.7852pt on input line 220.
 
-<Figures/ChapterIV/Chi_Money_EH_Downtown.pdf, id=586, 853.1875pt x 568.1225pt>
+<Figures/ChapterIV/Chi_Money_EH_Downtown.pdf, id=705, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/Chi_Money_EH_Downtown.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/Chi_Money_EH_Downtown.pdf>
 Package pdftex.def Info: Figures/ChapterIV/Chi_Money_EH_Downtown.pdf  used on i
 nput line 224.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-<Figures/ChapterIV/Chi_Money_LO.pdf, id=587, 568.1225pt x 853.1875pt>
+<Figures/ChapterIV/Chi_Money_LO.pdf, id=706, 568.1225pt x 853.1875pt>
 File: Figures/ChapterIV/Chi_Money_LO.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/Chi_Money_LO.pdf>
 Package pdftex.def Info: Figures/ChapterIV/Chi_Money_LO.pdf  used on input line
@@ -1765,14 +1766,19 @@ Package pdftex.def Info: Figures/ChapterIV/Chi_Money_LO.pdf  used on input line
 
 LaTeX Warning: Float too large for page by 25.2852pt on input line 237.
 
-<Figures/ChapterIV/Chi_Money_LO_Downtown.pdf, id=588, 853.1875pt x 568.1225pt>
+[99 <./Figures/ChapterIV/Bos_Money_LO_Downtown.pdf>] [100 <./Figures/ChapterIV/
+Chi_Count_EH.pdf>] [101 <./Figures/ChapterIV/Chi_Count_EH_Downtown.pdf>]
+[102 <./Figures/ChapterIV/Chi_Count_LO.pdf>]
+<Figures/ChapterIV/Chi_Money_LO_Downtown.pdf, id=749, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/Chi_Money_LO_Downtown.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/Chi_Money_LO_Downtown.pdf>
 Package pdftex.def Info: Figures/ChapterIV/Chi_Money_LO_Downtown.pdf  used on i
 nput line 242.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-[89]
-<Figures/ChapterIV/LA_Count_EH.pdf, id=592, 568.1225pt x 853.1875pt>
+ [103 <./Figures/ChapterIV/Chi_Count_LO_Downtown.pdf>] [104 <./Figures/ChapterI
+V/Chi_Money_EH.pdf>] [105 <./Figures/ChapterIV/Chi_Money_EH_Downtown.pdf>] [106
+ <./Figures/ChapterIV/Chi_Money_LO.pdf>]
+<Figures/ChapterIV/LA_Count_EH.pdf, id=790, 568.1225pt x 853.1875pt>
 File: Figures/ChapterIV/LA_Count_EH.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/LA_Count_EH.pdf>
 Package pdftex.def Info: Figures/ChapterIV/LA_Count_EH.pdf  used on input line 
@@ -1782,13 +1788,13 @@ Package pdftex.def Info: Figures/ChapterIV/LA_Count_EH.pdf  used on input line
 
 LaTeX Warning: Float too large for page by 39.7852pt on input line 262.
 
-<Figures/ChapterIV/LA_Count_EH_Downtown.pdf, id=593, 853.1875pt x 568.1225pt>
+<Figures/ChapterIV/LA_Count_EH_Downtown.pdf, id=791, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/LA_Count_EH_Downtown.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/LA_Count_EH_Downtown.pdf>
 Package pdftex.def Info: Figures/ChapterIV/LA_Count_EH_Downtown.pdf  used on in
 put line 266.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-<Figures/ChapterIV/LA_Count_LO.pdf, id=594, 568.1225pt x 853.1875pt>
+<Figures/ChapterIV/LA_Count_LO.pdf, id=792, 568.1225pt x 853.1875pt>
 File: Figures/ChapterIV/LA_Count_LO.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/LA_Count_LO.pdf>
 Package pdftex.def Info: Figures/ChapterIV/LA_Count_LO.pdf  used on input line 
@@ -1797,30 +1803,35 @@ Package pdftex.def Info: Figures/ChapterIV/LA_Count_LO.pdf  used on input line
 
 LaTeX Warning: Float too large for page by 25.2852pt on input line 277.
 
-<Figures/ChapterIV/LA_Count_LO_Downtown.pdf, id=595, 853.1875pt x 568.1225pt>
+<Figures/ChapterIV/LA_Count_LO_Downtown.pdf, id=793, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/LA_Count_LO_Downtown.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/LA_Count_LO_Downtown.pdf>
 Package pdftex.def Info: Figures/ChapterIV/LA_Count_LO_Downtown.pdf  used on in
 put line 281.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-[90]
-<Figures/ChapterIV/LA_Money_EH.pdf, id=599, 568.1225pt x 853.1875pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [107 <./Figures/ChapterIV/Chi_Money_LO_Downtown.pdf>] [108 <./Figures/ChapterI
+V/LA_Count_EH.pdf>] [109 <./Figures/ChapterIV/LA_Count_EH_Downtown.pdf>] [110 <
+./Figures/ChapterIV/LA_Count_LO.pdf>] [111 <./Figures/ChapterIV/LA_Count_LO_Dow
+ntown.pdf>]
+<Figures/ChapterIV/LA_Money_EH.pdf, id=849, 568.1225pt x 853.1875pt>
 File: Figures/ChapterIV/LA_Money_EH.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/LA_Money_EH.pdf>
 Package pdftex.def Info: Figures/ChapterIV/LA_Money_EH.pdf  used on input line 
 295.
 (pdftex.def)             Requested size: 433.62001pt x 651.21523pt.
 
-
 LaTeX Warning: Float too large for page by 39.7852pt on input line 298.
 
-<Figures/ChapterIV/LA_Money_EH_Downtown.pdf, id=600, 853.1875pt x 568.1225pt>
+<Figures/ChapterIV/LA_Money_EH_Downtown.pdf, id=850, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/LA_Money_EH_Downtown.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/LA_Money_EH_Downtown.pdf>
 Package pdftex.def Info: Figures/ChapterIV/LA_Money_EH_Downtown.pdf  used on in
 put line 302.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-<Figures/ChapterIV/LA_Money_LO.pdf, id=601, 568.1225pt x 853.1875pt>
+<Figures/ChapterIV/LA_Money_LO.pdf, id=851, 568.1225pt x 853.1875pt>
 File: Figures/ChapterIV/LA_Money_LO.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/LA_Money_LO.pdf>
 Package pdftex.def Info: Figures/ChapterIV/LA_Money_LO.pdf  used on input line 
@@ -1829,17 +1840,16 @@ Package pdftex.def Info: Figures/ChapterIV/LA_Money_LO.pdf  used on input line
 
 LaTeX Warning: Float too large for page by 25.2852pt on input line 312.
 
-<Figures/ChapterIV/LA_Money_LO_Downtown.pdf, id=602, 853.1875pt x 568.1225pt>
+<Figures/ChapterIV/LA_Money_LO_Downtown.pdf, id=852, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/LA_Money_LO_Downtown.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/LA_Money_LO_Downtown.pdf>
 Package pdftex.def Info: Figures/ChapterIV/LA_Money_LO_Downtown.pdf  used on in
 put line 316.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-
-Underfull \vbox (badness 1158) has occurred while \output is active []
-
- [91]
-<Figures/ChapterIV/NY_Count_EH.pdf, id=607, 568.1225pt x 853.1875pt>
+[112] [113 <./Figures/ChapterIV/LA_Money_EH.pdf>] [114 <./Figures/ChapterIV/LA_
+Money_EH_Downtown.pdf>] [115 <./Figures/ChapterIV/LA_Money_LO.pdf>] [116 <./Fig
+ures/ChapterIV/LA_Money_LO_Downtown.pdf>]
+<Figures/ChapterIV/NY_Count_EH.pdf, id=899, 568.1225pt x 853.1875pt>
 File: Figures/ChapterIV/NY_Count_EH.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/NY_Count_EH.pdf>
 Package pdftex.def Info: Figures/ChapterIV/NY_Count_EH.pdf  used on input line 
@@ -1849,13 +1859,13 @@ Package pdftex.def Info: Figures/ChapterIV/NY_Count_EH.pdf  used on input line
 
 LaTeX Warning: Float too large for page by 39.7852pt on input line 336.
 
-<Figures/ChapterIV/NY_Count_EH_Downtown.pdf, id=608, 853.1875pt x 568.1225pt>
+<Figures/ChapterIV/NY_Count_EH_Downtown.pdf, id=900, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/NY_Count_EH_Downtown.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/NY_Count_EH_Downtown.pdf>
 Package pdftex.def Info: Figures/ChapterIV/NY_Count_EH_Downtown.pdf  used on in
 put line 341.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-<Figures/ChapterIV/NY_Count_LO.pdf, id=609, 568.1225pt x 853.1875pt>
+<Figures/ChapterIV/NY_Count_LO.pdf, id=901, 568.1225pt x 853.1875pt>
 File: Figures/ChapterIV/NY_Count_LO.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/NY_Count_LO.pdf>
 Package pdftex.def Info: Figures/ChapterIV/NY_Count_LO.pdf  used on input line 
@@ -1864,13 +1874,13 @@ Package pdftex.def Info: Figures/ChapterIV/NY_Count_LO.pdf  used on input line
 
 LaTeX Warning: Float too large for page by 25.2852pt on input line 351.
 
-<Figures/ChapterIV/NY_Count_LO_Downtown.pdf, id=610, 853.1875pt x 568.1225pt>
+<Figures/ChapterIV/NY_Count_LO_Downtown.pdf, id=902, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/NY_Count_LO_Downtown.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/NY_Count_LO_Downtown.pdf>
 Package pdftex.def Info: Figures/ChapterIV/NY_Count_LO_Downtown.pdf  used on in
 put line 355.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-<Figures/ChapterIV/NY_Money_EH.pdf, id=611, 568.1225pt x 853.1875pt>
+<Figures/ChapterIV/NY_Money_EH.pdf, id=903, 568.1225pt x 853.1875pt>
 File: Figures/ChapterIV/NY_Money_EH.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/NY_Money_EH.pdf>
 Package pdftex.def Info: Figures/ChapterIV/NY_Money_EH.pdf  used on input line 
@@ -1879,13 +1889,13 @@ Package pdftex.def Info: Figures/ChapterIV/NY_Money_EH.pdf  used on input line
 
 LaTeX Warning: Float too large for page by 39.7852pt on input line 368.
 
-<Figures/ChapterIV/NY_Money_EH_Downtown.pdf, id=612, 853.1875pt x 568.1225pt>
+<Figures/ChapterIV/NY_Money_EH_Downtown.pdf, id=904, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/NY_Money_EH_Downtown.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/NY_Money_EH_Downtown.pdf>
 Package pdftex.def Info: Figures/ChapterIV/NY_Money_EH_Downtown.pdf  used on in
 put line 372.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-<Figures/ChapterIV/NY_Money_LO.pdf, id=613, 568.1225pt x 853.1875pt>
+<Figures/ChapterIV/NY_Money_LO.pdf, id=905, 568.1225pt x 853.1875pt>
 File: Figures/ChapterIV/NY_Money_LO.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/NY_Money_LO.pdf>
 Package pdftex.def Info: Figures/ChapterIV/NY_Money_LO.pdf  used on input line 
@@ -1894,13 +1904,13 @@ Package pdftex.def Info: Figures/ChapterIV/NY_Money_LO.pdf  used on input line
 
 LaTeX Warning: Float too large for page by 25.2852pt on input line 383.
 
-<Figures/ChapterIV/NY_Money_LO_Downtown.pdf, id=614, 853.1875pt x 568.1225pt>
+<Figures/ChapterIV/NY_Money_LO_Downtown.pdf, id=906, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/NY_Money_LO_Downtown.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/NY_Money_LO_Downtown.pdf>
 Package pdftex.def Info: Figures/ChapterIV/NY_Money_LO_Downtown.pdf  used on in
 put line 387.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-<Figures/ChapterIV/SF_Count_EH.pdf, id=615, 568.1225pt x 853.1875pt>
+<Figures/ChapterIV/SF_Count_EH.pdf, id=907, 568.1225pt x 853.1875pt>
 File: Figures/ChapterIV/SF_Count_EH.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/SF_Count_EH.pdf>
 Package pdftex.def Info: Figures/ChapterIV/SF_Count_EH.pdf  used on input line 
@@ -1909,48 +1919,46 @@ Package pdftex.def Info: Figures/ChapterIV/SF_Count_EH.pdf  used on input line
 
 LaTeX Warning: Float too large for page by 39.7852pt on input line 405.
 
-<Figures/ChapterIV/SF_Count_EH_Downtown.pdf, id=616, 853.1875pt x 568.1225pt>
+[117] [118 <./Figures/ChapterIV/NY_Count_EH.pdf>] [119 <./Figures/ChapterIV/NY_
+Count_EH_Downtown.pdf>] [120 <./Figures/ChapterIV/NY_Count_LO.pdf>]
+<Figures/ChapterIV/SF_Count_EH_Downtown.pdf, id=941, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/SF_Count_EH_Downtown.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/SF_Count_EH_Downtown.pdf>
 Package pdftex.def Info: Figures/ChapterIV/SF_Count_EH_Downtown.pdf  used on in
 put line 409.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-<Figures/ChapterIV/SF_Count_LO.pdf, id=617, 568.1225pt x 853.1875pt>
+<Figures/ChapterIV/SF_Count_LO.pdf, id=942, 568.1225pt x 853.1875pt>
 File: Figures/ChapterIV/SF_Count_LO.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/SF_Count_LO.pdf>
 Package pdftex.def Info: Figures/ChapterIV/SF_Count_LO.pdf  used on input line 
 418.
 (pdftex.def)             Requested size: 433.62001pt x 651.21523pt.
 
+
 LaTeX Warning: Float too large for page by 25.2852pt on input line 421.
 
-<Figures/ChapterIV/SF_Count_LO_Downtown.pdf, id=618, 853.1875pt x 568.1225pt>
+<Figures/ChapterIV/SF_Count_LO_Downtown.pdf, id=943, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/SF_Count_LO_Downtown.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/SF_Count_LO_Downtown.pdf>
 Package pdftex.def Info: Figures/ChapterIV/SF_Count_LO_Downtown.pdf  used on in
 put line 425.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-
-Underfull \vbox (badness 7832) has occurred while \output is active []
-
- [92]
-<Figures/ChapterIV/SF_Money_EH.pdf, id=622, 568.1225pt x 853.1875pt>
+<Figures/ChapterIV/SF_Money_EH.pdf, id=944, 568.1225pt x 853.1875pt>
 File: Figures/ChapterIV/SF_Money_EH.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/SF_Money_EH.pdf>
 Package pdftex.def Info: Figures/ChapterIV/SF_Money_EH.pdf  used on input line 
 436.
 (pdftex.def)             Requested size: 433.62001pt x 651.21523pt.
 
-
 LaTeX Warning: Float too large for page by 39.7852pt on input line 439.
 
-<Figures/ChapterIV/SF_Money_EH_Downtown.pdf, id=623, 853.1875pt x 568.1225pt>
+<Figures/ChapterIV/SF_Money_EH_Downtown.pdf, id=945, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/SF_Money_EH_Downtown.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/SF_Money_EH_Downtown.pdf>
 Package pdftex.def Info: Figures/ChapterIV/SF_Money_EH_Downtown.pdf  used on in
 put line 443.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-<Figures/ChapterIV/SF_Money_LO.pdf, id=624, 568.1225pt x 853.1875pt>
+<Figures/ChapterIV/SF_Money_LO.pdf, id=946, 568.1225pt x 853.1875pt>
 File: Figures/ChapterIV/SF_Money_LO.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/SF_Money_LO.pdf>
 Package pdftex.def Info: Figures/ChapterIV/SF_Money_LO.pdf  used on input line 
@@ -1959,53 +1967,42 @@ Package pdftex.def Info: Figures/ChapterIV/SF_Money_LO.pdf  used on input line
 
 LaTeX Warning: Float too large for page by 25.2852pt on input line 454.
 
-<Figures/ChapterIV/SF_Money_LO_Downtown.pdf, id=625, 853.1875pt x 568.1225pt>
+<Figures/ChapterIV/SF_Money_LO_Downtown.pdf, id=947, 853.1875pt x 568.1225pt>
 File: Figures/ChapterIV/SF_Money_LO_Downtown.pdf Graphic file (type pdf)
 <use Figures/ChapterIV/SF_Money_LO_Downtown.pdf>
 Package pdftex.def Info: Figures/ChapterIV/SF_Money_LO_Downtown.pdf  used on in
 put line 458.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-[93]) [94] [95 <./Figures/ChapterIV/USA_Count_EH.pdf>] [96 <./Figures/ChapterIV
-/USA_Count_LO.pdf>] [97 <./Figures/ChapterIV/USA_Money_EH.pdf>] [98 <./Figures/
-ChapterIV/USA_Money_LO.pdf>] [99 <./Figures/ChapterIV/Bos_Count_EH.pdf>]
-[100 <./Figures/ChapterIV/Bos_Count_EH_Downtown.pdf>] [101 <./Figures/ChapterIV
-/Bos_Count_LO.pdf>] [102 <./Figures/ChapterIV/Bos_Count_LO_Downtown.pdf>]
-[103 <./Figures/ChapterIV/Bos_Money_EH.pdf>] [104 <./Figures/ChapterIV/Bos_Mone
-y_EH_Downtown.pdf>] [105 <./Figures/ChapterIV/Bos_Money_LO.pdf>] [106 <./Figure
-s/ChapterIV/Bos_Money_LO_Downtown.pdf>] [107 <./Figures/ChapterIV/Chi_Count_EH.
-pdf>] [108 <./Figures/ChapterIV/Chi_Count_EH_Downtown.pdf>] [109 <./Figures/Cha
-pterIV/Chi_Count_LO.pdf>] [110 <./Figures/ChapterIV/Chi_Count_LO_Downtown.pdf>]
-[111 <./Figures/ChapterIV/Chi_Money_EH.pdf>] [112 <./Figures/ChapterIV/Chi_Mone
-y_EH_Downtown.pdf>] [113 <./Figures/ChapterIV/Chi_Money_LO.pdf>] [114 <./Figure
-s/ChapterIV/Chi_Money_LO_Downtown.pdf>] [115 <./Figures/ChapterIV/LA_Count_EH.p
-df>] [116 <./Figures/ChapterIV/LA_Count_EH_Downtown.pdf>] [117 <./Figures/Chapt
-erIV/LA_Count_LO.pdf>] [118 <./Figures/ChapterIV/LA_Count_LO_Downtown.pdf>]
-[119 <./Figures/ChapterIV/LA_Money_EH.pdf>] [120 <./Figures/ChapterIV/LA_Money_
-EH_Downtown.pdf>] [121 <./Figures/ChapterIV/LA_Money_LO.pdf>] [122 <./Figures/C
-hapterIV/LA_Money_LO_Downtown.pdf>] [123 <./Figures/ChapterIV/NY_Count_EH.pdf>]
-[124 <./Figures/ChapterIV/NY_Count_EH_Downtown.pdf>] [125 <./Figures/ChapterIV/
-NY_Count_LO.pdf>] [126 <./Figures/ChapterIV/NY_Count_LO_Downtown.pdf>] [127 <./
-Figures/ChapterIV/NY_Money_EH.pdf>] [128 <./Figures/ChapterIV/NY_Money_EH_Downt
-own.pdf>] [129 <./Figures/ChapterIV/NY_Money_LO.pdf>] [130 <./Figures/ChapterIV
-/NY_Money_LO_Downtown.pdf>] [131 <./Figures/ChapterIV/SF_Count_EH.pdf>]
-[132 <./Figures/ChapterIV/SF_Count_EH_Downtown.pdf>] [133 <./Figures/ChapterIV/
-SF_Count_LO.pdf>] [134 <./Figures/ChapterIV/SF_Count_LO_Downtown.pdf>] [135 <./
-Figures/ChapterIV/SF_Money_EH.pdf>] [136 <./Figures/ChapterIV/SF_Money_EH_Downt
-own.pdf>] [137 <./Figures/ChapterIV/SF_Money_LO.pdf>] [138 <./Figures/ChapterIV
-/SF_Money_LO_Downtown.pdf>]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [121 <./Figures/ChapterIV/NY_Count_LO_Downtown.pdf>] [122 <./Figures/ChapterIV
+/NY_Money_EH.pdf>] [123 <./Figures/ChapterIV/NY_Money_EH_Downtown.pdf>] [124 <.
+/Figures/ChapterIV/NY_Money_LO.pdf>] [125 <./Figures/ChapterIV/NY_Money_LO_Down
+town.pdf>]
+[126 <./Figures/ChapterIV/SF_Count_EH.pdf>] [127 <./Figures/ChapterIV/SF_Count_
+EH_Downtown.pdf>] [128 <./Figures/ChapterIV/SF_Count_LO.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [129 <./Figures/ChapterIV/SF_Count_LO_Downtown.pdf>] [130 <./Figures/ChapterIV
+/SF_Money_EH.pdf>] [131 <./Figures/ChapterIV/SF_Money_EH_Downtown.pdf>] [132 <.
+/Figures/ChapterIV/SF_Money_LO.pdf>])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [133 <./Figures/ChapterIV/SF_Money_LO_Downtown.pdf>] [134]
 \openout2 = `ChapterV.aux'.
 
  (ChapterV.tex
 Chapter 5.
-[139
+[135
 
 
 
-] [140]
+] [136]
 Underfull \vbox (badness 5446) has occurred while \output is active []
 
- [141]
-[142] [143]
+ [137]
+[138] [139]
 Overfull \hbox (5.16614pt too wide) detected at line 82
 \OML/cmm/m/it/12 P\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 Z\OMS/cmsy/m/n/12 j\OML/cmm
 /m/it/12 W; D\OT1/cmr/m/n/12 ) = [] \OMS/cmsy/m/n/12  \OT1/cmr/m/n/12 (#[]\OML
@@ -2013,19 +2010,19 @@ Overfull \hbox (5.16614pt too wide) detected at line 82
  []
 
 
-LaTeX Warning: Reference `Section:13F' on page 144 undefined on input line 157.
+LaTeX Warning: Reference `Section:13F' on page 140 undefined on input line 157.
 
 
-[144] [145]
+[140] [141]
 
-Package natbib Warning: Citation `Buffet96' on page 146 undefined on input line
+Package natbib Warning: Citation `Buffet96' on page 142 undefined on input line
  169.
 
-[146]
+[142]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [147]
-<Figures/ChapterV/TopicSelection.pdf, id=1134, 794.97pt x 614.295pt>
+ [143]
+<Figures/ChapterV/TopicSelection.pdf, id=1121, 794.97pt x 614.295pt>
 File: Figures/ChapterV/TopicSelection.pdf Graphic file (type pdf)
 <use Figures/ChapterV/TopicSelection.pdf>
 Package pdftex.def Info: Figures/ChapterV/TopicSelection.pdf  used on input lin
@@ -2034,27 +2031,27 @@ e 181.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [148]
-[149 <./Figures/ChapterV/TopicSelection.pdf>]
-<Figures/ChapterV/LDA34_1-9.pdf, id=1146, 853.1875pt x 568.1225pt>
+ [144]
+[145 <./Figures/ChapterV/TopicSelection.pdf>]
+<Figures/ChapterV/LDA34_1-9.pdf, id=1134, 853.1875pt x 568.1225pt>
 File: Figures/ChapterV/LDA34_1-9.pdf Graphic file (type pdf)
 <use Figures/ChapterV/LDA34_1-9.pdf>
 Package pdftex.def Info: Figures/ChapterV/LDA34_1-9.pdf  used on input line 202
 .
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-<Figures/ChapterV/LDA34_10_18.pdf, id=1147, 853.1875pt x 568.1225pt>
+<Figures/ChapterV/LDA34_10_18.pdf, id=1135, 853.1875pt x 568.1225pt>
 File: Figures/ChapterV/LDA34_10_18.pdf Graphic file (type pdf)
 <use Figures/ChapterV/LDA34_10_18.pdf>
 Package pdftex.def Info: Figures/ChapterV/LDA34_10_18.pdf  used on input line 2
 09.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-<Figures/ChapterV/LDA34_19_27.pdf, id=1148, 853.1875pt x 568.1225pt>
+<Figures/ChapterV/LDA34_19_27.pdf, id=1136, 853.1875pt x 568.1225pt>
 File: Figures/ChapterV/LDA34_19_27.pdf Graphic file (type pdf)
 <use Figures/ChapterV/LDA34_19_27.pdf>
 Package pdftex.def Info: Figures/ChapterV/LDA34_19_27.pdf  used on input line 2
 16.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
-<Figures/ChapterV/LDA34_28_34.pdf, id=1149, 853.1875pt x 568.1225pt>
+<Figures/ChapterV/LDA34_28_34.pdf, id=1137, 853.1875pt x 568.1225pt>
 File: Figures/ChapterV/LDA34_28_34.pdf Graphic file (type pdf)
 <use Figures/ChapterV/LDA34_28_34.pdf>
 Package pdftex.def Info: Figures/ChapterV/LDA34_28_34.pdf  used on input line 2
@@ -2063,64 +2060,71 @@ Package pdftex.def Info: Figures/ChapterV/LDA34_28_34.pdf  used on input line 2
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [150]
-[151 <./Figures/ChapterV/LDA34_1-9.pdf>] [152 <./Figures/ChapterV/LDA34_10_18.p
-df>] [153 <./Figures/ChapterV/LDA34_19_27.pdf>] [154 <./Figures/ChapterV/LDA34_
+ [146]
+[147 <./Figures/ChapterV/LDA34_1-9.pdf>] [148 <./Figures/ChapterV/LDA34_10_18.p
+df>] [149 <./Figures/ChapterV/LDA34_19_27.pdf>] [150 <./Figures/ChapterV/LDA34_
 28_34.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [155]
+ [151]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [156]
+ [152]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [157]
-[158] [159] [160] [161]
-<Figures/ChapterV/States_01_09.jpg, id=1224, 852.93657pt x 852.93657pt>
+ [153]
+[154] [155] [156] [157]
+<Figures/ChapterV/States_01_09.jpg, id=1212, 852.93657pt x 852.93657pt>
 File: Figures/ChapterV/States_01_09.jpg Graphic file (type jpg)
 <use Figures/ChapterV/States_01_09.jpg>
 Package pdftex.def Info: Figures/ChapterV/States_01_09.jpg  used on input line 
-328.
+327.
 (pdftex.def)             Requested size: 433.62001pt x 433.62535pt.
-<Figures/ChapterV/States_10_18.jpg, id=1226, 852.93657pt x 852.93657pt>
+<Figures/ChapterV/States_10_18.jpg, id=1214, 852.93657pt x 852.93657pt>
 File: Figures/ChapterV/States_10_18.jpg Graphic file (type jpg)
 <use Figures/ChapterV/States_10_18.jpg>
 Package pdftex.def Info: Figures/ChapterV/States_10_18.jpg  used on input line 
-335.
+334.
 (pdftex.def)             Requested size: 433.62001pt x 433.62535pt.
-<Figures/ChapterV/States_19_27.jpg, id=1227, 852.93657pt x 852.93657pt>
+<Figures/ChapterV/States_19_27.jpg, id=1215, 852.93657pt x 852.93657pt>
 File: Figures/ChapterV/States_19_27.jpg Graphic file (type jpg)
 <use Figures/ChapterV/States_19_27.jpg>
 Package pdftex.def Info: Figures/ChapterV/States_19_27.jpg  used on input line 
-342.
+341.
 (pdftex.def)             Requested size: 433.62001pt x 433.62535pt.
-<Figures/ChapterV/States_28_34.jpg, id=1228, 852.93657pt x 852.93657pt>
+<Figures/ChapterV/States_28_34.jpg, id=1216, 852.93657pt x 852.93657pt>
 File: Figures/ChapterV/States_28_34.jpg Graphic file (type jpg)
 <use Figures/ChapterV/States_28_34.jpg>
 Package pdftex.def Info: Figures/ChapterV/States_28_34.jpg  used on input line 
-349.
+348.
 (pdftex.def)             Requested size: 433.62001pt x 433.62535pt.
-) [162] [163 <./Figures/ChapterV/States_01_09.jpg>]
-[164 <./Figures/ChapterV/States_10_18.jpg>] [165 <./Figures/ChapterV/States_19_
-27.jpg>] [166 <./Figures/ChapterV/States_28_34.jpg>]
+<Figures/ChapterV/Violinplot_q1.pdf, id=1217, 853.1875pt x 568.1225pt>
+File: Figures/ChapterV/Violinplot_q1.pdf Graphic file (type pdf)
+<use Figures/ChapterV/Violinplot_q1.pdf>
+Package pdftex.def Info: Figures/ChapterV/Violinplot_q1.pdf  used on input line
+ 356.
+(pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
+ [158] [159 <./Figures/ChapterV/States_01_09.jpg>]
+[160 <./Figures/ChapterV/States_10_18.jpg>] [161 <./Figures/ChapterV/States_19_
+27.jpg>] [162 <./Figures/ChapterV/States_28_34.jpg>] [163 <./Figures/ChapterV/V
+iolinplot_q1.pdf>]) [164]
 \openout2 = `Conclusion.aux'.
 
  (Conclusion.tex
 Chapter 6.
-[167
+[165
 
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [168]
-[169]) [170] [171
+ [166]
+[167]) [168] [169
 
 
 
-] [172]
+] [170]
 \openout2 = `Appendix/CountbyState_Lda34.aux'.
 
  (Appendix/CountbyState_Lda34.tex
@@ -2147,248 +2151,248 @@ Overfull \hbox (17.57623pt too wide) in paragraph at lines 97--135
 [][] 
  []
 
-<Figures/ChapterV/USA_34_Topic01.pdf, id=1268, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic01.pdf, id=1269, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic01.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic01.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic01.pdf  used on input lin
 e 145.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic02.pdf, id=1269, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic02.pdf, id=1270, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic02.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic02.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic02.pdf  used on input lin
 e 152.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic03.pdf, id=1270, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic03.pdf, id=1271, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic03.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic03.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic03.pdf  used on input lin
 e 159.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic04.pdf, id=1271, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic04.pdf, id=1272, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic04.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic04.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic04.pdf  used on input lin
 e 166.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic05.pdf, id=1272, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic05.pdf, id=1273, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic05.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic05.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic05.pdf  used on input lin
 e 173.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic06.pdf, id=1273, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic06.pdf, id=1274, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic06.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic06.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic06.pdf  used on input lin
 e 180.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic07.pdf, id=1274, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic07.pdf, id=1275, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic07.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic07.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic07.pdf  used on input lin
 e 187.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic08.pdf, id=1275, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic08.pdf, id=1276, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic08.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic08.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic08.pdf  used on input lin
 e 194.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic09.pdf, id=1276, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic09.pdf, id=1277, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic09.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic09.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic09.pdf  used on input lin
 e 201.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic10.pdf, id=1277, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic10.pdf, id=1278, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic10.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic10.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic10.pdf  used on input lin
 e 208.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic11.pdf, id=1278, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic11.pdf, id=1279, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic11.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic11.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic11.pdf  used on input lin
 e 215.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic12.pdf, id=1279, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic12.pdf, id=1280, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic12.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic12.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic12.pdf  used on input lin
 e 222.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic13.pdf, id=1280, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic13.pdf, id=1281, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic13.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic13.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic13.pdf  used on input lin
 e 229.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic14.pdf, id=1281, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic14.pdf, id=1282, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic14.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic14.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic14.pdf  used on input lin
 e 236.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic15.pdf, id=1282, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic15.pdf, id=1283, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic15.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic15.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic15.pdf  used on input lin
 e 243.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic16.pdf, id=1283, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic16.pdf, id=1284, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic16.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic16.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic16.pdf  used on input lin
 e 250.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic17.pdf, id=1284, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic17.pdf, id=1285, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic17.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic17.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic17.pdf  used on input lin
 e 257.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic18.pdf, id=1285, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic18.pdf, id=1286, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic18.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic18.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic18.pdf  used on input lin
 e 264.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic19.pdf, id=1286, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic19.pdf, id=1287, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic19.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic19.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic19.pdf  used on input lin
 e 271.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic20.pdf, id=1287, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic20.pdf, id=1288, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic20.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic20.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic20.pdf  used on input lin
 e 278.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic21.pdf, id=1288, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic21.pdf, id=1289, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic21.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic21.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic21.pdf  used on input lin
 e 285.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic22.pdf, id=1289, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic22.pdf, id=1290, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic22.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic22.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic22.pdf  used on input lin
 e 292.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic23.pdf, id=1290, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic23.pdf, id=1291, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic23.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic23.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic23.pdf  used on input lin
 e 299.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic24.pdf, id=1291, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic24.pdf, id=1292, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic24.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic24.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic24.pdf  used on input lin
 e 306.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic25.pdf, id=1292, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic25.pdf, id=1293, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic25.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic25.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic25.pdf  used on input lin
 e 313.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic26.pdf, id=1293, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic26.pdf, id=1294, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic26.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic26.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic26.pdf  used on input lin
 e 320.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic27.pdf, id=1294, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic27.pdf, id=1295, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic27.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic27.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic27.pdf  used on input lin
 e 327.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic28.pdf, id=1295, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic28.pdf, id=1296, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic28.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic28.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic28.pdf  used on input lin
 e 334.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic29.pdf, id=1296, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic29.pdf, id=1297, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic29.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic29.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic29.pdf  used on input lin
 e 341.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic30.pdf, id=1297, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic30.pdf, id=1298, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic30.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic30.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic30.pdf  used on input lin
 e 348.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic31.pdf, id=1298, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic31.pdf, id=1299, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic31.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic31.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic31.pdf  used on input lin
 e 355.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic32.pdf, id=1299, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic32.pdf, id=1300, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic32.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic32.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic32.pdf  used on input lin
 e 362.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic33.pdf, id=1300, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic33.pdf, id=1301, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic33.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic33.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic33.pdf  used on input lin
 e 369.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-<Figures/ChapterV/USA_34_Topic34.pdf, id=1301, 853.1875pt x 853.1875pt>
+<Figures/ChapterV/USA_34_Topic34.pdf, id=1302, 853.1875pt x 853.1875pt>
 File: Figures/ChapterV/USA_34_Topic34.pdf Graphic file (type pdf)
 <use Figures/ChapterV/USA_34_Topic34.pdf>
 Package pdftex.def Info: Figures/ChapterV/USA_34_Topic34.pdf  used on input lin
 e 376.
 (pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
-) [173
+) [171
 
 
-] [174] [175] [176] [177 <./Figures/ChapterV/USA_34_Topic01.pdf>]
-[178 <./Figures/ChapterV/USA_34_Topic02.pdf>] [179 <./Figures/ChapterV/USA_34_T
-opic03.pdf>] [180 <./Figures/ChapterV/USA_34_Topic04.pdf>] [181 <./Figures/Chap
-terV/USA_34_Topic05.pdf>] [182 <./Figures/ChapterV/USA_34_Topic06.pdf>]
-[183 <./Figures/ChapterV/USA_34_Topic07.pdf>] [184 <./Figures/ChapterV/USA_34_T
-opic08.pdf>] [185 <./Figures/ChapterV/USA_34_Topic09.pdf>] [186 <./Figures/Chap
-terV/USA_34_Topic10.pdf>] [187 <./Figures/ChapterV/USA_34_Topic11.pdf>]
-[188 <./Figures/ChapterV/USA_34_Topic12.pdf>] [189 <./Figures/ChapterV/USA_34_T
-opic13.pdf>] [190 <./Figures/ChapterV/USA_34_Topic14.pdf>] [191 <./Figures/Chap
-terV/USA_34_Topic15.pdf>] [192 <./Figures/ChapterV/USA_34_Topic16.pdf>]
-[193 <./Figures/ChapterV/USA_34_Topic17.pdf>] [194 <./Figures/ChapterV/USA_34_T
-opic18.pdf>] [195 <./Figures/ChapterV/USA_34_Topic19.pdf>] [196 <./Figures/Chap
-terV/USA_34_Topic20.pdf>] [197 <./Figures/ChapterV/USA_34_Topic21.pdf>]
-[198 <./Figures/ChapterV/USA_34_Topic22.pdf>] [199 <./Figures/ChapterV/USA_34_T
-opic23.pdf>] [200 <./Figures/ChapterV/USA_34_Topic24.pdf>] [201 <./Figures/Chap
-terV/USA_34_Topic25.pdf>] [202 <./Figures/ChapterV/USA_34_Topic26.pdf>]
-[203 <./Figures/ChapterV/USA_34_Topic27.pdf>] [204 <./Figures/ChapterV/USA_34_T
-opic28.pdf>] [205 <./Figures/ChapterV/USA_34_Topic29.pdf>] [206 <./Figures/Chap
-terV/USA_34_Topic30.pdf>] [207 <./Figures/ChapterV/USA_34_Topic31.pdf>]
-[208 <./Figures/ChapterV/USA_34_Topic32.pdf>] [209 <./Figures/ChapterV/USA_34_T
-opic33.pdf>] [210 <./Figures/ChapterV/USA_34_Topic34.pdf>]
+] [172] [173] [174] [175 <./Figures/ChapterV/USA_34_Topic01.pdf>]
+[176 <./Figures/ChapterV/USA_34_Topic02.pdf>] [177 <./Figures/ChapterV/USA_34_T
+opic03.pdf>] [178 <./Figures/ChapterV/USA_34_Topic04.pdf>] [179 <./Figures/Chap
+terV/USA_34_Topic05.pdf>] [180 <./Figures/ChapterV/USA_34_Topic06.pdf>]
+[181 <./Figures/ChapterV/USA_34_Topic07.pdf>] [182 <./Figures/ChapterV/USA_34_T
+opic08.pdf>] [183 <./Figures/ChapterV/USA_34_Topic09.pdf>] [184 <./Figures/Chap
+terV/USA_34_Topic10.pdf>] [185 <./Figures/ChapterV/USA_34_Topic11.pdf>]
+[186 <./Figures/ChapterV/USA_34_Topic12.pdf>] [187 <./Figures/ChapterV/USA_34_T
+opic13.pdf>] [188 <./Figures/ChapterV/USA_34_Topic14.pdf>] [189 <./Figures/Chap
+terV/USA_34_Topic15.pdf>] [190 <./Figures/ChapterV/USA_34_Topic16.pdf>]
+[191 <./Figures/ChapterV/USA_34_Topic17.pdf>] [192 <./Figures/ChapterV/USA_34_T
+opic18.pdf>] [193 <./Figures/ChapterV/USA_34_Topic19.pdf>] [194 <./Figures/Chap
+terV/USA_34_Topic20.pdf>] [195 <./Figures/ChapterV/USA_34_Topic21.pdf>]
+[196 <./Figures/ChapterV/USA_34_Topic22.pdf>] [197 <./Figures/ChapterV/USA_34_T
+opic23.pdf>] [198 <./Figures/ChapterV/USA_34_Topic24.pdf>] [199 <./Figures/Chap
+terV/USA_34_Topic25.pdf>] [200 <./Figures/ChapterV/USA_34_Topic26.pdf>]
+[201 <./Figures/ChapterV/USA_34_Topic27.pdf>] [202 <./Figures/ChapterV/USA_34_T
+opic28.pdf>] [203 <./Figures/ChapterV/USA_34_Topic29.pdf>] [204 <./Figures/Chap
+terV/USA_34_Topic30.pdf>] [205 <./Figures/ChapterV/USA_34_Topic31.pdf>]
+[206 <./Figures/ChapterV/USA_34_Topic32.pdf>] [207 <./Figures/ChapterV/USA_34_T
+opic33.pdf>] [208 <./Figures/ChapterV/USA_34_Topic34.pdf>]
 \openout2 = `Appendix/Shift_share.aux'.
 
 
 (Appendix/Shift_share.tex
 Appendix B.
-[211
+[209
 
 
 
-] [212
+] [210
 
-] [213] [214] [215] [216] [217] [218] [219] [220] [221] [222]
-[223] [224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234]
-[235] [236] [237] [238] [239] [240] [241] [242]) (main.bbl
+] [211] [212] [213] [214] [215] [216] [217] [218] [219] [220]
+[221] [222] [223] [224] [225] [226] [227] [228] [229] [230] [231] [232]
+[233] [234] [235] [236] [237] [238] [239] [240]) (main.bbl
 Underfull \hbox (badness 3312) in paragraph at lines 30--34
 []\OT1/cmr/m/n/12 Bagli, C. V. (2011).  Re-gret-ting Move, Bank May Re-turn to 
 Man-hat-
@@ -2418,34 +2422,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--41
 dustry/$ \OT1/cmr/m/n/12 (Acessed
  []
 
-[243
+[241
 
 
 
-] [244] [245] [246] [247] [248]
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 369.
+] [242] [243] [244] [245] [246]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 376.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\omlcmr.fd"
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 369.
- [249] [250] [251]
-[252] [253] [254] [255]
-Underfull \hbox (badness 4072) in paragraph at lines 815--820
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 376.
+ [247] [248] [249]
+[250] [251] [252] [253]
+Underfull \hbox (badness 4072) in paragraph at lines 839--844
 []\OT1/cmr/m/n/12 WilmerHale (2013, Jan-uary).  \OT1/cmr/m/it/12 Re-port of JP-
 Mor-gan Chase & Co. Man-
  []
 
 
-Underfull \hbox (badness 3895) in paragraph at lines 815--820
+Underfull \hbox (badness 3895) in paragraph at lines 839--844
 \OT1/cmr/m/it/12 age-ment Task Force Re-gard-ing 2012 CIO Losses\OT1/cmr/m/n/12
  .  Avail-able on-line at
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 815--820
+Underfull \hbox (badness 10000) in paragraph at lines 839--844
 \OT1/cmtt/m/n/12 http : / / files . shareholder . com / downloads / ONE / 22729
 84969x0x628656 /
  []
@@ -2454,7 +2458,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 815--820
 
 Package natbib Warning: There were undefined citations.
 
-[256] (main.aux (ChapterII.aux) (ChapterIII.aux) (ChapterIIIb.aux)
+[254] (main.aux (ChapterII.aux) (ChapterIII.aux) (ChapterIIIb.aux)
 (ChapterIV.aux) (ChapterV.aux) (Conclusion.aux)
 (Appendix/CountbyState_Lda34.aux) (Appendix/Shift_share.aux))
 
@@ -2465,10 +2469,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 29668 strings out of 492945
- 585945 string characters out of 3135513
+ 29686 strings out of 492945
+ 586423 string characters out of 3135513
  803565 words of memory out of 3000000
- 32945 multiletter control sequences out of 15000+200000
+ 32962 multiletter control sequences out of 15000+200000
  544104 words of font info for 69 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  65i,12n,115p,2471b,1046s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2490,9 +2494,9 @@ iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (256 pages, 47140803 bytes).
+Output written on main.pdf (254 pages, 47214656 bytes).
 PDF statistics:
- 1811 PDF objects out of 2073 (max. 8388607)
+ 1812 PDF objects out of 2073 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 679 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 684 words of extra memory for PDF output out of 10000 (max. 10000000)
 

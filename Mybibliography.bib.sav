@@ -5800,10 +5800,37 @@ at the Oxford China Business Forum, Beijing, 9 September 2010.},
   year      = {2000},
 }
 
-@Article{,
+@Article{kenney2019unicorns,
+  author    = {Kenney, Martin and Zysman, John},
+  title     = {Unicorns, Cheshire cats, and the new dilemmas of entrepreneurial finance},
+  number    = {1},
+  pages     = {35--50},
+  volume    = {21},
+  journal   = {Venture Capital},
+  publisher = {Taylor \& Francis},
+  year      = {2019},
 }
 
-@Article{,
+@Article{Lee2013,
+  author       = {Aileen Lee},
+  date         = {2013-11-02},
+  journaltitle = {TechCruch},
+  title        = {Welcome to the Unicorn Club},
+  editor       = {TechCrunch},
+  note         = {\url{https://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club/}},
+  url          = {\url{https://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club/}},
+  year         = {2013},
+}
+
+@Article{florida2016rise,
+  author    = {Florida, Richard and Mellander, Charlotta},
+  title     = {Rise of the startup city: The changing geography of the venture capital financed innovation},
+  number    = {1},
+  pages     = {14--38},
+  volume    = {59},
+  journal   = {California Management Review},
+  publisher = {Sage Publications Sage CA: Los Angeles, CA},
+  year      = {2016},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
