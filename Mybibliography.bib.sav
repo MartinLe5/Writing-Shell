@@ -5833,6 +5833,19 @@ at the Oxford China Business Forum, Beijing, 9 September 2010.},
   year      = {2016},
 }
 
+@Article{harrison2019venture,
+  author       = {Harrison, Richard T and Mason, Colin M},
+  date         = {2019-03-21},
+  journaltitle = {Venture Captial},
+  title        = {Venture Capital 20 years on: reflections on the evolution of a field},
+  doi          = {10.1080/13691066.2019.1562627},
+  issue        = {21},
+  number       = {1},
+  pages        = {1-34},
+  publisher    = {Taylor \& Francis},
+  year         = {2019},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:

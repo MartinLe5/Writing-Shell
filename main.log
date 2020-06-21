@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.3.29)  21 JUN 2020 07:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.3.29)  21 JUN 2020 13:25
 entering extended mode
 **./main.tex
 (main.tex
@@ -2437,28 +2437,28 @@ LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 376.
  [247] [248] [249]
 [250] [251] [252] [253]
-Underfull \hbox (badness 4072) in paragraph at lines 839--844
+Underfull \hbox (badness 4072) in paragraph at lines 845--850
 []\OT1/cmr/m/n/12 WilmerHale (2013, Jan-uary).  \OT1/cmr/m/it/12 Re-port of JP-
 Mor-gan Chase & Co. Man-
  []
 
 
-Underfull \hbox (badness 3895) in paragraph at lines 839--844
+Underfull \hbox (badness 3895) in paragraph at lines 845--850
 \OT1/cmr/m/it/12 age-ment Task Force Re-gard-ing 2012 CIO Losses\OT1/cmr/m/n/12
  .  Avail-able on-line at
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 839--844
+Underfull \hbox (badness 10000) in paragraph at lines 845--850
 \OT1/cmtt/m/n/12 http : / / files . shareholder . com / downloads / ONE / 22729
 84969x0x628656 /
  []
 
-)
+[254])
 
 Package natbib Warning: There were undefined citations.
 
-[254] (main.aux (ChapterII.aux) (ChapterIII.aux) (ChapterIIIb.aux)
+[255] (main.aux (ChapterII.aux) (ChapterIII.aux) (ChapterIIIb.aux)
 (ChapterIV.aux) (ChapterV.aux) (Conclusion.aux)
 (Appendix/CountbyState_Lda34.aux) (Appendix/Shift_share.aux))
 
@@ -2469,10 +2469,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 29686 strings out of 492945
- 586423 string characters out of 3135513
- 803565 words of memory out of 3000000
- 32962 multiletter control sequences out of 15000+200000
+ 29689 strings out of 492945
+ 586504 string characters out of 3135513
+ 803566 words of memory out of 3000000
+ 32965 multiletter control sequences out of 15000+200000
  544104 words of font info for 69 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  65i,12n,115p,2471b,1046s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2494,9 +2494,9 @@ iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (254 pages, 47214656 bytes).
+Output written on main.pdf (255 pages, 47215497 bytes).
 PDF statistics:
- 1812 PDF objects out of 2073 (max. 8388607)
+ 1815 PDF objects out of 2073 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  684 words of extra memory for PDF output out of 10000 (max. 10000000)
 
