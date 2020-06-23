@@ -320,23 +320,13 @@ First of all, the preeminent position of Wall Street and the Financial District 
 As to why California lags behind may well be an artifact of the dataset, for California is quite famous for its venture capital investment culture \citep{greenventure2004} and its large herd of unicorns\footnote{A unicorn is a private start-up with a valuation above one billion USD. \citep{Lee2013}} \citep{kenney2019unicorns}. This long history of venture capital-backed firm creation model gives an enticing hint that there is a substantial pool of money in California that exists largely outside of the 13F-HR universe, since privately held corporations as well as stocks for firms that are not publicly listed do not show up in 13F-HR reports.  Furthermore, due to recent changes in American regulations for start-ups, 2012's JOBs Act in particular allowing for greater number of qualified investors in a company before requiring companies to go public, has incentivized institutional capital to invest in star-ups prior to their initial public offering (IPO), as well as delaying the need for firms to create an IPO in order to access the capital needed to grow their company \citep{kenney2019unicorns}.
 
 \nomenclature{IPO}{Initial Public Offering}
+
 As per \cite{florida2016rise}, California contains four of the top 6 metro areas for venture capital, with the San Francisco Bay area (San Francisco and San Jose) accounting for nearly one of every four dollars invested in venture capital nationwide, and Southern California (Los Angeles, San Diego and Orange County) when taken collectively outranks New York City. Furthermore, \cite{adams2018diversified} shows that the investment culture of the San Francisco Bay area prioritized plowing back the capital gained from previous ventures such as gold mining, shipping and the military-industrial complex into new ventures directly rather than invest in the stock market. 
 
--more specifically, \cite{NVCA2020} shows that there is 258 billion dollars of VC money floating in California.  
- 
+In their most recent report  the National Venture Capital Association\citeyearpar{NVCA2020} -- a national trade and lobbying organization for venture capital firms -- found that for the  years of this study (2013 to 2018), the total funds under management for venture capital firms headquartered in California grew from 128.7 billion to 241.9 billion USD (annual average growth of 22.24 billion USD), whereas in the same time period, New York grew from 26.9 billion to 56.3 billion (annual average growth of 4.925 billion USD). While the NVCA data shows a strong growth trend for venture capital investing for VC firms located in California, it should be re-iterated that capital will flow like water towards where it anticipates future returns.  As such, there is no mechanism preventing a VC fund in California from investing in a NY based start-up, and similarly, there is no mechanism preventing a NY based institutional investor from investing in a Silicone Valley tech giant. That being said, the report notes that there is a strong local bias in venture capital investment patterns. 
 
 
- 
-In light of this marked difference between New York and California, the absence of the number 2 and three 3 cities in the rank-order to of metro areas by funds under management, Boston and Chicago are the dogs that didn't bark.  Of course, as in Arthur Conan Doyle's "Silver Blaze", the absence of barking from the guard dogs narrowed down the list of suspects since the suspects had to be known to the dogs -- hence the lack of barking at an intruder -- and allowed Sherlock Holmes to crack the case.  In this case, Boston and Chicago are relatively normal and towards the middle of the pack, unlike California and New York. 
-
-
-The next question is why is Boston so normal, even though it's next in line after the Bay Area metro?  Probably since it's not in the same ballpark as the greater SF bay area. 
-
-
-As such, this hints strongly that while NYC may be in relative decline in terms of number of institutional investors in the USA, NYC is still the centre of gravity in the system.  
-
-
-
+\nocite{NVCA2020data}
 
 
 
@@ -368,18 +358,17 @@ As such, this hints strongly that while NYC may be in relative decline in terms 
 	\label{fig:shift-share_lda34-28-34}
 \end{figure}
 
-
-
--  In this case, we see that in most categories created by LDA analysis, New York has unparalleled growth, and that California is lagging behind.  
-
-
 \begin{figure}
-	\centering
+    \centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterV/Violinplot_q1}
 	\caption[Violin Plot of Firm holding Size for CA, IL, MA and NY.]{Violin Plot of Firm holding Size for the States of California, Illinois, Massachusetts and New York.}
 	\label{fig:violinplotq1}
 \end{figure}
 
 
-.   
-Topic 13 is very strong in Missouri, Texas and Illinois, while weak in NY and CA.
+In light of this marked difference between New York and California, the absence of the number 2 and three 3 cities in the rank-order of metro areas by funds under management, Boston and Chicago are the dogs that didn't bark\footnote{In Arthur Conan Doyle's "Silver Blaze", the absence of barking from the guard dogs narrowed down the list of suspects since they had to be known to the dogs -- hence the lack of barking at an intruder -- and allowed Sherlock Holmes to crack the case.}.  In this case, Boston and Chicago have firm size distribution that is similar to New York and California (Figure \ref{fig:violinplotq1}), however these two large second tier cities drive the middle road between California's penchant for VC investment and New York's role as a stock-trading  nexus.
+
+\section{Conclusion}
+
+Overall, the LDA analysis did not show much geographical segregation.  This is to be somewhat expected given the homogenization of investment best-practices, and the long shadow of the Efficient Market Hypothesis.  That being said, the shift-share analysis on the resulting LDA Topics underscores the massive difference in stock investing fund under management growth over time between New York and California. While not obvious in term of top line numbers for funds under management, number of firms, and the distribution of size of firms by funds under management, this LDA analysis and shift-share show a massive difference between New York and California. Furthermore, while the democratization of institutional investor locations in the USA made it possible to run an institutional investor firm outside of New York City, New York State's very strong growth for funds under management across the multitude of different investment strategies belies New York City's strength as a financial nexus.  Or put another way, California's weakness in the institutional investor game is akin to the odd perturbations of Jupiter and Saturn's orbits that could not be explained until the discovery of Uranus and Neptune during the later half of the XIX\textsuperscript{th} Century.  
+
