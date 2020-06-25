@@ -5866,11 +5866,61 @@ at the Oxford China Business Forum, Beijing, 9 September 2010.},
   year         = {2019},
 }
 
-@Manual{NVCA2020,
-  author = {{National Venture Captail Association}},
+@Manual{NVCA2020data,
+  author = {{National Venture Capital Association}},
   title  = {NVCA 2020 Yearbook: Public Data Pack},
-  url    = {\url{https://nvca.org/wp-content/uploads/2020/03/NVCA-2020-Yearbook_PUBLIC-DATA-PACK.pdf}},
   year   = {2020},
+  url    = {\url{https://nvca.org/wp-content/uploads/2020/03/NVCA-2020-Yearbook_PUBLIC-DATA-PACK.pdf}},
+}
+@article{feigenbaum2016lead,
+  title={Lead exposure and violent crime in the early twentieth century},
+  author={Feigenbaum, James J and Muller, Christopher},
+  journal={Explorations in economic history},
+  volume={62},
+  pages={51--86},
+  year={2016},
+  publisher={Elsevier}
+}
+@Misc{Krugman2012blog,
+  author = {Paul Krugman},
+  date   = {2012-03-30},
+  title  = {Paul Krugman - New York Times BlogBanking Mysticism, Continued},
+  url    = {\url{https://krugman.blogs.nytimes.com/2012/03/30/banking-mysticism-continued/}},
+  year   = {2012},
+}
+
+@techreport{NBERw23392,
+ title = "Lead and Juvenile Delinquency: New Evidence from Linked Birth, School and Juvenile Detention Records",
+ author = "Aizer, Anna and Currie, Janet",
+ institution = "National Bureau of Economic Research",
+ type = "Working Paper",
+ series = "Working Paper Series",
+ number = "23392",
+ year = "2017",
+ month = "May",
+ doi = {10.3386/w23392},
+ URL = "http://www.nber.org/papers/w23392",
+ abstract = {Using a unique dataset linking preschool blood lead levels (BLLs), birth, school, and detention data for 120,000 children born 1990-2004 in Rhode Island, we estimate the impact of lead on behavior: school suspensions and juvenile detention. We develop two instrumental variables approaches to deal with potential confounding from omitted variables and measurement error in lead. The first leverages the fact that we have multiple noisy measures for each child. The second exploits very local, within neighborhood, variation in lead exposure that derives from road proximity and the de-leading of gasoline. Both methods indicate that OLS considerably understates the negative effects of lead, suggesting that measurement error is more important than bias from omitted variables. A one-unit increase in lead increased the probability of suspension from school by 6.4-9.3 percent and the probability of detention by 27-74 percent, though the latter applies only to boys.},
+}
+
+@Book{bryson1999economic,
+  author    = {Bryson, John and Henry, Nick and Keeble, David and Martin, Ron},
+  title     = {The economic geography reader: producing and consuming global capitalism},
+  publisher = {Wiley},
+  year      = {1999},
+}
+
+@Manual{NVCA2020,
+  author = {{National Venture Capital Association}},
+  title  = {NVCA 2020 Yearbook},
+  year   = {2020},
+  url    = {\url{https://nvca.org/recommends/nvca-2020-yearbook_updated/}},
+}
+
+@Book{Karr1864,
+  author = {Karr, Alphonse},
+  date   = {1864},
+  title  = {Les Gu\`{e}pes},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
