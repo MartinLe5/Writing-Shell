@@ -1,5 +1,20 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citeauthoryear{Adams}{Adams}{2018}]{adams2018diversified}
+Adams, S.~B. (2018).
+\newblock A diversified portfolio: Resources fueling silicon valley before
+  venture capital.
+\newblock In {\em Business History Conference. Business and Economic History
+  On-line: Papers Presented at the BHC Annual Meeting}, Volume~16, pp.\  1--14.
+  Business History Conference.
+
+\bibitem[\protect\citeauthoryear{Aizer and Currie}{Aizer and
+  Currie}{2017}]{NBERw23392}
+Aizer, A. and J.~Currie (2017, May).
+\newblock Lead and juvenile delinquency: New evidence from linked birth, school
+  and juvenile detention records.
+\newblock Working Paper 23392, National Bureau of Economic Research.
+
 \bibitem[\protect\citeauthoryear{Appelbaum, Hilzenrath, and Paley}{Appelbaum
   et~al.}{2008}]{Appelbaum2008}
 Appelbaum, B., D.~S. Hilzenrath, and A.~R. Paley (2008).
@@ -119,6 +134,13 @@ Brody, L. (2012).
 Brunsdon, C. and L.~Comber (2015).
 \newblock {\em An introduction to R for spatial analysis and mapping}.
 \newblock Sage.
+
+\bibitem[\protect\citeauthoryear{Bryson, Henry, Keeble, and Martin}{Bryson
+  et~al.}{1999}]{bryson1999economic}
+Bryson, J., N.~Henry, D.~Keeble, and R.~Martin (1999).
+\newblock {\em The economic geography reader: producing and consuming global
+  capitalism}.
+\newblock Wiley.
 
 \bibitem[\protect\citeauthoryear{Calomiris}{Calomiris}{2000}]{Calomiris2000}
 Calomiris, C.~W. (2000).
@@ -302,6 +324,12 @@ Farooq, O. (2013).
 \newblock {\em Research in International Business and Finance\/}~{\em 29\/}(1),
   61--76.
 
+\bibitem[\protect\citeauthoryear{Feigenbaum and Muller}{Feigenbaum and
+  Muller}{2016}]{feigenbaum2016lead}
+Feigenbaum, J.~J. and C.~Muller (2016).
+\newblock Lead exposure and violent crime in the early twentieth century.
+\newblock {\em Explorations in economic history\/}~{\em 62}, 51--86.
+
 \bibitem[\protect\citeauthoryear{Feinerer, Hornik, and Meyer}{Feinerer
   et~al.}{2008}]{tmpackage}
 Feinerer, I., K.~Hornik, and D.~Meyer (2008, March).
@@ -431,12 +459,6 @@ Harris, R. and R.~Lewis (1998).
 Harris, T.~R. (1994).
 \newblock dynamic shift-share analysis of the nevada economy.
 
-\bibitem[\protect\citeauthoryear{Harrison and Mason}{Harrison and
-  Mason}{2019}]{harrison2019venture}
-Harrison, R.~T. and C.~M. Mason (2019).
-\newblock Venture capital 20 years on: reflections on the evolution of a field.
-\newblock ~(1), 1--34.
-
 \bibitem[\protect\citeauthoryear{Hau}{Hau}{2001}]{Hau2001}
 Hau, H. (2001).
 \newblock {Location Matters: An Examination of Trading Profits}.
@@ -481,6 +503,10 @@ Ingram, D. and S.~Franco (2014).
 Jenks, G.~F. (1967).
 \newblock The data model concept in statistical mapping.
 \newblock {\em International yearbook of cartography\/}~{\em 7}, 186--190.
+
+\bibitem[\protect\citeauthoryear{Karr}{Karr}{1864}]{Karr1864}
+Karr, A. (1864).
+\newblock {\em Les Gu\`{e}pes}.
 
 \bibitem[\protect\citeauthoryear{Kenney and Von~Burg}{Kenney and
   Von~Burg}{1999}]{kenney1999technology}
@@ -583,6 +609,14 @@ Marwick, B. (2014).
 \newblock In Y.~Zhao and Y.~Cen (Eds.), {\em Data Mining Applications with R},
   pp.\  63 -- 93. Boston: Academic Press.
 
+\bibitem[\protect\citeauthoryear{Meyer}{Meyer}{2006}]{Meyer2006}
+Meyer, S.~P. (2006).
+\newblock A spatial analysis of small- and medium-sized information technology
+  firms in canada and the importance of local connections to institutions of
+  higher education.
+\newblock {\em Canadian Geographer / Le Géographe canadien\/}~{\em 50\/}(1),
+  114--134.
+
 \bibitem[\protect\citeauthoryear{Meyer and Green}{Meyer and
   Green}{1996}]{GreenMeyer1996}
 Meyer, S.~P. and M.~B. Green (1996).
@@ -625,6 +659,16 @@ Munroe, R. (2012).
 \bibitem[\protect\citeauthoryear{NASDAQ}{NASDAQ}{}]{NASDAQ2018}
 NASDAQ.
 \newblock Nasdaq composite eligibility criteria.
+
+\bibitem[\protect\citeauthoryear{{National Venture Capital
+  Association}}{{National Venture Capital Association}}{2020a}]{NVCA2020}
+{National Venture Capital Association} (2020a).
+\newblock {\em NVCA 2020 Yearbook}.
+
+\bibitem[\protect\citeauthoryear{{National Venture Capital
+  Association}}{{National Venture Capital Association}}{2020b}]{NVCA2020data}
+{National Venture Capital Association} (2020b).
+\newblock {\em NVCA 2020 Yearbook: Public Data Pack}.
 
 \bibitem[\protect\citeauthoryear{Newman and Block}{Newman and
   Block}{2006}]{newman2006probabilistic}
@@ -765,6 +809,11 @@ Teo, M. (2009).
 \newblock {The Geography of Hedge Funds}.
 \newblock {\em Review of Financial Studies\/}~{\em 22\/}(9), 3531--3561.
 
+\bibitem[\protect\citeauthoryear{Tobin}{Tobin}{1969}]{Tobin1969}
+Tobin, J. (1969).
+\newblock A general equilibrium approach to monetary theory.
+\newblock {\em Journal of Money, Credit and Banking\/}~{\em 1\/}(1), 15--29.
+
 \bibitem[\protect\citeauthoryear{Tobler}{Tobler}{1995}]{Tobler1995}
 Tobler, W. (1995).
 \newblock Migration: Ravenstein, thornthwaite, and beyond.
@@ -789,6 +838,15 @@ Tukey, J.~W. (1977).
 \bibitem[\protect\citeauthoryear{Underwood}{Underwood}{2012}]{Underwood2012}
 Underwood, T. (2012).
 \newblock Topic modeling made just simple enough.
+
+\bibitem[\protect\citeauthoryear{{United States Securities and Exchange
+  Commisssion}}{{United States Securities and Exchange
+  Commisssion}}{2013}]{SEC2013}
+{United States Securities and Exchange Commisssion} (2013, October).
+\newblock Form 13f confidential treatment requests based on a claim of ongoing
+  acquisition/disposition program.
+\newblock Available online at
+  \url{http://www.sec.gov/divisions/investment/guidance/im-guidance-2013-08.pdf}.
 
 \bibitem[\protect\citeauthoryear{{U.S. Census Bureau}}{{U.S. Census
   Bureau}}{2013}]{USCensus13}
@@ -840,6 +898,14 @@ Wheeler, J.~O. and R.~L. Mitchelson (1989b).
   States}.
 \newblock {\em Annals of the Association of American Geographers\/}~{\em
   79\/}(4), 523--543.
+
+\bibitem[\protect\citeauthoryear{Wheelock et~al.}{Wheelock
+  et~al.}{2011}]{wheelock2011banking}
+Wheelock, D.~C. et~al. (2011).
+\newblock Banking industry consolidation and market structure: impact of the
+  financial crisis and recession.
+\newblock {\em Federal Reserve Bank of St. Louis Review\/}~{\em 93\/}(6),
+  419--438.
 
 \bibitem[\protect\citeauthoryear{WilmerHale}{WilmerHale}{2013}]{WhaleReport13}
 WilmerHale (2013, January).
