@@ -7,18 +7,18 @@ While Chapter \ref{chapterIV} explored the locational preferences of institution
 
 While Modern Portfolio Theory (MPT), as established by \cite{Markowitz1952} advocates for holding a broad and negatively correlated portfolio, the notion of "not putting all of one's eggs in a single basket" is an old one, for \cite{Lofthouse53} finds that such advice was formally practised by the British investment firm Investment Registry as far back as 1904.  
 
-In concert with MPT's emphasis on diversification, the reaction to the Crash of October 1987 placed renewed emphasis on risk management and the rise of ``Value at Risk'' (VAR) based investing in which firms would try to maximise returns while minimizing risk.  This led to a homogenizing effect in investment strategies, as explained by Andrew G. Haldane, executive director of the Financial Stability at the Bank of England at a conference on risk management:
+In concert with MPT's emphasis on diversification, the reaction to the Crash of October 1987 placed renewed emphasis on risk management and the rise of ``Value at Risk'' (VAR) based investing in which firms would try to maximise returns while minimizing risk.  This led to a homogenizing effect in investment strategies as explained by Andrew G. Haldane executive director of Financial Stability at the Bank of England at a conference on risk management:
 
 \nomenclature{VAR}{Value at Risk}
 \begin{quote}
 	Within the financial sector, diversity appears to have been reduced for two separate, but related, reasons:  the pursuit of return;  and the management of risk.  The pursuit of yield resulted in a return on equity race among all types of financial firm.  As they collectively migrated to high-yield activities, business strategies came to be replicated across the financial sector.  Imitation became the sincerest form of flattery.
 	
-	So savings cooperatives transformed themselves into private commercial banks.  Commercial banks ventured into investment banking.  Investment banks developed in-house hedge funds through large proprietary trading desks.  Funds of hedge funds competed with traditional investment funds.  And investment funds - pension, money market mutual, insurance - imported the risk the others were shedding.   \citep{Haldane2009}[p.18]
+	So savings cooperatives transformed themselves into private commercial banks.  Commercial banks ventured into investment banking.  Investment banks developed in-house hedge funds through large proprietary trading desks.  Funds of hedge funds competed with traditional investment funds.  And investment funds - pension, money market mutual, insurance - imported the risk the others were shedding.   \citep[p.18]{Haldane2009}
 \end{quote} 
 
 As explored in Chapter \ref{ChapterII}, there is a substantial literature showing that stock pickers are biased towards industries in which they are knowledgeable or have personal connections.  In particular, \cite{covalthe2001} find that investors can draw abnormally high returns from local knowledge, and another study by \cite{Cohen2008} makes a compelling case that stock pickers are biased towards selecting stocks of companies that their board of directors contain shared alumni networks.  
 
-Rather than looking at geographic differences of investors based on the type of institution they belong to such as but not limited to banks, hedge funds, pension funds, and insurance companies, this study will attempt to create a functional portfolio archetypes using machine learning and aggregate these archetypes by geography in order to look for regional patterns.   
+Rather than looking at geographic differences of investors based on the type of institution they belong to such as but not limited to banks, hedge funds, pension funds, and insurance companies, this study will attempt to create functional portfolio archetypes using machine learning and aggregate these archetypes by geography in order to look for regional patterns.   
 
 \section{Latent Dirichlet allocation}
 
@@ -28,7 +28,7 @@ Latent Dirichlet allocation (LDA) \nomenclature{LDA}{Latent Dirichlet allocation
 
 LDA has made certain classification tasks feasible to conduct in a short time, such as analysing a large sample of digitized 18th century American newspapers for the topics of the day that would otherwise be unfeasible for any individual to read \citep{newman2006probabilistic}.  Another well known use of LDA is for finding in near-realtime the topics of controversy and/or debate at an academic conference via Twitter usage by the participants of the conference \citep{Marwick2013}.
 
-In addition to text analysis, LDA has been used in multiple different fields such as finding latent patterns in biodiversity data \citep{Vale2014}, genetic data, images, social networks \citep{Blei2012} as well as remote sensing data \cite{Lienou2010}.
+In addition to text analysis, LDA has been used in multiple different fields such as finding latent patterns in biodiversity data \citep{Vale2014}, genetic data, images, social networks \citep{Blei2012} as well as remote sensing data \citep{Lienou2010}.
 
 \subsection{How does LDA work?}
 
@@ -70,7 +70,7 @@ At this point, it is important to state that LDA assumes that language is a "bag
 	\item  Have you eaten my child\textinterrobang 
 \end{itemize}
 
-This study will be using LDA on Stock unique identifiers (CUSIP), the "bag of words" methodology works to our advantage, since the presented order of stocks in an institutional investor's portfolio will not influence the sorting algorithm. This relative location agnosticism is useful in this case, since unlike earth movers' distance classification \citep{rubner2000earth}, this method of classification is dependant on the initial relative distribution within the input variables, and therefore there is no need for a special ordering of stock positions in the input file.  
+This study will be using LDA on Stock unique identifiers (CUSIP). The "bag of words" methodology works to our advantage since the presented order of stocks in an institutional investor's portfolio will not influence the sorting algorithm. This relative location agnosticism is useful in this case since unlike earth movers' distance classification \citep{rubner2000earth}, this method of classification is dependant on the initial relative distribution within the input variables, and therefore there is no need for a special ordering of stock positions in the input file.  
 
 
 The LDA process is mapped out graphically in Figure \ref{fig:LDA_graphic} and written out in Equation \ref{LDAequation}. 
