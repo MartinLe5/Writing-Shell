@@ -24,14 +24,14 @@
 \contentsline {subsection}{\numberline {4.2.1}Investors By State}{55}% 
 \contentsline {subsection}{\numberline {4.2.2}Investors by Core-Based Statistical Area}{59}% 
 \contentsline {subsection}{\numberline {4.2.3}Investors by County}{60}% 
-\contentsline {subsection}{\numberline {4.2.4}Investors by County Urban Intensity Index}{62}% 
+\contentsline {subsection}{\numberline {4.2.4}Investors by County Urban Intensity Index}{64}% 
 \contentsline {subsection}{\numberline {4.2.5}Investors By Region}{68}% 
-\contentsline {section}{\numberline {4.3}The K-function}{71}% 
-\contentsline {subsection}{\numberline {4.3.1}Spherical K-function}{76}% 
-\contentsline {section}{\numberline {4.4}Standard Deviation Ellipsis}{79}% 
-\contentsline {section}{\numberline {4.5}The Gravity Model of Trade}{83}% 
-\contentsline {subsection}{\numberline {4.5.1}Discussion}{86}% 
-\contentsline {section}{\numberline {4.6}Conclusion}{88}% 
+\contentsline {section}{\numberline {4.3}The K-function}{69}% 
+\contentsline {subsection}{\numberline {4.3.1}Spherical K-function}{71}% 
+\contentsline {section}{\numberline {4.4}Standard Deviation Ellipsis}{73}% 
+\contentsline {section}{\numberline {4.5}The Gravity Model of Trade}{75}% 
+\contentsline {subsection}{\numberline {4.5.1}Discussion}{78}% 
+\contentsline {section}{\numberline {4.6}Conclusion}{80}% 
 \contentsline {chapter}{\numberline {5}Space Time}{91}% 
 \contentsline {section}{\numberline {5.1}Introduction}{91}% 
 \contentsline {section}{\numberline {5.2}Space-Time Cube}{91}% 
@@ -62,10 +62,10 @@
 \contentsline {subsection}{\numberline {6.2.1}How does LDA work?}{148}% 
 \contentsline {section}{\numberline {6.3}Preparing the Data}{150}% 
 \contentsline {section}{\numberline {6.4}Number of Topics}{154}% 
-\contentsline {section}{\numberline {6.5}Applying the Model to the Data}{155}% 
+\contentsline {section}{\numberline {6.5}Applying the Model to the Data}{156}% 
 \contentsline {subsection}{\numberline {6.5.1}Per-Topic Probabilities}{156}% 
-\contentsline {subsection}{\numberline {6.5.2}Per-Document-Per-Topic Probabilities}{156}% 
-\contentsline {section}{\numberline {6.6}Shift-Share}{162}% 
+\contentsline {subsection}{\numberline {6.5.2}Per-Document-Per-Topic Probabilities}{161}% 
+\contentsline {section}{\numberline {6.6}Shift-Share}{163}% 
 \contentsline {subsection}{\numberline {6.6.1}Dynamic Shift-Share}{164}% 
 \contentsline {section}{\numberline {6.7}Regional Results}{166}% 
 \contentsline {section}{\numberline {6.8}Conclusion}{169}% 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.3.29)  28 JUN 2020 00:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.3.29)  28 JUN 2020 01:59
 entering extended mode
 **./main.tex
 (main.tex
@@ -1200,20 +1200,7 @@ Package natbib Warning: Citation `US Code' undefined on input line 30.
 Underfull \vbox (badness 3118) has occurred while \output is active []
 
  [26]
-
-Package natbib Warning: Citation `Hearing71' on page 27 undefined on input line
- 32.
-
 [27]
-
-Package natbib Warning: Citation `Hearing71' on page 28 undefined on input line
- 38.
-
-
-Package natbib Warning: Citation `Hearing71' on page 28 undefined on input line
- 40.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [28]
@@ -1323,12 +1310,7 @@ File: Figures/ChapterIII/Distance_Moved_Histogram.pdf Graphic file (type pdf)
 Package pdftex.def Info: Figures/ChapterIII/Distance_Moved_Histogram.pdf  used 
 on input line 70.
 (pdftex.def)             Requested size: 303.53267pt x 242.9388pt.
-
-
-Package natbib Warning: Citation `lerner2019investing' on page 58 undefined on 
-input line 75.
-
-[58] [59 <./Figures/ChapterIII/Distance_Moved_Histogram.pdf>]
+ [58] [59 <./Figures/ChapterIII/Distance_Moved_Histogram.pdf>]
 <Figures/ChapterIII/Count_by_CBSA_Legal.pdf, id=293, 1011.78pt x 614.295pt>
 File: Figures/ChapterIII/Count_by_CBSA_Legal.pdf Graphic file (type pdf)
 <use Figures/ChapterIII/Count_by_CBSA_Legal.pdf>
@@ -1388,17 +1370,17 @@ Package pdftex.def Info: Figures/ChapterIII/GINI_County.pdf  used on input line
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/ChapterIII/ChowTest.pdf, id=315, 794.97pt x 614.295pt>
+<Figures/ChapterIII/ChowTest.pdf, id=315, 853.1875pt x 853.1875pt>
 File: Figures/ChapterIII/ChowTest.pdf Graphic file (type pdf)
 <use Figures/ChapterIII/ChowTest.pdf>
 Package pdftex.def Info: Figures/ChapterIII/ChowTest.pdf  used on input line 15
 2.
-(pdftex.def)             Requested size: 433.62001pt x 335.07939pt.
+(pdftex.def)             Requested size: 433.62001pt x 433.62274pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \vbox (badness 1237) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [62 <./Figures/ChapterIII/Percentage_of_Investment_Firms_by_CBSA.pdf>] [63 <./
 Figures/ChapterIII/Percentage_of_Firms_by_CBSA.pdf> <./Figures/ChapterIII/Sum_b
@@ -1406,9 +1388,14 @@ y_County.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Figures/ChapterIII/Sum_by_County.pdf): PDF
  inclusion: multiple pdfs with page group included in a single page
->] [64 <./Figures/ChapterIII/Count_by_County.pdf>] [65 <./Figures/ChapterIII/GI
-NI_County.pdf>] [66 <./Figures/ChapterIII/ChowTest.pdf>] [67]
-<Figures/ChapterIII/ChangeInRelativeNumberRuralUrban.pdf, id=401, 505.89pt x 36
+>]
+Underfull \vbox (badness 1629) has occurred while \output is active []
+
+ [64 <./Figures/ChapterIII/Count_by_County.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [65 <./Figures/ChapterIII/GINI_County.pdf>] [66] [67]
+<Figures/ChapterIII/ChangeInRelativeNumberRuralUrban.pdf, id=393, 505.89pt x 36
 1.35pt>
 File: Figures/ChapterIII/ChangeInRelativeNumberRuralUrban.pdf Graphic file (typ
 e pdf)
@@ -1416,7 +1403,7 @@ e pdf)
 Package pdftex.def Info: Figures/ChapterIII/ChangeInRelativeNumberRuralUrban.pd
 f  used on input line 208.
 (pdftex.def)             Requested size: 433.62001pt x 309.7349pt.
-<Figures/ChapterIII/ChangeInAbsoluteNumberRuralUrban.pdf, id=402, 505.89pt x 36
+<Figures/ChapterIII/ChangeInAbsoluteNumberRuralUrban.pdf, id=394, 505.89pt x 36
 1.35pt>
 File: Figures/ChapterIII/ChangeInAbsoluteNumberRuralUrban.pdf Graphic file (typ
 e pdf)
@@ -1430,19 +1417,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 223--223
 a / maps / reference / us _ regdiv . pdf$ \OT1/cmr/m/n/10 for a
  []
 
-
-Underfull \vbox (badness 2495) has occurred while \output is active []
-
- [68]
-[69 <./Figures/ChapterIII/ChangeInRelativeNumberRuralUrban.pdf>] [70 <./Figures
-/ChapterIII/ChangeInAbsoluteNumberRuralUrban.pdf>]
-<Figures/ChapterIII/Count_firms_USA.pdf, id=428, 794.97pt x 614.295pt>
+[68]
+<Figures/ChapterIII/Count_firms_USA.pdf, id=398, 794.97pt x 614.295pt>
 File: Figures/ChapterIII/Count_firms_USA.pdf Graphic file (type pdf)
 <use Figures/ChapterIII/Count_firms_USA.pdf>
 Package pdftex.def Info: Figures/ChapterIII/Count_firms_USA.pdf  used on input 
 line 237.
 (pdftex.def)             Requested size: 433.62001pt x 335.07939pt.
-<Figures/ChapterIII/Percentage_firms_Region_USA.pdf, id=429, 794.97pt x 614.295
+<Figures/ChapterIII/Percentage_firms_Region_USA.pdf, id=399, 794.97pt x 614.295
 pt>
 File: Figures/ChapterIII/Percentage_firms_Region_USA.pdf Graphic file (type pdf
 )
@@ -1450,46 +1432,46 @@ File: Figures/ChapterIII/Percentage_firms_Region_USA.pdf Graphic file (type pdf
 Package pdftex.def Info: Figures/ChapterIII/Percentage_firms_Region_USA.pdf  us
 ed on input line 243.
 (pdftex.def)             Requested size: 433.62001pt x 335.07939pt.
- [71] [72 <./Figures/ChapterIII/Count_firms_USA.pdf>] [73 <./Figures/ChapterIII
-/Percentage_firms_Region_USA.pdf>]
-<Figures/ChapterIII/heatmap_XKCD.png, id=458, 501.875pt x 544.0325pt>
+ [69]
+<Figures/ChapterIII/heatmap_XKCD.png, id=403, 501.875pt x 544.0325pt>
 File: Figures/ChapterIII/heatmap_XKCD.png Graphic file (type png)
 <use Figures/ChapterIII/heatmap_XKCD.png>
 Package pdftex.def Info: Figures/ChapterIII/heatmap_XKCD.png  used on input lin
 e 260.
 (pdftex.def)             Requested size: 216.81pt x 235.02518pt.
- [74]
-Underfull \vbox (badness 1033) has occurred while \output is active []
+ [70] [71]
+Underfull \vbox (badness 7133) has occurred while \output is active []
 
- [75 <./Figures/ChapterIII/heatmap_XKCD.png>] [76]
-Underfull \vbox (badness 4492) has occurred while \output is active []
-
- [77]
-<Figures/ChapterIII/Cross_Val_1k.pdf, id=476, 1011.78pt x 614.295pt>
+ [72]
+<Figures/ChapterIII/Cross_Val_1k.pdf, id=418, 1011.78pt x 614.295pt>
 File: Figures/ChapterIII/Cross_Val_1k.pdf Graphic file (type pdf)
 <use Figures/ChapterIII/Cross_Val_1k.pdf>
 Package pdftex.def Info: Figures/ChapterIII/Cross_Val_1k.pdf  used on input lin
 e 307.
 (pdftex.def)             Requested size: 433.62001pt x 263.26997pt.
-<Figures/ChapterIII/K_Function_5to50.pdf, id=477, 1011.78pt x 614.295pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/ChapterIII/K_Function_5to50.pdf, id=419, 1011.78pt x 614.295pt>
 File: Figures/ChapterIII/K_Function_5to50.pdf Graphic file (type pdf)
 <use Figures/ChapterIII/K_Function_5to50.pdf>
 Package pdftex.def Info: Figures/ChapterIII/K_Function_5to50.pdf  used on input
  line 314.
 (pdftex.def)             Requested size: 433.62001pt x 263.26997pt.
 
-[78 <./Figures/ChapterIII/Cross_Val_1k.pdf>]
-<Figures/ChapterIII/RIpley_K_100_750.pdf, id=489, 1011.78pt x 614.295pt>
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/ChapterIII/RIpley_K_100_750.pdf, id=420, 1011.78pt x 614.295pt>
 File: Figures/ChapterIII/RIpley_K_100_750.pdf Graphic file (type pdf)
 <use Figures/ChapterIII/RIpley_K_100_750.pdf>
 Package pdftex.def Info: Figures/ChapterIII/RIpley_K_100_750.pdf  used on input
  line 321.
 (pdftex.def)             Requested size: 433.62001pt x 263.26997pt.
 
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/ChapterIII/Cross_val_1000_5000.pdf, id=490, 1011.78pt x 614.295pt>
+<Figures/ChapterIII/Cross_val_1000_5000.pdf, id=421, 1011.78pt x 614.295pt>
 File: Figures/ChapterIII/Cross_val_1000_5000.pdf Graphic file (type pdf)
 <use Figures/ChapterIII/Cross_val_1000_5000.pdf>
 Package pdftex.def Info: Figures/ChapterIII/Cross_val_1000_5000.pdf  used on in
@@ -1498,11 +1480,8 @@ put line 329.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[79 <./Figures/ChapterIII/K_Function_5to50.pdf>]
-Underfull \vbox (badness 5862) has occurred while \output is active []
-
- [80 <./Figures/ChapterIII/RIpley_K_100_750.pdf>]
-<Figures/ChapterIII/Standard_Deviation_ellipse.pdf, id=514, 710.655pt x 454.698
+[73]
+<Figures/ChapterIII/Standard_Deviation_ellipse.pdf, id=426, 710.655pt x 454.698
 75pt>
 File: Figures/ChapterIII/Standard_Deviation_ellipse.pdf Graphic file (type pdf)
 
@@ -1510,7 +1489,7 @@ File: Figures/ChapterIII/Standard_Deviation_ellipse.pdf Graphic file (type pdf)
 Package pdftex.def Info: Figures/ChapterIII/Standard_Deviation_ellipse.pdf  use
 d on input line 348.
 (pdftex.def)             Requested size: 433.62001pt x 277.44908pt.
-<Figures/ChapterIII/Standard_Deviation_ellipse_Eccentricity.pdf, id=515, 710.65
+<Figures/ChapterIII/Standard_Deviation_ellipse_Eccentricity.pdf, id=427, 710.65
 5pt x 454.69875pt>
 File: Figures/ChapterIII/Standard_Deviation_ellipse_Eccentricity.pdf Graphic fi
 le (type pdf)
@@ -1521,13 +1500,11 @@ city.pdf  used on input line 355.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [81 <./Figures/ChapterIII/Cross_val_1000_5000.pdf>] [82 <./Figures/ChapterIII/
-Standard_Deviation_ellipse.pdf> <./Figures/ChapterIII/Standard_Deviation_ellips
-e_Eccentricity.pdf>]
+ [74]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [83]
-[84]
+ [75]
+[76]
 Overfull \hbox (42.32158pt too wide) in paragraph at lines 384--416
  [] 
  []
@@ -1535,20 +1512,31 @@ Overfull \hbox (42.32158pt too wide) in paragraph at lines 384--416
 
 Underfull \vbox (badness 1394) has occurred while \output is active []
 
- [85]
+ [77]
 Underfull \vbox (badness 1824) has occurred while \output is active []
 
- [86]
-[87]) [88] [89]
+ [78]
+[79]) [80] [81] [82 <./Figures/ChapterIII/ChowTest.pdf>] [83 <./Figures/Chapter
+III/ChangeInRelativeNumberRuralUrban.pdf>] [84 <./Figures/ChapterIII/ChangeInAb
+soluteNumberRuralUrban.pdf>] [85 <./Figures/ChapterIII/Count_firms_USA.pdf>]
+[86 <./Figures/ChapterIII/Percentage_firms_Region_USA.pdf>] [87 <./Figures/Chap
+terIII/heatmap_XKCD.png> <./Figures/ChapterIII/Cross_Val_1k.pdf>] [88 <./Figure
+s/ChapterIII/K_Function_5to50.pdf> <./Figures/ChapterIII/RIpley_K_100_750.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Figures/ChapterIII/RIpley_K_100_750.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>] [89 <./Figures/ChapterIII/Cross_val_1000_5000.pdf> <./Figures/ChapterIII/Sta
+ndard_Deviation_ellipse.pdf>] [90 <./Figures/ChapterIII/Standard_Deviation_elli
+pse_Eccentricity.pdf>]
 \openout2 = `ChapterIV.aux'.
 
- (ChapterIV.tex [90
+ (ChapterIV.tex
+Chapter 5.
+[91
 
 
 
 ]
-Chapter 5.
-[91]
 <Figures/ChapterIV/TimeCube.jpg, id=577, 141.4083pt x 116.5956pt>
 File: Figures/ChapterIV/TimeCube.jpg Graphic file (type jpg)
 <use Figures/ChapterIV/TimeCube.jpg>
@@ -1999,19 +1987,18 @@ Overfull \hbox (5.16614pt too wide) detected at line 82
 /cmm/m/it/12 D[]Z \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 \OT1/cmr/m/n/12 )
  []
 
-[150] [151] [152]
-
-Package natbib Warning: Citation `Buffet96' on page 153 undefined on input line
- 167.
-
-[153] [154]
-<Figures/ChapterV/TopicSelection.pdf, id=1156, 794.97pt x 614.295pt>
+[150] [151] [152] [153]
+<Figures/ChapterV/TopicSelection.pdf, id=1153, 794.97pt x 614.295pt>
 File: Figures/ChapterV/TopicSelection.pdf Graphic file (type pdf)
 <use Figures/ChapterV/TopicSelection.pdf>
 Package pdftex.def Info: Figures/ChapterV/TopicSelection.pdf  used on input lin
 e 179.
 (pdftex.def)             Requested size: 433.62001pt x 335.07939pt.
- [155 <./Figures/ChapterV/TopicSelection.pdf>]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [154]
+[155 <./Figures/ChapterV/TopicSelection.pdf>]
 <Figures/ChapterV/LDA34_1-9.pdf, id=1165, 853.1875pt x 568.1225pt>
 File: Figures/ChapterV/LDA34_1-9.pdf Graphic file (type pdf)
 <use Figures/ChapterV/LDA34_1-9.pdf>
@@ -2036,18 +2023,23 @@ File: Figures/ChapterV/LDA34_28_34.pdf Graphic file (type pdf)
 Package pdftex.def Info: Figures/ChapterV/LDA34_28_34.pdf  used on input line 2
 21.
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
- [156] [157 <./Figures/ChapterV/LDA34_1-9.pdf>] [158 <./Figures/ChapterV/LDA34_
-10_18.pdf>] [159 <./Figures/ChapterV/LDA34_19_27.pdf>] [160 <./Figures/ChapterV
-/LDA34_28_34.pdf>]
-[161] [162]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [156]
+[157 <./Figures/ChapterV/LDA34_1-9.pdf>] [158 <./Figures/ChapterV/LDA34_10_18.p
+df>] [159 <./Figures/ChapterV/LDA34_19_27.pdf>] [160 <./Figures/ChapterV/LDA34_
+28_34.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [161]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [162]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [163]
-[164] [165] [166]
-Underfull \vbox (badness 2644) has occurred while \output is active []
-
- [167]
-[168]
+[164] [165] [166] [167] [168]
 <Figures/ChapterV/States_01_09.jpg, id=1246, 852.93657pt x 852.93657pt>
 File: Figures/ChapterV/States_01_09.jpg Graphic file (type jpg)
 <use Figures/ChapterV/States_01_09.jpg>
@@ -2080,8 +2072,7 @@ Package pdftex.def Info: Figures/ChapterV/Violinplot_q1.pdf  used on input line
 (pdftex.def)             Requested size: 433.62001pt x 288.74171pt.
  [169] [170 <./Figures/ChapterV/States_01_09.jpg>] [171 <./Figures/ChapterV/Sta
 tes_10_18.jpg>] [172 <./Figures/ChapterV/States_19_27.jpg>] [173 <./Figures/Cha
-pterV/States_28_34.jpg>] [174 <./Figures/ChapterV/Violinplot_q1.pdf>])
-[175]
+pterV/States_28_34.jpg>] [174 <./Figures/ChapterV/Violinplot_q1.pdf>]) [175]
 \openout2 = `Conclusion.aux'.
 
  (Conclusion.tex [176
@@ -2885,12 +2876,7 @@ Package natbib Warning: There were undefined citations.
 (ChapterIIIb.aux) (ChapterIV.aux) (ChapterV.aux) (Conclusion.aux)
 (Appendix/CountiesCount.aux) (Appendix/SE_Top_5.aux) (Appendix/GravityModel.aux
 ) (Appendix/Definitions.aux) (Appendix/CountbyState_Lda34.aux)
-(Appendix/Shift_share.aux)
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
+(Appendix/Shift_share.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -2898,7 +2884,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  29821 strings out of 492945
  589799 string characters out of 3135513
- 1022564 words of memory out of 3000000
+ 1022565 words of memory out of 3000000
  33062 multiletter control sequences out of 15000+200000
  544104 words of font info for 69 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2921,7 +2907,7 @@ iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (338 pages, 47370813 bytes).
+Output written on main.pdf (338 pages, 47352328 bytes).
 PDF statistics:
  2080 PDF objects out of 2487 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
