@@ -97,14 +97,14 @@ title = {Is Venture Capital a regional business? - The role of syndication}
   publisher={Citeseer}
 }
 
-@inproceedings{adams2018diversified,
-  title={A Diversified Portfolio: Resources Fueling Silicon Valley Before Venture Capital},
-  author={Adams, Stephen B},
-  booktitle={Business History Conference. Business and Economic History On-line: Papers Presented at the BHC Annual Meeting},
-  volume={16},
-  pages={1--14},
-  year={2018},
-  organization={Business History Conference}
+@InProceedings{adams2018diversified,
+  author       = {Adams, Stephen B},
+  booktitle    = {{Business History Conference. Business and Economic History On-line: Papers Presented at the BHC Annual Meeting}},
+  title        = {{A Diversified Portfolio: Resources Fueling Silicon Valley Before Venture Capital}},
+  organization = {Business History Conference},
+  pages        = {1--14},
+  volume       = {16},
+  year         = {2018},
 }
 @misc{tufte1998visual,
   title={Visual explanations: Images and quantities, evidence and narrative},
@@ -155,6 +155,7 @@ title = {Is Venture Capital a regional business? - The role of syndication}
   date   = {2010-01-21},
   title  = {Berkshire Hathaway `B' Shares Soar After Split},
   note   = {\url{https://www.cnbc.com/2010/01/21/berkshire-hathaway-b-shares-soar-after-split.html}},
+  year   = {2010},
 }
 @Misc{Underwood2012,
   author = {Underwood,Ted},
@@ -428,13 +429,13 @@ numpages = {8}
 
 @Article{Bachelier1900,
   author    = {Louis Bachelier},
-  title     = {Th\'{e}orie the la sp\'{e}culation},
-  journal   = {Annales scientifiques de l'\'{E}.N.S. 3e s\'{e}rie},
-  year      = {1900},
-  volume    = {tome 17},
+  title     = {Th\'{e}orie de la sp\'{e}culation},
   pages     = {p. 21-86},
+  volume    = {tome 17},
+  journal   = {Annales scientifiques de l'\'{E}.N.S. 3e s\'{e}rie},
   owner     = {Martin},
   timestamp = {2014.07.14},
+  year      = {1900},
 }
 
 @Article{baedo2006,
@@ -4370,14 +4371,12 @@ at the Oxford China Business Forum, Beijing, 9 September 2010.},
 }
 
 @Misc{Hearing71,
-  Title                    = {Banking Reform Act of 1971: Hearings before the Committee on Banking and Currency, House of Representatives, on H.R. 5700, H.R. 3287, and H.R. 7440},
-
-  Author                   = {{United States. Congress. House. Committee on Banking and Currency}},
-  Note                     = {accessed Oct 6, 2014 from FRASER, \url{http://fraser.stlouisfed.org/publication/?pid=227}},
-  Year                     = {1971},
-
-  Owner                    = {Martin},
-  Timestamp                = {2014.10.06}
+  author    = {{United States Congress House Committee on Banking and Currency}},
+  title     = {Banking Reform Act of 1971: Hearings before the Committee on Banking and Currency, House of Representatives, on H.R. 5700, H.R. 3287, and H.R. 7440},
+  note      = {accessed Oct 6, 2014 from FRASER, \url{http://fraser.stlouisfed.org/publication/?pid=227}},
+  owner     = {Martin},
+  timestamp = {2014.10.06},
+  year      = {1971},
 }
 
 @Article{nieuwerburghinformation2009,
@@ -5303,12 +5302,12 @@ at the Oxford China Business Forum, Beijing, 9 September 2010.},
 }
 
 @Misc{Appelbaum2008,
-  author    = {Appelbaum, Binyamin and Hilzenrath, David S. and Paley, Amit R.},
-  title     = {{'All Just One Big Lie'}},
-  year      = {2008},
-  url       = {http://www.washingtonpost.com/wp-dyn/content/article/2008/12/12/AR2008121203970.html},
-  urldate   = {2019-03-14},
-  booktitle = {Washington Post},
+  author  = {Appelbaum, Binyamin and Hilzenrath, David S. and Paley, Amit R.},
+  title   = {{'All Just One Big Lie'}},
+  note    = {Washington Post},
+  url     = {http://www.washingtonpost.com/wp-dyn/content/article/2008/12/12/AR2008121203970.html},
+  urldate = {2019-03-14},
+  year    = {2008},
 }
 
 @Book{EnvStats-book,
@@ -5888,7 +5887,31 @@ at the Oxford China Business Forum, Beijing, 9 September 2010.},
   url    = {\url{https://krugman.blogs.nytimes.com/2012/03/30/banking-mysticism-continued/}},
   year   = {2012},
 }
-
+@article{lerner2019investing,
+  title={Investing Outside the Box: Evidence from Alternative Vehicles in Private Equity},
+  author={Lerner, Josh and Mao, Jason and Schoar, Antoinette and Zhang, Nan R},
+  journal={Harvard Business School Entrepreneurial Management Working Paper},
+  number={19-012},
+  pages={19--012},
+  year={2019}
+}
+@Report{Buffet96,
+  author = {Warren Buffet},
+  date   = {1997-02-28},
+  title  = {BERKSHIRE HATHAWAY INC. Chairman's Letter},
+  url    = {\url{https://www.berkshirehathaway.com/letters/1996.html}},
+  year   = {1997},
+}
+@article{Meyer2006,
+author = {Meyer, Stephen},
+year = {2006},
+month = {05},
+pages = {114 - 134},
+title = {A Spatial Analysis of Small- and Medium-Sized Information Technology Firms in Canada and the Importance of Local Connections to Institutions of Higher Education},
+volume = {50},
+journal = {The Canadian Geographer / Le Géographe canadien},
+doi = {10.1111/j.0008-3658.2006.00130.x}
+}
 @techreport{NBERw23392,
  title = "Lead and Juvenile Delinquency: New Evidence from Linked Birth, School and Juvenile Detention Records",
  author = "Aizer, Anna and Currie, Janet",
@@ -5919,7 +5942,7 @@ at the Oxford China Business Forum, Beijing, 9 September 2010.},
 
 @Book{Karr1864,
   author = {Karr, Alphonse},
-  date   = {1864},
+  year   = {1864},
   title  = {Les Gu\`{e}pes},
 }
 
