@@ -17,16 +17,16 @@ The first step in creating a space-time cube is the creation of a Network Common
 	
 	\begin{subfigure}[b]{0.45\textwidth}
 		\includegraphics[width=1\linewidth]{Figures/ChapterIV/TimeCube}
-		\caption{A schematic explanation of the timecube }
+		\caption{A schematic explanation of the time-cube }
 		\label{fig:Timecube}
 	\end{subfigure}
 	\begin{subfigure}[b]{0.45\textwidth}
 		\includegraphics[width=1\linewidth]{Figures/ChapterIV/Time_Cube_Slice}
-		\caption{Examination of a timecube cell}
+		\caption{Examination of a time-cube cell}
 		\label{fig:timesclice}
 	\end{subfigure}
 	
-	\caption[ESRI Schematic Illustrations of a Time-Cube]{Schematic Illustration of a TimeCube. It should be noted that unlike this schematic representation of the time cube, the analysis in this paper uses a hexagonal bin rather than a square bin for spatial data.  Image from: \url{http://desktop.arcgis.com/en/arcmap/10.3/tools/space-time-pattern-mining-toolbox/visualizing-cube-data.htm}}
+	\caption[ESRI Schematic Illustrations of a Time-Cube]{Schematic illustration of a time-cube. It should be noted that unlike this schematic representation of the time-cube, the analysis in this paper uses a hexagonal bin rather than a square bin for spatial data.  Image from: \url{http://desktop.arcgis.com/en/arcmap/10.3/tools/space-time-pattern-mining-toolbox/visualizing-cube-data.htm}}
 	\label{fig:timecube1}
 \end{figure}
 
@@ -35,7 +35,7 @@ It should be noted that unlike Figure \ref{fig:Timecube} and \ref{fig:timesclice
 
 With regards to the time dimension of the data, the dates are aligned such that bins coincide with the last date in the datasets (December 31, 2018) and work backwards from there in 3 month intervals.  As such, each temporal bin covers one filing period for 13F-HR disclosures.  (Figure \ref{fig:timesclice})
 
-\subsection{Emerging Hot Spot Analysis}
+\subsection{Emerging hot spot analysis}
 
 Emerging hot spot analysis is the space-time implementation of the Getis-Ord Gi* statistic \citep{getis2010analysis}, and examines whether high or low values cluster geographically.  High $g$ values are created when the local sum and that of its neighbours are significantly larger than their proportion to the global sum, with low values in the reverse case. The ArcGIS implementation of Emerging Hot Spot Analysis performs the False Discovery Rate (FDR) correction.  FDR accounts for multiple testing, and therefore compensates for the possibility that certain features would be classified as hot or cold by chance alone \citep{Esri}.
 
@@ -59,7 +59,7 @@ Figure \ref{fig:usahspcount} shows the results of the emerging hotspot analysis 
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/USA_Count_EH}
-	\caption[Emerging Hot Spot Analysis of Locations of Institutional Investors in the USA 1999-2018]{Emerging Hot Spot Analysis of locations of Institutional Investors in the United States of America for the period of March 1999 to December 2018.}
+	\caption[Emerging Hot Spot Analysis of Locations of Institutional Investors in the USA 1999-2018]{Emerging hot spot analysis of locations of institutional investors in the United States of America for the period of March 1999 to December 2018.}
 	\label{fig:usahspcount}
 \end{figure}
 
@@ -71,7 +71,7 @@ Low-high clusters appear to be confined to bridging the gaps between nearby high
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/USA_Count_LO}
-	\caption[Local Outlier Analysis for Number of Institutional Investors in the USA 1999-2018]{Local Outlier Analysis for Number of Institutional Investors in the USA for the time period March 1999 to December 2018}
+	\caption[Local Outlier Analysis for Number of Institutional Investors in the USA 1999-2018]{Local outlier analysis for number of institutional investors in the USA for the time period March 1999 to December 2018}
 	\label{fig:usaloacount}
 \end{figure}
 
@@ -82,7 +82,7 @@ Using the same technique on the holdings database presents a slightly different 
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/USA_Money_EH}
-	\caption[Local Outlier Analysis of USA-based Institutional Investors 2013-2018]{Local Outlier Analysis of USA-based Institutional Investors located in the United States of America for the period of June 2013 to December 2018. }
+	\caption[Local Outlier Analysis of USA-based Institutional Investors 2013-2018]{Local outlier analysis of USA-based institutional investors located in the United States of America for the period of June 2013 to December 2018. }
 	\label{fig:usaHSP_Money}
 \end{figure}	
 
@@ -92,7 +92,7 @@ As with Figure \ref{fig:usaHSP_Money}, which is based on the holdings database, 
 \begin{figure}
 	\centering
 	\includegraphics[width=\linewidth]{Figures/ChapterIV/USA_Money_LO}
-	\caption[Local Outlier Analysis For Funds Under Management in the United States 2013-2018]{Local outlier analysis for funds under management in the United States for the Time Period of June 2013 to December 2018.}
+	\caption[Local Outlier Analysis For Funds Under Management in the United States 2013-2018]{Local outlier analysis for funds under management in the United States for the time period of June 2013 to December 2018.}
 	\label{fig:usaloamoney}
 \end{figure}
 
@@ -108,7 +108,7 @@ Figure \ref{fig:bostoncounthotspot} identifies a large cluster covering the area
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Bos_Count_EH}
-	\caption[Hot Spot Analysis of Number of Firms in Boston CBSA 1999-2018]{Hot Spot Analysis of Number of Firms in Boston CBSA for the time period March 1999 to December 2018}
+	\caption[Hot Spot Analysis of Number of Firms in Boston CBSA 1999-2018]{Hot spot analysis of number of firms in Boston CBSA for the time period March 1999 to December 2018}
 	\label{fig:bostoncounthotspot}
 \end{figure}
 
@@ -117,21 +117,21 @@ Figure \ref{fig:bostoncountlocaloutliercount} displays of local outlier analysis
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Bos_Count_EH_Downtown}
-	\caption[Hot Spot Analysis of Number of Firms in Downtown Boston 1999-2018]{Hot Spot Analysis of Number of Firms in Downtown Boston for the time period March 1999 to December 2018}
+	\caption[Hot Spot Analysis of Number of Firms in Downtown Boston 1999-2018]{Hot spot analysis of number of firms in downtown Boston for the time period March 1999 to December 2018}
 	\label{fig:bostoncounthotspot_Downtown}
 \end{figure}
 
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Bos_Count_LO}
-	\caption[Boston CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Boston CBSA Local Outlier Analysis - Count of Institutional Investors}
+	\caption[Boston CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Boston CBSA local outlier analysis - count of institutional investors}
 	\label{fig:bostoncountlocaloutliercount}
 \end{figure}
 
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Bos_Count_LO_Downtown}
-	\caption[Downtown Boston Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Downtown Boston Local Outlier Analysis - Count of Institutional Investors}
+	\caption[Downtown Boston Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Downtown Boston local outlier analysis - count of institutional investors}
 	\label{fig:bostoncountlocaloutliercount_Downtown}
 \end{figure}
 
@@ -143,14 +143,14 @@ Unlike Figure \ref{fig:bostoncounthotspot}'s larger cluster, the emerging hot sp
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Bos_Money_EH}
-	\caption[Emerging Hot Spot Analysis of Funds Under Management for Boston CBSA 2013-2018]{Emerging Hot Spot Analysis of funds under management for Boston CBSA for period June 2013 to December 2018}
+	\caption[Emerging Hot Spot Analysis of Funds Under Management for Boston CBSA 2013-2018]{Emerging hot spot analysis of funds under management for Boston CBSA for period June 2013 to December 2018}
 	\label{fig:bostonmoneyhotspot}
 \end{figure}
 
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Bos_Money_EH_Downtown}
-	\caption[Emerging Hot Spot Analysis of Funds Under Management for Downtown Boston 2013-2018]{Emerging Hot Spot Analysis of funds under management for Downtown Boston for period June 2013 to December 2018}
+	\caption[Emerging Hot Spot Analysis of Funds Under Management for Downtown Boston 2013-2018]{Emerging hot spot analysis of funds under management for downtown Boston for period June 2013 to December 2018}
 	\label{fig:bostonmoneyhotspot_Downtown}
 \end{figure}
 
@@ -160,7 +160,7 @@ Following in a similar theme to Figure \ref{fig:bostonmoneyhotspot}, the local o
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Bos_Money_LO}
-	\caption[Boston CBSA Local Outlier Analysis - Funds Under Management 2013-2018]{Boston CBSA Local Outlier Analysis - funds under management}
+	\caption[Boston CBSA Local Outlier Analysis - Funds Under Management 2013-2018]{Boston CBSA local outlier analysis - funds under management}
 	\label{fig:bostonlocaloutlier}
 \end{figure}
 
@@ -168,7 +168,7 @@ Following in a similar theme to Figure \ref{fig:bostonmoneyhotspot}, the local o
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Bos_Money_LO_Downtown}
-	\caption[Boston Downtown Local Outlier Analysis - Funds Under Management 2013-2018]{Boston Downtown Local Outlier Analysis - funds under management}
+	\caption[Boston Downtown Local Outlier Analysis - Funds Under Management 2013-2018]{Boston Downtown local outlier analysis - funds under management}
 	\label{fig:bostonlocaloutlier_Downtown}
 \end{figure}
 
@@ -181,14 +181,14 @@ As displayed in Figure \ref{fig:Chicagocounthotspot}, Chicago contains one inten
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Chi_Count_EH}
-	\caption[Hot Spot Analysis of Number of Firms in Chicago CBSA 1999-2018]{Hot Spot Analysis of Number of Firms in Chicago for the time period March 1999 to December 2018}
+	\caption[Hot Spot Analysis of Number of Firms in Chicago CBSA 1999-2018]{Hot spot analysis of number of firms in Chicago for the time period March 1999 to December 2018}
 	\label{fig:Chicagocounthotspot}
 \end{figure}
 
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Chi_Count_EH_Downtown}
-	\caption[Hot Spot Analysis of Number of Firms in Downtown Chicago 1999-2018]{Hot Spot Analysis of Number of Firms in Chicago for the time period March 1999 to December 2018}
+	\caption[Hot Spot Analysis of Number of Firms in Downtown Chicago 1999-2018]{Hot spot analysis of number of firms in Chicago for the time period March 1999 to December 2018}
 	\label{fig:Chicagocounthotspot_Downtown}
 \end{figure}
 
@@ -197,14 +197,14 @@ Using local outlier analysis, only the Loop district contains high-high hexagons
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Chi_Count_LO}
-	\caption[Chicago CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Chicago Local Outlier Analysis - Count of Institutional Investors}
+	\caption[Chicago CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Chicago local outlier analysis - count of institutional investors}
 	\label{fig:Chicagocountlocaloutliercount}
 \end{figure}	
 
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Chi_Count_LO_Downtown}
-	\caption[Downtown Chicago Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Chicago Local Outlier Analysis - Count of Institutional Investors}
+	\caption[Downtown Chicago Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Chicago local outlier analysis - count of institutional investors}
 	\label{fig:Chicagocountlocaloutliercount_Downtown}
 \end{figure}	
 
@@ -215,14 +215,14 @@ Figure \ref{fig:Chicagonmoneyhotspot} suggests a similar picture to the other em
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Chi_Money_EH}
-	\caption[Emerging Hot Spot Analysis of Funds Under Management for Chicago CBSA 2013-2018]{Emerging Hot Spot Analysis of funds under management for Chicago for period June 2013 to December 2018}
+	\caption[Emerging Hot Spot Analysis of Funds Under Management for Chicago CBSA 2013-2018]{Emerging hot spot analysis of funds under management for Chicago for period June 2013 to December 2018}
 	\label{fig:Chicagonmoneyhotspot}
 \end{figure}
 
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Chi_Money_EH_Downtown}
-	\caption[Emerging Hot Spot Analysis of Funds Under Management for Downtown Chicago 2013-2018]{Emerging Hot Spot Analysis of funds under management for Chicago for period June 2013 to December 2018}
+	\caption[Emerging Hot Spot Analysis of Funds Under Management for Downtown Chicago 2013-2018]{Emerging hot spot analysis of funds under management for Chicago for period June 2013 to December 2018}
 	\label{fig:Chicagonmoneyhotspot_Downtown}
 \end{figure}
 
@@ -232,7 +232,7 @@ Figure \ref{fig:Chicagolocaloutlier} paints a similar story than Figure \ref{fig
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Chi_Money_LO}
-	\caption[Chicago CBSA Local Outlier Analysis - Funds Under Management 2013-2018]{Chicago Local Outlier Analysis - Funds Under Management}
+	\caption[Chicago CBSA Local Outlier Analysis - Funds Under Management 2013-2018]{Chicago local outlier analysis - funds under management}
 	\label{fig:Chicagolocaloutlier}
 \end{figure}
 
@@ -240,7 +240,7 @@ Figure \ref{fig:Chicagolocaloutlier} paints a similar story than Figure \ref{fig
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Chi_Money_LO_Downtown}
-	\caption[Downtown Chicago Local Outlier Analysis - Funds Under Management 2013-2018]{Chicago Local Outlier Analysis - funds under management}
+	\caption[Downtown Chicago Local Outlier Analysis - Funds Under Management 2013-2018]{Chicago local outlier analysis - funds under management}
 	\label{fig:Chicagolocaloutlier_Downtown}
 \end{figure}
 
@@ -257,14 +257,14 @@ These hot spot locations also show up in Figure \ref{fig:LAcountlocaloutliercoun
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/LA_Count_EH}
-	\caption[Hot Spot Analysis of Number of Firms in Los Angeles CBSA 1999-2018]{Hot Spot Analysis of Number of Firms in Los Angeles for the time period March 1999 to December 2018}
+	\caption[Hot Spot Analysis of Number of Firms in Los Angeles CBSA 1999-2018]{Hot spot analysis of number of firms in Los Angeles for the time period March 1999 to December 2018}
 	\label{fig:LAcounthotspot}
 \end{figure}
 
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/LA_Count_EH_Downtown}
-	\caption[Hot Spot Analysis of Number of Firms in Downtown Los Angeles and Santa Monica 1999-2018]{Hot Spot Analysis of Number of Firms in Downtown Los Angeles and Santa Monica for the time period March 1999 to December 2018}
+	\caption[Hot Spot Analysis of Number of Firms in Downtown Los Angeles and Santa Monica 1999-2018]{Hot spot analysis of number of firms in downtown Los Angeles and Santa Monica for the time period March 1999 to December 2018}
 	\label{fig:LAcounthotspot_Downtown}
 \end{figure}
 
@@ -272,14 +272,14 @@ These hot spot locations also show up in Figure \ref{fig:LAcountlocaloutliercoun
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/LA_Count_LO}
-	\caption[Los Angeles CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Los Angeles Local Outlier Analysis - Count of Institutional Investors}
+	\caption[Los Angeles CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Los Angeles local outlier analysis - count of institutional investors}
 	\label{fig:LAcountlocaloutliercount}
 \end{figure}	
 
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/LA_Count_LO_Downtown}
-	\caption[Downtown Los Angeles and Santa Monica Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Downtown Los Angeles and Santa Monica Local Outlier Analysis - Count of Institutional Investors}
+	\caption[Downtown Los Angeles and Santa Monica Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Downtown Los Angeles and Santa Monica local outlier analysis - count of institutional investors}
 	\label{fig:LAcountlocaloutliercount_Downtown}
 \end{figure}	
 
@@ -293,28 +293,28 @@ The emerging hot spot analysis for Figure \ref{fig:LAmoneyhotspot} as well as th
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/LA_Money_EH}
-	\caption[Emerging Hot Spot Analysis of Funds Under Management for Los Angeles CBSA 2013-2018]{Emerging Hot Spot Analysis of funds under management for Los Angeles for period June 2013 to December 2018}
+	\caption[Emerging Hot Spot Analysis of Funds Under Management for Los Angeles CBSA 2013-2018]{Emerging hot spot analysis of funds under management for Los Angeles for period June 2013 to December 2018}
 	\label{fig:LAmoneyhotspot}
 \end{figure}
 
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/LA_Money_EH_Downtown}
-	\caption[Emerging Hot Spot Analysis of Funds Under Management for Downtown Los Angeles and Santa Monica 2013-2018]{Emerging Hot Spot Analysis of funds under management for Downtown Los Angeles and Santa Monica for period June 2013 to December 2018}
+	\caption[Emerging Hot Spot Analysis of Funds Under Management for Downtown Los Angeles and Santa Monica 2013-2018]{Emerging hot spot analysis of funds under management for downtown Los Angeles and Santa Monica for period June 2013 to December 2018}
 	\label{fig:LAmoneyhotspot_Downtown}
 \end{figure}
 
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/LA_Money_LO}
-	\caption[Los Angeles CBSA Local Outlier Analysis - Funds Under Management 2013-2018]{Los Angeles Local Outlier Analysis - funds under management}
+	\caption[Los Angeles CBSA Local Outlier Analysis - Funds Under Management 2013-2018]{Los Angeles local outlier analysis - funds under management}
 	\label{fig:LAlocaloutlier}
 \end{figure}
 
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/LA_Money_LO_Downtown}
-	\caption[Downtown Los Angeles and Santa Monica Local Outlier Analysis - Funds Under Management 2013-2018]{Downtown Los Angeles and Santa Monica Local Outlier Analysis - funds under management}
+	\caption[Downtown Los Angeles and Santa Monica Local Outlier Analysis - Funds Under Management 2013-2018]{Downtown Los Angeles and Santa Monica local outlier analysis - funds under management}
 	\label{fig:LAlocaloutlier_Downtown}
 \end{figure}
 
@@ -331,7 +331,7 @@ Providing more detailed spatial resolution on high-high hot spots, Figure \ref{f
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/NY_Count_EH}
-	\caption[Hot Spot Analysis of Number of Firms in New York CBSA 1999-2018]{Hot Spot Analysis of Number of Firms in New York for the time period March 1999 to December 2018}
+	\caption[Hot Spot Analysis of Number of Firms in New York CBSA 1999-2018]{Hot spot analysis of number of firms in New York for the time period March 1999 to December 2018}
 	\label{fig:NYCcounthotspot}
 \end{figure}
 
@@ -339,21 +339,21 @@ Providing more detailed spatial resolution on high-high hot spots, Figure \ref{f
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/NY_Count_EH_Downtown}
-	\caption[Hot Spot Analysis of Number of Firms in Downtown New York 1999-2018]{Hot Spot Analysis of Number of Firms in New York for the time period March 1999 to December 2018}
+	\caption[Hot Spot Analysis of Number of Firms in Downtown New York 1999-2018]{Hot spot analysis of number of firms in downtown New York for the time period March 1999 to December 2018}
 	\label{fig:NYCcounthotspot_Downtown}
 \end{figure}
 
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/NY_Count_LO}
-	\caption[New York CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018]{New York Local Outlier Analysis - Count of Institutional Investors}
+	\caption[New York CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018]{New York local outlier analysis - count of institutional investors}
 	\label{fig:NYCcountlocaloutliercount}
 \end{figure}	
 
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/NY_Count_LO_Downtown}
-	\caption[Downtown New York Local Outlier Analysis - Count of Institutional Investors 1999-2018]{New York Local Outlier Analysis - Count of Institutional Investors}
+	\caption[Downtown New York Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Downtown New York local outlier analysis - count of institutional investors}
 	\label{fig:NYCcountlocaloutliercount_Downtown}
 \end{figure}
 \subsection{Funds Under Management}
@@ -363,14 +363,14 @@ Once again, the use of funds under management as the unit of measure for emergin
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/NY_Money_EH}
-	\caption[Emerging Hot Spot Analysis of Funds Under Management for New York CBSA 2013-2018]{Emerging Hot Spot Analysis of funds under management for New York for period June 2013 to December 2018}
+	\caption[Emerging Hot Spot Analysis of Funds Under Management for New York CBSA 2013-2018]{Emerging hot spot analysis of funds under management for New York for period June 2013 to December 2018}
 	\label{fig:NYCmoneyhotspot}
 \end{figure}
 
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/NY_Money_EH_Downtown}
-	\caption[Emerging Hot Spot Analysis of Funds Under Management for Downtown New York 2013-2018]{Emerging Hot Spot Analysis of funds under management for New York for period June 2013 to December 2018}
+	\caption[Emerging Hot Spot Analysis of Funds Under Management for Downtown New York 2013-2018]{Emerging hot spot analysis of funds under management for downtown New York for period June 2013 to December 2018}
 	\label{fig:NYCmoneyhotspot_Downtown}
 \end{figure}
 
@@ -378,14 +378,14 @@ Once again, the use of funds under management as the unit of measure for emergin
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/NY_Money_LO}
-	\caption[New York CBSA Local Outlier Analysis - Funds Under Management 2013-2018]{New York Local Outlier Analysis - funds under management}
+	\caption[New York CBSA Local Outlier Analysis - Funds Under Management 2013-2018]{New York local outlier analysis - funds under management}
 	\label{fig:NYClocaloutlier}
 \end{figure}
 
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/NY_Money_LO_Downtown}
-	\caption[Downtown New York Local Outlier Analysis - Funds Under Management 2013-2018]{New York Local Outlier Analysis - funds under management}
+	\caption[Downtown New York Local Outlier Analysis - Funds Under Management 2013-2018]{Downtown New York local outlier analysis - funds under management}
 	\label{fig:NYClocaloutlier_Downtown}
 \end{figure}
 
@@ -400,14 +400,14 @@ Figure \ref{fig:SFcounthotspot} displays five hot spots: an emerging hot spot in
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/SF_Count_EH}
-	\caption[Hot Spot Analysis of Number of Firms in San Francisco CBSA 1999-2018]{Hot Spot Analysis of Number of Firms in San Francisco for the time period March 1999 to December 2018}
+	\caption[Hot Spot Analysis of Number of Firms in San Francisco CBSA 1999-2018]{Hot spot analysis of number of firms in San Francisco for the time period March 1999 to December 2018}
 	\label{fig:SFcounthotspot}
 \end{figure}
 
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/SF_Count_EH_Downtown}
-	\caption[Hot Spot Analysis of Number of Firms in Downtown San Francisco 1999-2018]{Hot Spot Analysis of Number of Firms in San Francisco for the time period March 1999 to December 2018}
+	\caption[Hot Spot Analysis of Number of Firms in Downtown San Francisco 1999-2018]{Hot spot analysis of number of firms in downtown San Francisco for the time period March 1999 to December 2018}
 	\label{fig:SFcounthotspot_Downtown}
 \end{figure}
 
@@ -416,14 +416,14 @@ Figure \ref{fig:SFcountlocaloutliercount} displays the results of the local outl
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/SF_Count_LO}
-	\caption[San Francisco CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018]{San Francisco Local Outlier Analysis - Count of Institutional Investors}
+	\caption[San Francisco CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018]{San Francisco local outlier analysis - count of institutional investors}
 	\label{fig:SFcountlocaloutliercount}
 \end{figure}
 
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/SF_Count_LO_Downtown}
-	\caption[Downtown San Francisco Local Outlier Analysis - Count of Institutional Investors 1999-2018]{San Francisco Local Outlier Analysis - Count of Institutional Investors}
+	\caption[Downtown San Francisco Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Downtown San Francisco local outlier analysis - count of institutional investors}
 	\label{fig:SFcountlocaloutliercount_Downtown}
 \end{figure}
 
@@ -434,14 +434,14 @@ In a continuing theme of having the funds under management Figures \ref{fig:SFnm
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/SF_Money_EH}
-	\caption[Emerging Hot Spot Analysis of Funds Under Management for San Francisco CBSA 2013-2018]{Emerging Hot Spot Analysis of funds under management for San Francisco for period June 2013 to December 2018}
+	\caption[Emerging Hot Spot Analysis of Funds Under Management for San Francisco CBSA 2013-2018]{Emerging hot spot analysis of funds under management for San Francisco for period June 2013 to December 2018}
 	\label{fig:SFnmoneyhotspot}
 \end{figure}
 
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/SF_Money_EH_Downtown}
-	\caption[Emerging Hot Spot Analysis of Funds Under Management for Downtown San Francisco 2013-2018]{Emerging Hot Spot Analysis of funds under management for San Francisco for period June 2013 to December 2018}
+	\caption[Emerging Hot Spot Analysis of Funds Under Management for Downtown San Francisco 2013-2018]{Emerging hot spot analysis of funds under management for downtown San Francisco for period June 2013 to December 2018}
 	\label{fig:SFnmoneyhotspot_Downtown}
 \end{figure}
 
@@ -449,14 +449,14 @@ In a continuing theme of having the funds under management Figures \ref{fig:SFnm
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/SF_Money_LO}
-	\caption[San Francisco CBSA Local Outlier Analysis - Funds Under Management 2013-2018]{San Francisco Local Outlier Analysis - funds under management}
+	\caption[San Francisco CBSA Local Outlier Analysis - Funds Under Management 2013-2018]{San Francisco local outlier analysis - funds under management}
 	\label{fig:SFlocaloutlier}
 \end{figure}
 
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/SF_Money_LO_Downtown}
-	\caption[Downtown San Francisco Local Outlier Analysis - Funds Under Management 2013-2018]{San Francisco Local Outlier Analysis - funds under management}
+	\caption[Downtown San Francisco Local Outlier Analysis - Funds Under Management 2013-2018]{Downtown San Francisco local outlier analysis - funds under management}
 	\label{fig:SFlocaloutlier_Downtown}
 \end{figure}
 \section{Conclusion}	

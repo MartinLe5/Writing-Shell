@@ -14,6 +14,7 @@ The data for this thesis was collected from the SEC's Edgar database between 201
 
 Due to the difficulties in parsing the older ``.txt" file formats, this mandated the creation of two different databases of institutional investors.  One piece of information that was easily extracted from the ``.txt" files was the business address of the investor.  This leads to the creation of a database containing what is essentially ``phone book" information for all institutional investors that filed at least 1 quarterly report during the 20 year period covered by this research ($n = 242084$). The second database is derived from the ``XBRL" encoded files and contains a list of all positions reported by the filer to the SEC. Since some filers chose to disclose more information than required, and in the interest of maintaining a fair comparison across firms, only positions containing securities were kept in the database ($n=92539$).  
 
+\label{Section:13F}
 
 When plotting the duration of how long different filers (as defined by unique Central Index Key (CIK)) exist in the database, as seen in Figure \ref{fig:countoffilers}, one notices a pattern in the data where peeks can be found at $n+1$ quarters where $n$ is zero or an integer divisible by 4.  The most likely explanation for this reporting artifact is the requirement to report for the next four quarters after which they have fallen back under the 100 million dollar reporting threshold.   
 
