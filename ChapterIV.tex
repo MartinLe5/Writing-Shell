@@ -35,9 +35,9 @@ It should be noted that unlike Figure \ref{fig:Timecube} and \ref{fig:timesclice
 
 With regards to the time dimension of the data, the dates are aligned such that bins coincide with the last date in the datasets (December 31, 2018) and work backwards from there in 3 month intervals.  As such, each temporal bin covers one filing period for 13F-HR disclosures.  (Figure \ref{fig:timesclice})
 
-\subsection{Emerging Hot Spot Analysis}
+\subsection{Emerging hot spot analysis}
 
-Emerging hot spot analysis is the space-time implementation of the Getis-Ord Gi* statistic \citep{getis2010analysis}, and examines whether high or low values cluster geographically.  High $g$ values are created when the local sum and that of its neighbours are significantly larger than their proportion to the global sum, with low values in the reverse case. The ArcGIS implementation of emerging hot spot Analysis performs the false discovery rate (FDR) correction.  FDR accounts for multiple testing, and therefore compensates for the possibility that certain features would be classified as hot or cold by chance alone \citep{Esri}.
+Emerging hot spot analysis is the space-time implementation of the Getis-Ord Gi* statistic \citep{getis2010analysis}, and examines whether high or low values cluster geographically.  High $g$ values are created when the local sum and that of its neighbours are significantly larger than their proportion to the global sum, with low values in the reverse case. The ArcGIS implementation of Emerging Hot Spot Analysis performs the False Discovery Rate (FDR) correction.  FDR accounts for multiple testing, and therefore compensates for the possibility that certain features would be classified as hot or cold by chance alone \citep{Esri}.
 
 The next step is to perform Mann-Kendall trend test to detect temporal trends at each spatial location. Depending on the results of the Getis-Ord Gi* statistic and the trend direction from the Mann-Kendall test, there is a total of 17 possible answers, and their definitions are listed in Table \ref{App:EmergingHotspotdef} in Appendix \ref{Definition_appendix} \citep{Esri}.
 
@@ -49,7 +49,7 @@ Local outlier analysis is the space-time implementation of the Anselin Local Mor
 
 The first use of space-time analysis will focus on the United States as a whole, after which the basic analysis will be repeated on the five largest metro areas. 
 
-When creating the NetCDF file for the United States of America, the size of spatial bins was set at 50 km.  This value was chosen since this permitted a local window with a radius of 300 km according to the ESRI implementations of Emerging hot spot Analysis and local outlier analysis.  This latter figure is important since it would represent the longest possible day trip during a business day \citep{Fritsch06}.  Furthermore, we should keep in mind that the 50 km range band showed one of the highest level of change over time with regards to the K-function.  
+When creating the NetCDF file for the United States of America, the size of spatial bins was set at 50 km.  This value was chosen since this permitted a local window with a radius of 300 km according to the ESRI implementations of Emerging Hotspot Analysis and Local Outlier Analysis.  This latter figure is important since it would represent the longest possible day trip during a business day \citep{Fritsch06}.  Furthermore, we should keep in mind that the 50 km range band showed one of the highest level of change over time with regards to the K-function.  
 
 \subsection{Count Data}
 
