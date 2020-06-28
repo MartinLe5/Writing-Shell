@@ -11,7 +11,6 @@ A level-1 auxiliary file: ChapterIV.aux
 A level-1 auxiliary file: ChapterV.aux
 A level-1 auxiliary file: Conclusion.aux
 A level-1 auxiliary file: Appendix/CountiesCount.aux
-A level-1 auxiliary file: Appendix/Total_holdings_by_Country.aux
 A level-1 auxiliary file: Appendix/SE_Top_5.aux
 A level-1 auxiliary file: Appendix/GravityModel.aux
 A level-1 auxiliary file: Appendix/Definitions.aux
@@ -20,25 +19,25 @@ A level-1 auxiliary file: Appendix/Shift_share.aux
 The style file: chicago.bst
 Database file #1: Mybibliography.bib
 Warning--entry type for "NYT_2011" isn't style-file defined
---line 342 of file Mybibliography.bib
+--line 343 of file Mybibliography.bib
 Warning--entry type for "cramerwhale" isn't style-file defined
---line 965 of file Mybibliography.bib
+--line 966 of file Mybibliography.bib
 Warning--entry type for "Compustat" isn't style-file defined
---line 1137 of file Mybibliography.bib
+--line 1138 of file Mybibliography.bib
 Warning--entry type for "Whale_Watching_CNBC_12" isn't style-file defined
---line 4850 of file Mybibliography.bib
+--line 4849 of file Mybibliography.bib
 Warning--entry type for "BarclayHedge2018" isn't style-file defined
---line 4977 of file Mybibliography.bib
+--line 4976 of file Mybibliography.bib
 Warning--string name "december" is undefined
---line 5577 of file Mybibliography.bib
+--line 5576 of file Mybibliography.bib
 Warning--entry type for "Chen2011" isn't style-file defined
---line 5804 of file Mybibliography.bib
-Repeated entry---line 5891 of file Mybibliography.bib
+--line 5803 of file Mybibliography.bib
+Warning--entry type for "Buffet96" isn't style-file defined
+--line 5898 of file Mybibliography.bib
+Repeated entry---line 5905 of file Mybibliography.bib
  : @article{Meyer2006
  :                   ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "lerner2019investing"
-Warning--I didn't find a database entry for "Buffet96"
 Name 8 in "Robert, Hall and Robert J., Gordon and James, Poterba and Valerie, Ramey and Christina, Romer and David, Romer and James, Stock and Mark W., Watson," has a comma at the end for entry NBERBCDC2020
 while executing---line 1563 of file chicago.bst
 Name 8 in "Robert, Hall and Robert J., Gordon and James, Poterba and Valerie, Ramey and Christina, Romer and David, Romer and James, Stock and Mark W., Watson," has a comma at the end for entry NBERBCDC2020
@@ -53,7 +52,6 @@ Warning--no number and no volume in blei2003latent
 Warning--page numbers missing in blei2003latent
 Warning--empty note in Blume2012
 Warning--no number and no volume in Cashman2017
-Warning--empty year in Crippen2010
 Warning--no number and no volume in Crymble19
 Warning--page numbers missing in Crymble19
 Warning--no journal in derenoncourt2019can
@@ -74,6 +72,7 @@ Warning--empty publisher in Karr1864
 Warning--no journal in Lee2013
 Warning--no number and no volume in Lee2013
 Warning--page numbers missing in Lee2013
+Warning--no volume for lerner2019investing
 Warning--no number and no volume in Marino19
 Warning--page numbers missing in Marino19
 Warning--empty booktitle in Marko09

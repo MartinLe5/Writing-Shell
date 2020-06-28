@@ -2,11 +2,11 @@
 
 \bibitem[\protect\citeauthoryear{Adams}{Adams}{2018}]{adams2018diversified}
 Adams, S.~B. (2018).
-\newblock A diversified portfolio: Resources fueling silicon valley before
-  venture capital.
-\newblock In {\em Business History Conference. Business and Economic History
-  On-line: Papers Presented at the BHC Annual Meeting}, Volume~16, pp.\  1--14.
-  Business History Conference.
+\newblock {A Diversified Portfolio: Resources Fueling Silicon Valley Before
+  Venture Capital}.
+\newblock In {\em {Business History Conference. Business and Economic History
+  On-line: Papers Presented at the BHC Annual Meeting}}, Volume~16, pp.\
+  1--14. Business History Conference.
 
 \bibitem[\protect\citeauthoryear{Aizer and Currie}{Aizer and
   Currie}{2017}]{NBERw23392}
@@ -19,6 +19,7 @@ Aizer, A. and J.~Currie (2017, May).
   et~al.}{2008}]{Appelbaum2008}
 Appelbaum, B., D.~S. Hilzenrath, and A.~R. Paley (2008).
 \newblock {'All Just One Big Lie'}.
+\newblock Washington Post.
 
 \bibitem[\protect\citeauthoryear{Arun, Suresh, Veni~Madhavan, and
   Narasimha~Murthy}{Arun et~al.}{2010}]{Arun2010}
@@ -31,7 +32,7 @@ Arun, R., V.~Suresh, C.~E. Veni~Madhavan, and M.~N. Narasimha~Murthy (2010).
 
 \bibitem[\protect\citeauthoryear{Bachelier}{Bachelier}{1900}]{Bachelier1900}
 Bachelier, L. (1900).
-\newblock Th\'{e}orie the la sp\'{e}culation.
+\newblock Th\'{e}orie de la sp\'{e}culation.
 \newblock {\em Annales scientifiques de l'\'{E}.N.S. 3e s\'{e}rie\/}~{\em tome
   17}, p. 21--86.
 
@@ -142,6 +143,10 @@ Bryson, J., N.~Henry, D.~Keeble, and R.~Martin (1999).
   capitalism}.
 \newblock Wiley.
 
+\bibitem[\protect\citeauthoryear{Buffet}{Buffet}{1997}]{Buffet96}
+Buffet, W. (1997).
+\newblock Berkshire hathaway inc. chairman's letter.
+
 \bibitem[\protect\citeauthoryear{Calomiris}{Calomiris}{2000}]{Calomiris2000}
 Calomiris, C.~W. (2000).
 \newblock {\em U.S. bank deregulation in historical perspective}.
@@ -217,8 +222,8 @@ Coval, J.~D. and T.~J. Moskowitz (2001).
 \newblock {The Geography of Investment: Informed Trading and Asset Prices}.
 \newblock {\em Journal of Political Economy\/}~{\em 109\/}(4), pp. 811--841.
 
-\bibitem[\protect\citeauthoryear{Crippen}{Crippen}{}]{Crippen2010}
-Crippen, A.
+\bibitem[\protect\citeauthoryear{Crippen}{Crippen}{2010}]{Crippen2010}
+Crippen, A. (2010).
 \newblock Berkshire hathaway `b' shares soar after split.
 \newblock
   \url{https://www.cnbc.com/2010/01/21/berkshire-hathaway-b-shares-soar-after-split.html}.
@@ -538,6 +543,14 @@ Lee, A. (2013).
 \newblock Welcome to the unicorn club.
 \newblock \url{https://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club/}.
 
+\bibitem[\protect\citeauthoryear{Lerner, Mao, Schoar, and Zhang}{Lerner
+  et~al.}{2019}]{lerner2019investing}
+Lerner, J., J.~Mao, A.~Schoar, and N.~R. Zhang (2019).
+\newblock Investing outside the box: Evidence from alternative vehicles in
+  private equity.
+\newblock {\em Harvard Business School Entrepreneurial Management Working
+  Paper\/}~(19-012), 19--012.
+
 \bibitem[\protect\citeauthoryear{{Library of Congress}}{{Library of
   Congress}}{1975}]{libraryofcongress}
 {Library of Congress} (1975).
@@ -838,6 +851,16 @@ Tukey, J.~W. (1977).
 \bibitem[\protect\citeauthoryear{Underwood}{Underwood}{2012}]{Underwood2012}
 Underwood, T. (2012).
 \newblock Topic modeling made just simple enough.
+
+\bibitem[\protect\citeauthoryear{{United States Congress House Committee on
+  Banking and Currency}}{{United States Congress House Committee on Banking and
+  Currency}}{1971}]{Hearing71}
+{United States Congress House Committee on Banking and Currency} (1971).
+\newblock Banking reform act of 1971: Hearings before the committee on banking
+  and currency, house of representatives, on h.r. 5700, h.r. 3287, and h.r.
+  7440.
+\newblock accessed Oct 6, 2014 from FRASER,
+  \url{http://fraser.stlouisfed.org/publication/?pid=227}.
 
 \bibitem[\protect\citeauthoryear{{United States Securities and Exchange
   Commisssion}}{{United States Securities and Exchange

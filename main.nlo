@@ -1,23 +1,23 @@
-\nomenclatureentry{aSEA of 1934@[{SEA of 1934}]\begingroup Securities Exchange Act of 1934\nomeqref {2.0}|nompageref}{21}
-\nomenclatureentry{aSEC@[{SEC}]\begingroup Securities and Exchange Commission\nomeqref {2.0}|nompageref}{26}
-\nomenclatureentry{aEMH@[{EMH}]\begingroup Efficient Market Hypothesis\nomeqref {2.0}|nompageref}{28}
-\nomenclatureentry{aQLT@[{QLT}]\begingroup Quaternary Location Theory\nomeqref {2.0}|nompageref}{30}
-\nomenclatureentry{aOLS@[{OLS}]\begingroup ordinary least squares\nomeqref {2.0}|nompageref}{31}
-\nomenclatureentry{aFIRE@[{FIRE}]\begingroup Finance, Insurance and Real Estate\nomeqref {2.0}|nompageref}{36}
-\nomenclatureentry{aCBD@[{CBD}]\begingroup Central Business District\nomeqref {2.0}|nompageref}{36}
-\nomenclatureentry{aCIK@[{CIK}]\begingroup Central Index Key\nomeqref {3.0}|nompageref}{41}
-\nomenclatureentry{aUSD@[{USD}]\begingroup United States Dollar\nomeqref {3.0}|nompageref}{44}
-\nomenclatureentry{aNASDAQ@[{NASDAQ}]\begingroup National Association of Securities Dealers Automated Quotations Composite\nomeqref {3.0}|nompageref}{47}
-\nomenclatureentry{aS\&P 500@[{S\&P 500}]\begingroup The Standard and Poors 500 Index\nomeqref {3.0}|nompageref}{47}
-\nomenclatureentry{aDJIA@[{DJIA}]\begingroup Dow Jones Industrial Average\nomeqref {3.0}|nompageref}{47}
-\nomenclatureentry{aDOW@[{DOW}]\begingroup Dow Jones Industrial Average\nomeqref {3.0}|nompageref}{47}
-\nomenclatureentry{aEDA@[{EDA}]\begingroup Exploratory Data Analysis\nomeqref {4.0}|nompageref}{51}
-\nomenclatureentry{aCBSA@[{CBSA}]\begingroup Core-Based Statistical Area\nomeqref {4.0}|nompageref}{57}
-\nomenclatureentry{aMAP@[{MAP}]\begingroup Modifiable Areal Problem\nomeqref {4.0}|nompageref}{66}
-\nomenclatureentry{aBos-Ny-Wash@[{Bos-Ny-Wash}]\begingroup Boston-New York-Washington DC Megaregion\nomeqref {4.0}|nompageref}{69}
-\nomenclatureentry{aRMSE@[{RMSE}]\begingroup Root Mean Square Error\nomeqref {4.5}|nompageref}{86}
-\nomenclatureentry{aMPT@[{MPT}]\begingroup Modern Portfolio Theory\nomeqref {6.0}|nompageref}{143}
-\nomenclatureentry{aVAR@[{VAR}]\begingroup Value at Risk\nomeqref {6.0}|nompageref}{144}
-\nomenclatureentry{aLDA@[{LDA}]\begingroup Latent Dirichlet allocation\nomeqref {6.0}|nompageref}{145}
-\nomenclatureentry{aLDA@[{LDA}]\begingroup Latent Dirichlet allocation\nomeqref {6.0}|nompageref}{145}
-\nomenclatureentry{aIPO@[{IPO}]\begingroup Initial Public Offering\nomeqref {6.9}|nompageref}{166}
+\nomenclatureentry{aSEA of 1934@[{SEA of 1934}]\begingroup Securities Exchange Act of 1934\nomeqref {2.0}|nompageref}{23}
+\nomenclatureentry{aSEC@[{SEC}]\begingroup Securities and Exchange Commission\nomeqref {2.0}|nompageref}{28}
+\nomenclatureentry{aEMH@[{EMH}]\begingroup Efficient Market Hypothesis\nomeqref {2.0}|nompageref}{30}
+\nomenclatureentry{aQLT@[{QLT}]\begingroup Quaternary Location Theory\nomeqref {2.0}|nompageref}{32}
+\nomenclatureentry{aOLS@[{OLS}]\begingroup ordinary least squares\nomeqref {2.0}|nompageref}{37}
+\nomenclatureentry{aFIRE@[{FIRE}]\begingroup Finance, Insurance and Real Estate\nomeqref {2.0}|nompageref}{38}
+\nomenclatureentry{aCBD@[{CBD}]\begingroup Central Business District\nomeqref {2.0}|nompageref}{38}
+\nomenclatureentry{aUSD@[{USD}]\begingroup United States Dollar\nomeqref {3.0}|nompageref}{46}
+\nomenclatureentry{aNASDAQ@[{NASDAQ}]\begingroup National Association of Securities Dealers Automated Quotations Composite\nomeqref {3.0}|nompageref}{49}
+\nomenclatureentry{aS\&P 500@[{S\&P 500}]\begingroup The Standard and Poors 500 Index\nomeqref {3.0}|nompageref}{49}
+\nomenclatureentry{aDJIA@[{DJIA}]\begingroup Dow Jones Industrial Average\nomeqref {3.0}|nompageref}{49}
+\nomenclatureentry{aDOW@[{DOW}]\begingroup Dow Jones Industrial Average\nomeqref {3.0}|nompageref}{49}
+\nomenclatureentry{aEDA@[{EDA}]\begingroup Exploratory Data Analysis\nomeqref {4.0}|nompageref}{53}
+\nomenclatureentry{aCIK@[{CIK}]\begingroup Central Index Key\nomeqref {4.0}|nompageref}{58}
+\nomenclatureentry{aCBSA@[{CBSA}]\begingroup Core-Based Statistical Area\nomeqref {4.0}|nompageref}{59}
+\nomenclatureentry{aMAP@[{MAP}]\begingroup Modifiable Areal Problem\nomeqref {4.0}|nompageref}{68}
+\nomenclatureentry{aBos-Ny-Wash@[{Bos-Ny-Wash}]\begingroup Boston-New York-Washington DC Megaregion\nomeqref {4.0}|nompageref}{71}
+\nomenclatureentry{aRMSE@[{RMSE}]\begingroup Root Mean Square Error\nomeqref {4.5}|nompageref}{87}
+\nomenclatureentry{aMPT@[{MPT}]\begingroup Modern Portfolio Theory\nomeqref {6.0}|nompageref}{145}
+\nomenclatureentry{aVAR@[{VAR}]\begingroup Value at Risk\nomeqref {6.0}|nompageref}{146}
+\nomenclatureentry{aLDA@[{LDA}]\begingroup Latent Dirichlet allocation\nomeqref {6.0}|nompageref}{147}
+\nomenclatureentry{aLDA@[{LDA}]\begingroup Latent Dirichlet allocation\nomeqref {6.0}|nompageref}{147}
+\nomenclatureentry{aIPO@[{IPO}]\begingroup Initial Public Offering\nomeqref {6.9}|nompageref}{168}
