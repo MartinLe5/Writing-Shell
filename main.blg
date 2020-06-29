@@ -46,6 +46,9 @@ Name 8 in "Robert, Hall and Robert J., Gordon and James, Poterba and Valerie, Ra
 while executing---line 1608 of file chicago.bst
 Name 8 in "Robert, Hall and Robert J., Gordon and James, Poterba and Valerie, Ramey and Christina, Romer and David, Romer and James, Stock and Mark W., Watson," has a comma at the end for entry NBERBCDC2020
 while executing---line 1608 of file chicago.bst
+Warning--no journal in Appelbaum2008
+Warning--no number and no volume in Appelbaum2008
+Warning--page numbers missing in Appelbaum2008
 Warning--empty organization in rgdal
 Warning--no journal in blei2003latent
 Warning--no number and no volume in blei2003latent

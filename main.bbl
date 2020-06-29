@@ -11,23 +11,24 @@ Adams, S.~B. (2018).
 \bibitem[\protect\citeauthoryear{Aizer and Currie}{Aizer and
   Currie}{2017}]{NBERw23392}
 Aizer, A. and J.~Currie (2017, May).
-\newblock Lead and juvenile delinquency: New evidence from linked birth, school
-  and juvenile detention records.
+\newblock {Lead and Juvenile Delinquency: New Evidence from Linked Birth,
+  School and Juvenile Detention Records}.
 \newblock Working Paper 23392, National Bureau of Economic Research.
 
 \bibitem[\protect\citeauthoryear{Appelbaum, Hilzenrath, and Paley}{Appelbaum
   et~al.}{2008}]{Appelbaum2008}
 Appelbaum, B., D.~S. Hilzenrath, and A.~R. Paley (2008).
 \newblock {'All Just One Big Lie'}.
-\newblock Washington Post.
+\newblock Washington Post
+  \url{http://www.washingtonpost.com/wp-dyn/content/article/2008/12/12/AR2008121203970.html}.
 
 \bibitem[\protect\citeauthoryear{Arun, Suresh, Veni~Madhavan, and
   Narasimha~Murthy}{Arun et~al.}{2010}]{Arun2010}
 Arun, R., V.~Suresh, C.~E. Veni~Madhavan, and M.~N. Narasimha~Murthy (2010).
-\newblock On finding the natural number of topics with latent dirichlet
-  allocation: Some observations.
+\newblock {On Finding the Natural Number of Topics with Latent Dirichlet
+  Allocation: Some Observations}.
 \newblock In M.~J. Zaki, J.~X. Yu, B.~Ravindran, and V.~Pudi (Eds.), {\em
-  Advances in Knowledge Discovery and Data Mining}, Berlin, Heidelberg, pp.\
+  {Advances in Knowledge Discovery and Data Mining}}, Berlin, Heidelberg, pp.\
   391--402. Springer Berlin Heidelberg.
 
 \bibitem[\protect\citeauthoryear{Bachelier}{Bachelier}{1900}]{Bachelier1900}
@@ -50,7 +51,7 @@ Bagli, C.~V. (2011).
 
 \bibitem[\protect\citeauthoryear{BarclayHedge}{BarclayHedge}{2018}]{BarclayHedge2018}
 BarclayHedge (2018).
-\newblock Hedge fund assets under management.
+\newblock {Hedge Fund Assets Under Management}.
 \newblock
   \url{https://www.barclayhedge.com/solutions/assets-under-management/hedge-fund-assets-under-management/hedge-fund-industry/}
   (Acessed on 2018-12-22).
@@ -206,8 +207,8 @@ Cohen, L., A.~Frazzini, and C.~Malloy (2008).
   and {Le Marchand}}{Courtault et~al.}{2000}]{Courtault2000}
 Courtault, J.-M., Y.~Kabanov, B.~Bru, P.~Cr{\'{e}}pel, I.~Lebon, and A.~{Le
   Marchand} (2000).
-\newblock Louis bachelier on the centenary of th{\'{e}}orieth´th{\'{e}}orie de
-  la sp{\'{e}}culationsp´sp{\'{e}}culation.
+\newblock Louis bachelier on the centenary of "th{\'{e}}orie de la
+  sp{\'{e}}culation".
 \newblock {\em Mathematical Finance\/}~{\em 10\/}(3), 341--353.
 
 \bibitem[\protect\citeauthoryear{Coval and Moskowitz}{Coval and
@@ -232,6 +233,7 @@ Crippen, A. (2010).
 Crymble, A. (2019).
 \newblock Introduction to gravity models of migration \& trade.
 \newblock {\em The Programming Historian 8\/}.
+\newblock \url{https://programminghistorian.org/en/lessons/gravity-model}.
 
 \bibitem[\protect\citeauthoryear{Dallos}{Dallos}{1974a}]{Dallos74a}
 Dallos, R.~E. (1974a, Dec 07).

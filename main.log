@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.3.29)  28 JUN 2020 01:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.3.29)  28 JUN 2020 22:01
 entering extended mode
 **./main.tex
 (main.tex
@@ -2802,13 +2802,13 @@ Appendix F.
 ] [293] [294] [295] [296] [297] [298] [299] [300] [301] [302]
 [303] [304] [305] [306] [307] [308] [309] [310] [311] [312] [313] [314]
 [315] [316] [317] [318] [319] [320] [321] [322]) (main.bbl
-Underfull \hbox (badness 3312) in paragraph at lines 46--50
+Underfull \hbox (badness 3312) in paragraph at lines 47--51
 []\OT1/cmr/m/n/12 Bagli, C. V. (2011).  Re-gret-ting Move, Bank May Re-turn to 
 Man-hat-
  []
 
 
-Underfull \hbox (badness 4205) in paragraph at lines 46--50
+Underfull \hbox (badness 4205) in paragraph at lines 47--51
 \OT1/cmr/m/n/12 tan.  New York Times $\OT1/cmtt/m/n/12 http : / / www . nytimes
  . com / 2011 / 06 / 09 / nyregion /
  []
@@ -2818,52 +2818,52 @@ Underfull \hbox (badness 4205) in paragraph at lines 46--50
 
 
 ]
-Underfull \hbox (badness 4792) in paragraph at lines 52--57
-[]\OT1/cmr/m/n/12 BarclayHedge (2018).  Hedge fund as-sets un-der man-age-ment.
+Underfull \hbox (badness 3281) in paragraph at lines 53--58
+[]\OT1/cmr/m/n/12 BarclayHedge (2018).  Hedge Fund As-sets Un-der Man-age-ment.
   $\OT1/cmtt/m/n/12 https :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--57
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
 \OT1/cmtt/m/n/12 / / www . barclayhedge . com / solutions / assets-[]under-[]ma
 nagement /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--57
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
 \OT1/cmtt/m/n/12 hedge-[]fund-[]assets-[]under-[]management / hedge-[]fund-[]in
 dustry/$ \OT1/cmr/m/n/12 (Acessed
  []
 
 [324] [325]
-Underfull \hbox (badness 10000) in paragraph at lines 226--230
+Underfull \hbox (badness 10000) in paragraph at lines 227--231
 \OT1/cmtt/m/n/12 cnbc . com / 2010 / 01 / 21 / berkshire-[]hathaway-[]b-[]share
 s-[]soar-[]after-[]split .
  []
 
 [326] [327] [328]
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 409.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 411.
 
  ("C:\Program Files\MiKTeX 2.9\tex/latex/base\omlcmr.fd"
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 409.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 411.
 
 [329] [330] [331] [332] [333] [334] [335] [336] [337]
-Underfull \hbox (badness 4072) in paragraph at lines 934--939
+Underfull \hbox (badness 4072) in paragraph at lines 936--941
 []\OT1/cmr/m/n/12 WilmerHale (2013, Jan-uary).  \OT1/cmr/m/it/12 Re-port of JP-
 Mor-gan Chase & Co. Man-
  []
 
 
-Underfull \hbox (badness 3895) in paragraph at lines 934--939
+Underfull \hbox (badness 3895) in paragraph at lines 936--941
 \OT1/cmr/m/it/12 age-ment Task Force Re-gard-ing 2012 CIO Losses\OT1/cmr/m/n/12
  .  Avail-able on-line at
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 934--939
+Underfull \hbox (badness 10000) in paragraph at lines 936--941
 \OT1/cmtt/m/n/12 http : / / files . shareholder . com / downloads / ONE / 22729
 84969x0x628656 /
  []
@@ -2882,10 +2882,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 29821 strings out of 492945
- 589799 string characters out of 3135513
- 1022565 words of memory out of 3000000
- 33062 multiletter control sequences out of 15000+200000
+ 29819 strings out of 492945
+ 589777 string characters out of 3135513
+ 1022566 words of memory out of 3000000
+ 33060 multiletter control sequences out of 15000+200000
  544104 words of font info for 69 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  65i,12n,115p,2292b,1047s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2907,7 +2907,7 @@ iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (338 pages, 47352328 bytes).
+Output written on main.pdf (338 pages, 47352543 bytes).
 PDF statistics:
  2080 PDF objects out of 2487 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
