@@ -27,11 +27,11 @@
 \contentsline {subsection}{\numberline {4.2.4}Investors by County Urban Intensity Index}{64}% 
 \contentsline {subsection}{\numberline {4.2.5}Investors By Region}{68}% 
 \contentsline {section}{\numberline {4.3}The K-function}{69}% 
-\contentsline {subsection}{\numberline {4.3.1}Spherical K-function}{71}% 
-\contentsline {section}{\numberline {4.4}Standard Deviation Ellipsis}{73}% 
+\contentsline {subsection}{\numberline {4.3.1}Spherical K-function}{72}% 
+\contentsline {section}{\numberline {4.4}Standard Deviation Ellipsis}{74}% 
 \contentsline {section}{\numberline {4.5}The Gravity Model of Trade}{75}% 
-\contentsline {subsection}{\numberline {4.5.1}Discussion}{78}% 
-\contentsline {section}{\numberline {4.6}Conclusion}{80}% 
+\contentsline {subsection}{\numberline {4.5.1}Discussion}{79}% 
+\contentsline {section}{\numberline {4.6}Conclusion}{81}% 
 \contentsline {chapter}{\numberline {5}Space Time}{91}% 
 \contentsline {section}{\numberline {5.1}Introduction}{91}% 
 \contentsline {section}{\numberline {5.2}Space-Time Cube}{91}% 
@@ -72,10 +72,10 @@
 \contentsline {chapter}{\numberline {7}Conclusion}{177}% 
 \contentsline {chapter}{Appendices}{183}% 
 \contentsline {chapter}{\numberline {A}Total of Investors in US Counties by Year}{185}% 
-\contentsline {chapter}{\numberline {B}Standard Ellipse for Top 5 CBSAs}{207}% 
-\contentsline {chapter}{\numberline {C}Gravity Model}{223}% 
-\contentsline {chapter}{\numberline {D}Definitions}{247}% 
-\contentsline {chapter}{\numberline {E}LDA Gamma Table Counts}{253}% 
-\contentsline {chapter}{\numberline {F}Shift Share}{291}% 
-\contentsline {section}{\numberline {F.1}Dynamic Shift Share of the States}{291}% 
-\contentsline {chapter}{Bibliography}{323}% 
+\contentsline {chapter}{\numberline {B}Standard Ellipse for Top 5 CBSAs}{211}% 
+\contentsline {chapter}{\numberline {C}Gravity Model}{227}% 
+\contentsline {chapter}{\numberline {D}Definitions}{251}% 
+\contentsline {chapter}{\numberline {E}LDA Gamma Table Counts}{257}% 
+\contentsline {chapter}{\numberline {F}Shift Share}{295}% 
+\contentsline {section}{\numberline {F.1}Dynamic Shift Share of the States}{295}% 
+\contentsline {chapter}{Bibliography}{327}% 
