@@ -253,6 +253,8 @@ Increases in the number of Southern-based investors lies mainly in the growth of
 \label{kfunction}
 One of the earliest uses of point pattern analysis is the famous cholera map by Dr. John Snow.  Although he knew nothing about the cause of the bacterial outbreak, he did discover that the cases of cholera were clustered around a particular water pump on Broad Street.  Although scholarship such as \cite{brody2000map} call into question whether Dr. Snow's map was more confirmatory than exploratory since the insights into the cause of the cholera epidemic requires an understanding of germ theory.  That is to say, that these maps would not be able to create their historic insights without subject matter expertise.  Regardless of whether Dr. Snow used his point density mapping technique as a starting point or only for confirmation of his hypothesis,  a common method of quantifying points in space is measuring the intensity of the point pattern per unit of area.  Old staples used for measuring point patterns are quadrat analysis and nearest neighbour index.  However, these techniques have well known limitations such as the undue influence caused by border selection as well as the inability to determine whether points cluster or disperse at different ground scales \citep{spatstatBook}.
 
+\todo{why am I using the Kfunction.  Why is this important.  What information can be gleaned from from the K-Function?}
+
 The examination of various ground scales is important since firms may exhibit different clustering tendencies at various scales.  The mirroring of population maps and geographic profile maps at a national scale is humorously examined in XKCD comic 1138 (Figure \ref{fig:heatmapxkcd}) \citep{XKCD1138}.  However, firms may behave differently at different scales.  For example, a national maps of firms such as coffee shops, fast food chains, banks, automated teller machines, gas stations and grocery stores may mirror the national population map, yet they would appear diffuse on a local map, for each operates their own local catchment areas.  However, other sectors such as software development have a tendency to cluster at the local and regional level \citep{Meyer2006}.  
 
 \begin{figure}
@@ -293,6 +295,35 @@ Where $|A|$ is the surface area of the study.  In order to determine whether a s
 
 The basic implementation of \textit{Ripley's K} technique assumes that the point pattern exists on a Euclidean surface.  While it may be justifiable to assume a Euclidean plain for regions of less than a few hundred kilometres \citep{HeatherJ.Lynch2008,wilschut2015spatial},  the use of Euclidean space becomes problematic above such distances, and the global distribution of institutional investors is certainly more than a few hundred kilometers, and thus spherical geometry becomes a better option. Furthermore, \cite{Tobler2002} demonstrates that while the Earth is technically an oblate spheroid, most statistical techniques on a continental scale can be done adequately on a sphere.  
 
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=.9\textwidth]{Figures/ChapterIII/Cross_Val_1k.pdf} 
+	\caption[Spherical K-function for Range Band 1km]{Spherical K-function for the range band of 1 km for the years 1999 to 2018.  Each quarter consist of 99 points representing a cross-validated K-function.}
+	\label{fig:Kfunction1}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=.9\textwidth]{Figures/ChapterIII/K_Function_5to50.pdf} 
+	\caption[Spherical K-function for Range Bands 5km to 50km]{Spherical K-function for range bands 5km, 10km, 25km, 50km for the years 1999 to 2018. Each quarter consist of 99 points representing a cross-validated K-function}
+	\label{fig:Kfunction5to100}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=.9\textwidth]{Figures/ChapterIII/RIpley_K_100_750.pdf} 
+	\caption[Spherical K-function for Range Bands 100km to 750km]{Spherical K-function for range bands 100 km, 250 km, 500 km, 750 km for the years 1999 to 2018. Each quarter consist of 99 points representing a cross-validated K-function}
+	\label{fig:Kfunction100to750}
+\end{figure}
+
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=.9\textwidth]{Figures/ChapterIII/Cross_val_1000_5000.pdf} 
+	\caption[Spherical K-function for Range Bands 1000km to 5000km]{Spherical K-function for range bands 1000 km, 1500 km, 2000 km, 5000 km for the years 1999 to 2018. Each quarter consist of 99 points representing a cross-validated K-function}
+	\label{fig:Kfunction1000to5000}
+\end{figure}
+
 The K-function displayed in Figures \ref{fig:Kfunction1}, \ref{fig:Kfunction5to100}, \ref{fig:Kfunction100to750}, and \ref{fig:Kfunction1000to5000} were performed in statistical language R using Robeson's implementation of spherical geometry on Ripley's K \citep{SphericalK}.  This analysis was conducted with a 99-fold cross-validation, in which for each time step, the 1/99 of the data was randomly reserved from the data set\footnote{The calculation of the K function for the 80 quarters involved in this study was performed on 3 different computers for a duration of 3 months for a total of 9-computer/months calculation time}.  This creates an envelope of possible K-functions. Particular care should be noted for the third and fourth quarters of 2004.  These quarters were run a second time with a similar result, suggesting that the problem may lie with the data pipeline from Edgar rather than a sudden and reversible shift in locations preference. A similar, but less extreme discontinuity exists between the fourth quarter of 2013 and the first quarter of 2014. 
 
 As with the other forms of measuring the concentration and dispersion at various scales seen earlier, the overall trend of initial concentration and dispersion on or after 2007 continues with the K-function.  In greater detail, Figure \ref{fig:Kfunction1} looks at the 1 km scale, where there is an initial concentration followed by a gradual diffusion starting on or around 2003. Figure \ref{fig:Kfunction5to100} shows a slightly different picture, more akin to the County and CBSA graphs of concentration from 1999 to on or about 2007 and an increased diffusion afterwards.  Figure \ref{fig:Kfunction100to750} shows a similar pattern - just not as starkly.  Finally, Figure \ref{fig:Kfunction1000to5000} shows that the continental scales resemble the shape seen in Figure \ref{fig:Kfunction1}, since there is a continual diffusion of firms from a earlier peak.  
@@ -301,34 +332,9 @@ This is an important confirmation of the trend, since Ripley's K is a point patt
 
 While it is beyond the scope of this research, it would be interesting to examine if the rise of so called business-oriented ``smartphones" by Blackberry (formerly known as Research In Motion), touchscreen smartphones such as ``iPhone" and ``Android" devices, in addition to widespread wifi-enabled cafes have reduced the productivity tax of conducting business away from the office, and thus reduce the costs of locating outside of the central business district.   
 
-\begin{figure}[h]
-	\centering
-	\includegraphics[width=1\textwidth]{Figures/ChapterIII/Cross_Val_1k.pdf} 
-	\caption[Spherical K-function for Range Band 1km]{Spherical K-function for the range band of 1 km for the years 1999 to 2018.  Each quarter consist of 99 points representing a cross-validated K-function.}
-	\label{fig:Kfunction1}
-\end{figure}
-
-\begin{figure}[h]
-	\centering
-	\includegraphics[width=1\textwidth]{Figures/ChapterIII/K_Function_5to50.pdf} 
-	\caption[Spherical K-function for Range Bands 5km to 50km]{Spherical K-function for range bands 5km, 10km, 25km, 50km for the years 1999 to 2018. Each quarter consist of 99 points representing a cross-validated K-function}
-	\label{fig:Kfunction5to100}
-\end{figure}
-
-\begin{figure}[h]
-	\centering
-	\includegraphics[width=1\textwidth]{Figures/ChapterIII/RIpley_K_100_750.pdf} 
-	\caption[Spherical K-function for Range Bands 100km to 750km]{Spherical K-function for range bands 100 km, 250 km, 500 km, 750 km for the years 1999 to 2018. Each quarter consist of 99 points representing a cross-validated K-function}
-	\label{fig:Kfunction100to750}
-\end{figure}
+\todo{tie more with literature here}
 
 
-\begin{figure}[h]
-	\centering
-	\includegraphics[width=1\textwidth]{Figures/ChapterIII/Cross_val_1000_5000.pdf} 
-	\caption[Spherical K-function for Range Bands 1000km to 5000km]{Spherical K-function for range bands 1000 km, 1500 km, 2000 km, 5000 km for the years 1999 to 2018. Each quarter consist of 99 points representing a cross-validated K-function}
-	\label{fig:Kfunction1000to5000}
-\end{figure}
 
 
 
