@@ -179,7 +179,7 @@ LDA requires the user to determine \textit{a priori} the number of topics used i
 
 In this case, the optimal number of topics selected was facilitated by the R package LDAtuning \citep{LDAtuning}. This package takes the Document-Term matrix and runs an ensemble of four different information criteria in order to find the optimal number of topics. These methods were established by \cite{Arun2010}; \cite{CAO2009}; \cite{Griffiths2004} and \cite{deveaud2014}.  From these four information criterion techniques, the suggested number of topics occurs where differences between these methods are minimized. Figure \ref{fig:topicselection} displays the results of LDAtunings' estimates for the number of topics.  This resultant plot shows that the numbers of topics where the differences are minimized occur at 8, 14, 34 and 72 topics.  However, we can further refine this for a better fit.  A $n$ of 8 and 14 offer a poor fit under \cite{Griffiths2004}, and thus this method suggest a much larger optimal number.  By contrast, \cite{CAO2009} and \cite{deveaud2014} suggest topics at 8, 14 and 34, with \cite{deveaud2014} offering poorer solutions as the number of topics increases.  As such, 34 topics offers the best compromise between the different tuning methods and was chosen. 
 
-\begin{figure}
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterV/TopicSelection}
 	\caption[LDAtuning Ensemble for Determining the Number of Topics in LDA]{LDAtuning ensemble for determining the number of topics in LDA.   As can be seen from the short distance between Deveaud (2014) and CaoJuan (2009) around 14 topics and the close agreement between the Griffiths (2004) and Arun (2010) measure as the number of topics increases - especially after 58.  This suggests that a number of topics should be between 14 and 58.  Within  this band, all 4 metrics are in closest agreement at 34 topics, therefore 34 topics will be used in the LDA analysis.    }
@@ -200,28 +200,28 @@ Within these topics, some are easier to label than others.  For example, topic 7
 
 On the other hand, this 34 topic LDA gives us topics that would appear superficially similar, but are treated as different topics.  For example, topics 10 and 13 are anchored by Berkshire Hathaway stock, but the main difference between the two is that topic 13 puts a much larger importance on the acumen of Warren Buffet than topic 10's more diversified approach.  
 
-\begin{figure}
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=\linewidth]{Figures/ChapterV/LDA34_1-9}
 	\caption[Topic Model with 34 Topics, Topics 1 thought 9]{Topic model with 34 topics, topics 1 thought 9. This represents the 10 most likely stocks being associated to a particular portfolio archetype.}
 	\label{fig:lda34-1-9}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=\linewidth]{Figures/ChapterV/LDA34_10_18}
 	\caption[Topic Model with 34 Topics, Topics 10 thought 19]{Topic model with 34 topics, topics 10 thought 19. This represents the 10 most likely stocks being associated to a particular portfolio archetype.}
 	\label{fig:lda34-10-18}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=\linewidth]{Figures/ChapterV/LDA34_19_27}
 	\caption[Topic Model with 34 Topics, Topics 19 thought 27]{Topic model with 34 topics, topics 19 thought 27. This represents the 10 most likely stocks being associated to a particular portfolio archetype.}
 	\label{fig:lda34-19-27}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=\linewidth]{Figures/ChapterV/LDA34_28_34}
 	\caption[Topic Model with 34 Topics, Topics 28 thought 34]{Topic model with 34 topics, topics 28 thought 34. This represents the 10 most likely stocks being associated to a particular portfolio archetype.}
@@ -331,35 +331,35 @@ In their most recent report  the National Venture Capital Association\citeyearpa
 
 
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=\linewidth]{Figures/ChapterV/States_01_09}
 	\caption[Regional Shifts using 34 Topic LDA, Topics 1 thought 9]{Regional shifts for topics 1 though 9 of the 34 topic LDA for the Continental USA.}
 	\label{fig:shift-share_lda34-1-9}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=\linewidth]{Figures/ChapterV/States_10_18}
 	\caption[Regional Shifts using 34 Topic LDA, Topics 10 thought 19]{Regional shifts for topics 10 though 18 of the 34 topic LDA for the Continental USA.}
 	\label{fig:shift-share_lda34-10-18}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=\linewidth]{Figures/ChapterV/States_19_27}
 	\caption[Regional Shifts using 34 Topic LDA, Topics 19 thought 27]{Regional shifts for topics 19 though 27 of the 34 topic LDA for the Continental USA.}
 	\label{fig:shift-share_lda34-19-27}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=\linewidth]{Figures/ChapterV/States_28_34}
 	\caption[Regional Shifts using 34 Topic LDA, Topics 28 thought 34]{Regional shifts for topics 28 though 34 of the 34 topic LDA for the Continental USA.}
 	\label{fig:shift-share_lda34-28-34}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
     \centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterV/Violinplot_q1}
 	\caption[Violin Plot of Firm Holding Size for CA, IL, MA and NY.]{Violin plot of firm holding size for the States of California, Illinois, Massachusetts and New York.}
