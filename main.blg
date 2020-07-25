@@ -16,7 +16,7 @@ A level-1 auxiliary file: Appendix/GravityModel.aux
 A level-1 auxiliary file: Appendix/Definitions.aux
 A level-1 auxiliary file: Appendix/CountbyState_Lda34.aux
 A level-1 auxiliary file: Appendix/Shift_share.aux
-The style file: chicago.bst
+The style file: Chicago.bst
 Database file #1: Mybibliography.bib
 Warning--entry type for "NYT_2011" isn't style-file defined
 --line 343 of file Mybibliography.bib
@@ -25,38 +25,39 @@ Warning--entry type for "cramerwhale" isn't style-file defined
 Warning--entry type for "Compustat" isn't style-file defined
 --line 1138 of file Mybibliography.bib
 Warning--entry type for "Whale_Watching_CNBC_12" isn't style-file defined
---line 4849 of file Mybibliography.bib
+--line 4854 of file Mybibliography.bib
 Warning--entry type for "BarclayHedge2018" isn't style-file defined
---line 4976 of file Mybibliography.bib
+--line 4981 of file Mybibliography.bib
 Warning--string name "december" is undefined
---line 5576 of file Mybibliography.bib
+--line 5581 of file Mybibliography.bib
 Warning--entry type for "Chen2011" isn't style-file defined
---line 5803 of file Mybibliography.bib
+--line 5808 of file Mybibliography.bib
 Warning--entry type for "Buffet96" isn't style-file defined
---line 5898 of file Mybibliography.bib
-Repeated entry---line 5905 of file Mybibliography.bib
+--line 5903 of file Mybibliography.bib
+Repeated entry---line 5910 of file Mybibliography.bib
  : @article{Meyer2006
  :                   ,
 I'm skipping whatever remains of this entry
 Name 8 in "Robert, Hall and Robert J., Gordon and James, Poterba and Valerie, Ramey and Christina, Romer and David, Romer and James, Stock and Mark W., Watson," has a comma at the end for entry NBERBCDC2020
-while executing---line 1563 of file chicago.bst
+while executing---line 1563 of file Chicago.bst
 Name 8 in "Robert, Hall and Robert J., Gordon and James, Poterba and Valerie, Ramey and Christina, Romer and David, Romer and James, Stock and Mark W., Watson," has a comma at the end for entry NBERBCDC2020
-while executing---line 1563 of file chicago.bst
+while executing---line 1563 of file Chicago.bst
 Name 8 in "Robert, Hall and Robert J., Gordon and James, Poterba and Valerie, Ramey and Christina, Romer and David, Romer and James, Stock and Mark W., Watson," has a comma at the end for entry NBERBCDC2020
-while executing---line 1608 of file chicago.bst
+while executing---line 1608 of file Chicago.bst
 Name 8 in "Robert, Hall and Robert J., Gordon and James, Poterba and Valerie, Ramey and Christina, Romer and David, Romer and James, Stock and Mark W., Watson," has a comma at the end for entry NBERBCDC2020
-while executing---line 1608 of file chicago.bst
-Warning--no journal in Administration1989
-Warning--no volume for Administration1989
-Warning--page numbers missing in Administration1989
+while executing---line 1608 of file Chicago.bst
 Warning--no journal in Appelbaum2008
 Warning--no number and no volume in Appelbaum2008
 Warning--page numbers missing in Appelbaum2008
+Warning--no journal in Administration1989
+Warning--no volume for Administration1989
+Warning--page numbers missing in Administration1989
 Warning--empty organization in rgdal
 Warning--no journal in blei2003latent
 Warning--no number and no volume in blei2003latent
 Warning--page numbers missing in blei2003latent
 Warning--empty note in Blume2012
+Warning--empty publisher in CalomirisHaber14
 Warning--no number and no volume in Cashman2017
 Warning--no number and no volume in Crymble19
 Warning--page numbers missing in Crymble19
@@ -88,9 +89,9 @@ Warning--empty organization in NVCA2020data
 Warning--empty organization in LDAtuning
 Warning--no number and no volume in ripley1976second
 Name 8 in "Robert, Hall and Robert J., Gordon and James, Poterba and Valerie, Ramey and Christina, Romer and David, Romer and James, Stock and Mark W., Watson," has a comma at the end for entry NBERBCDC2020
-while executing---line 1645 of file chicago.bst
+while executing---line 1645 of file Chicago.bst
 Name 8 in "Robert, Hall and Robert J., Gordon and James, Poterba and Valerie, Ramey and Christina, Romer and David, Romer and James, Stock and Mark W., Watson," has a comma at the end for entry NBERBCDC2020
-while executing---line 1645 of file chicago.bst
+while executing---line 1645 of file Chicago.bst
 Warning--empty organization in SphericalK
 Warning--no number and no volume in Samuelson1966
 Warning--page numbers missing in Samuelson1966
