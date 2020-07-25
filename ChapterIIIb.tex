@@ -8,7 +8,7 @@ This chapter performs EDA on the data at various ground scales (country, state, 
 
 \nomenclature{EDA}{Exploratory Data Analysis}
 \section{Count and Percentage by Region}
-\begin{figure}[h]
+\begin{figure}[ht]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIII/Funds_Per_Country_Slopegraph}
 	\caption[Funds Under Management per Country in Log10]{Funds under management by country/political entity for top 15 countries in the world by funds under management.  Due to the very large gap between the USA and all other countries, the dollar value is represented in log10 form.}
@@ -24,7 +24,7 @@ Figure \ref{fig:fundspercountryslopegraph} is a slope graph showing the sum of f
 
 While the 13F data has global reach with regards to foreign investors using US investment system, the use of a domestic stock market is a significant confounding variable.  Therefore, for practical purposes, the focus of this research will be centred to a greater extent on the United States of America, its commonwealths and oversees territories.
 
-\begin{figure}[h]
+\begin{figure}[ht]
 	\centering
 	\includegraphics[width=\linewidth]{Figures/ChapterIII/Precentage_State}
 	\caption[Percentage of Investor by State]{Percentage of institutional investors locational preference by share of investors by State.}
@@ -32,7 +32,7 @@ While the 13F data has global reach with regards to foreign investors using US i
 \end{figure}
 There exists institutional investors in every US State, however there is a very unequal distribution when it comes to their location, by both number of investors and funds under management. \cite{WheelerMitchelson89,Green1995,bodenmanfirm2000, Graves2003} have seen and forecasted the continued relative decline of New York, and specifically it's namesake city.  And yet, despite the continual relative decline of New York State's position at the centre of the United States's financial system (Figure \ref{fig:precentagestate}), New York State is still home to the largest growth in institutional investors in absolute terms for this time period (Figure \ref{fig:countiibystate}). It should be noted that the renewal of New York's relative decline resumes on or around the first quarter of 2007.  This will be discussed in further detail at the county level (Section \ref{investorsbycounty}) and in point pattern analysis using Ripley's K (Section \ref{kfunction}).  	
 
-\begin{figure}[h]
+\begin{figure}[ht]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIII/Count_II_BY_State}
 	\caption[Count of Institutional Investors by State]{Count of institutional investors by State for the period 1999 to 2018.}
@@ -42,7 +42,6 @@ There exists institutional investors in every US State, however there is a very 
 While the region that contained the former industrial heart of the United States of America is experiencing a rather severe relative decline, these regions still manage to grow their number of firms in absolute terms.  This suggests that the cause of relative decline is a slower genesis of new firms rather than a migration of footloose firms.  This is consistent with the findings of \cite{gongthe2012}, which show that despite large shocks, a firm's geographical preferences are sticky.  
 
 Further evidence for the point that firms are sticky can be found in figure \ref{fig:distancemovedhistogram}, where the great circle distance was measured between the locations of the first and second, second and third, third and fourth, ect... locations of firms in the ``phonebook'' database of 13F filers created by the author.  In the database there are 14 922 unique location and central index key (CIK)\footnote{Unique SEC identifier} combinations, of which 5 603 firms (CIK) stay in the same location for the duration.  For the remainder of 3 649 firms (CIKs), the database show them making 5 190 moves, for a total of 9 319 unique CIK/locations.  While this 9 319 unique locations may make the moves to appear very footloose, one must remember that a move implies two distinct locations.  In this database, the most footloose firm has a total of 7 moves, but this is the far end of the distribution as seen in Table \ref{tab:Numberofmoves}.  
-
 % Table created by stargazer v.5.2.2 by Marek Hlavac, Harvard University. E-mail: hlavac at fas.harvard.edu
 % Date and time: Thu, Feb 20, 2020 - 2:39:04 PM
 \begin{table}[!htbp] \centering 
@@ -58,6 +57,13 @@ Further evidence for the point that firms are sticky can be found in figure \ref
 	\label{tab:Numberofmoves}
 \end{table} 
 
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.7\linewidth]{Figures/ChapterIII/Distance_Moved_Histogram}
+	\caption[Distance Moved by Firms]{Distance Moved by firms during the time period of 1999 to 2018 in Log10 meters.  The dashed vertical bar represents the median distance traveled of 680 meters.  The mean distance was 269 040 meters.  (All distances rounded to the nearest 10m).}
+	\label{fig:distancemovedhistogram}
+\end{figure}
+
 During this time period, 4 917 of 5 190 (94.7\%) of location changes have been what can be considered intra-city/intra-metro area (less than 150 km) rather than 
 47 inter-city.  This lack of long-distance movement makes attracting firms to a new locale a near-non factor in location changes over time, suggesting some costs in movement, or that rent isn't a top-line deciding factor in location.  Even more important for how sticky firms are in their locational preference are that 2 903 of 5 190 (55.9\% ) of firm locational changes are of less than one km in distance.
 
@@ -65,12 +71,6 @@ One would be remiss to not point out that movement can evade capture in this dat
 
 \nomenclature{CIK}{Central Index Key}
 
-\begin{figure}
-	\centering
-	\includegraphics[width=0.7\linewidth]{Figures/ChapterIII/Distance_Moved_Histogram}
-	\caption[Distance Moved by Firms]{Distance Moved by firms during the time period of 1999 to 2018 in Log10 meters.  The dashed vertical bar represents the median distance traveled of 680 meters.  The mean distance was 269 040 meters.  (All distances rounded to the nearest 10m).}
-	\label{fig:distancemovedhistogram}
-\end{figure}
 
 A further cause for the widespread distribution of institutional investors in the United States is the historical legacy of US banking regulations.  The 10th Amendment of the US Constitution reserved banking regulations to the States, whereas the commerce clause gave the Federal government jurisdiction over interstate commerce.  This division in jurisdiction led to the creation of a regime of regional banks rather than a small clique of national banks \citep{Calomiris2000}. Furthermore, the proliferation of State-managed employee pension funds ensures the existence of institutional investors outside of financially centred metropolitan areas such as New York, Boston, Chicago or San Francisco.  This remains the case despite the recent trend of outsourcing a sizable portions of pension funds into more opaque (and thus outside of the purview of 13F disclosure) and hopefully high yielding private placement deals \cite{lerner2019investing}. 
 
@@ -83,14 +83,16 @@ A further cause for the widespread distribution of institutional investors in th
 \nomenclature{CBSA}{Core-Based Statistical Area}
 Core-Based Statistical Areas (CBSA) are a relatively recent geographical construct by the U.S. Office of Management and Budget with the goal of creating a set of nationally consistent geographies that are useful for tabulating and comparing statistics.  These areas consist of at least one core county with a population greater than 10 000 inhabitants, as well as all adjacent counties with substantial economic and social integration \citep{USCensusCBSAdef}.  The CBSA is a useful construct for comparing urban areas since it creates a more homogeneous unit of comparison between different urban areas in the United States, particularly since the USA has a disparate mix of regional sub-units such as New England townships and Louisiana parishes.  Furthermore, the CBSA is subdivided into either a Metropolitan Statistical Area (population greater than 50 000) or a Micropolitan Statistical Area (population less than 50 000).  
 
-Figure \ref{fig:countbycbsalegal} illustrates the absolute count of institutional investors by CBSA.  As previously mentioned in the State breakdown of institutional investors, the New York - Newark - Jersey City CBSA gains the largest absolute amount of new institutional investors by a considerable margin, and Figure \ref{fig:percentageofinvestmentfirmsbycbsa} shows a similar picture to Figure \ref{fig:precentagestate} in which New York sees a relative decline.  Due to the presence of a few investors in non-CBSA counties, the investors located outside of CBSA were added to figures \ref{fig:countbycbsalegal} and \ref{fig:percentageofinvestmentfirmsbycbsa}.  Of particular note is the rapid rise of investment firms outside of the USA during this time period.  Figure \ref{fig:percentageoffirmsbycbsa} is similar to Figure \ref{fig:percentageofinvestmentfirmsbycbsa}, but with the absence of foreign investment firms. When comparing these graphs, the difference in slope trajectory when the number of foreign firms is removed from the baseline is remarkable.   At this scale, the relative density of investment firms still follows the same inverted U shape, with a peak on or about the first quarter of 2007.  
-
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIII/Count_by_CBSA_Legal}
 	\caption[Count of Institutional Investors by CBSA]{Count of institutional investors by Core-Based Statistical Areas for the period 1999 to 2018}
 	\label{fig:countbycbsalegal}
 \end{figure}
+
+Figure \ref{fig:countbycbsalegal} illustrates the absolute count of institutional investors by CBSA.  As previously mentioned in the State breakdown of institutional investors, the New York - Newark - Jersey City CBSA gains the largest absolute amount of new institutional investors by a considerable margin, and Figure \ref{fig:percentageofinvestmentfirmsbycbsa} shows a similar picture to Figure \ref{fig:precentagestate} in which New York sees a relative decline.  Due to the presence of a few investors in non-CBSA counties, the investors located outside of CBSA were added to figures \ref{fig:countbycbsalegal} and \ref{fig:percentageofinvestmentfirmsbycbsa}.  Of particular note is the rapid rise of investment firms outside of the USA during this time period.  Figure \ref{fig:percentageoffirmsbycbsa} is similar to Figure \ref{fig:percentageofinvestmentfirmsbycbsa}, but with the absence of foreign investment firms. When comparing these graphs, the difference in slope trajectory when the number of foreign firms is removed from the baseline is remarkable.   At this scale, the relative density of investment firms still follows the same inverted U shape, with a peak on or about the first quarter of 2007.  
+
+
 
 
 \begin{figure}[h]
@@ -134,17 +136,14 @@ Diving further down the building blocks of US territorial systems, the next leve
 
 This larger number of counties permits a different sort of analysis to be used: that of comparing Gini coefficients over time.  The Gini coefficient is a common descriptive statistic of inequality, with a value of 1 describing perfect inequality (one case having all of the measured variable) and 0 describing perfect equality (all cases having equal amounts of the variable). 
 
-The Chow test is a statistical test developed by econometrician Gregory Chow for determining if two regression lines are equal.  Within the field of time series analysis, this is useful for determining if there is the presence of a structural break in the data.  	A look at figure \ref{fig:ginicounty} shows an increase in spatial dispersion over time.  Using a Chow test  (Figure \ref{fig:Chow Test}) to find the change in linear trend of the Gini coefficient indicates that there is a breakpoint in trend on June 30th, 2011  \citep{Chow1960}.  This is much later than the breakpoints mentioned earlier when looking at the concentration of firms in States and CBSAs. 	This can be somewhat explained by the Gini coefficient being more sensitive to areas going from 0 to 1 than say 15 to 16.  
-
-
-
-
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=1\textwidth]{Figures/ChapterIII/GINI_County}
 	\caption[Gini Coefficient of US County Count]{Gini coefficient of US county count}
 	\label{fig:ginicounty}
 \end{figure}
+The Chow test is a statistical test developed by econometrician Gregory Chow for determining if two regression lines are equal.  Within the field of time series analysis, this is useful for determining if there is the presence of a structural break in the data.  	A look at figure \ref{fig:ginicounty} shows an increase in spatial dispersion over time.  Using a Chow test  (Figure \ref{fig:Chow Test}) to find the change in linear trend of the Gini coefficient indicates that there is a breakpoint in trend on June 30th, 2011  \citep{Chow1960}.  This is much later than the breakpoints mentioned earlier when looking at the concentration of firms in States and CBSAs. 	This can be somewhat explained by the Gini coefficient being more sensitive to areas going from 0 to 1 than say 15 to 16.  
+
 
 
 \begin{figure}[h]
@@ -195,27 +194,31 @@ Counties (and their equivalents) are important building blocks in the American t
 \end{enumerate}
 
 
+
+
+
+
 This categorisation of counties gives insight into the type of region the new institutional investors prefer. As predicted by Quaternary Location Theory, it is hardly surprising that institutional investors are primarily found in large urban areas. This was also hinted in Figures \ref{fig:countbycbsalegal},  \ref{fig:percentageofinvestmentfirmsbycbsa}, and \ref{fig:percentageoffirmsbycbsa}, where it shows that the majority of investors are clustered around the topmost cities in the American urban hierarchy.  Therefore, it should be of no surprise that Figure \ref{fig:changeinrelativenumberruralurban} indicates that 95 percent of institutional investors are located in Metropolitan counties, and that the share of investors in Micropolitan counties is quite stable over time.  The largest change is that category 2 counties see an increase in market share, which mostly comes at the expense of category 1 counties. This provides evidence that while downtown areas are slightly less attractive to investors, going for bargain basement land costs is also not a preferred strategy, or else we would see an uptick over time in the counts of category 5 or category 6 counties.  While the relative gains of category 2 counties are impressive, one should not lose sight of the fact that the largest absolute growth in the number of institutional investors occurs in category 1 counties (Figure \ref{fig:changeinabsolutenumberruralurban}).     
 
-It should be noted that the drop in number of firms in the aftermath of the 2008 great financial crisis is of nearly equal proportion in all categories of counties (Figure \ref{fig:changeinrelativenumberruralurban}).  Yet it is quite evident when looking in absolute numbers of extant institutional investors (Figure \ref{fig:changeinabsolutenumberruralurban}) that category 1 counties take a longer period of time to reestablish their number of investors.  
-
-This growth in secondary counties in a conurbation may also hint a second phenomenon, such as an increase preference and/or availability of suburban office space in response to the expense of downtown offices.  \cite{Pohl2004} examines the remaining stock of real-estate in Manhattan after the terrorist attack on the World Trade Center and concludes that the destruction of World Trade Center Buildings 1, 2 and 7, as well as the damage on the other buildings essentially removed nearly a quarter of Manhattan's tier 1 and 2 office space from the market, and that the resulting scramble for office space tightened Manhattans' office market, spilling over into the other 4 boroughs as well as suburban New York, New Jersey, and Connecticut.  
-
-
-
-\begin{figure}
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIII/ChangeInRelativeNumberRuralUrban}
 	\caption[Relative Numbers of Institutional Investors Over Time by County Urban-Rural Index]{Percentage share of firms by County Urban Index Value from 1999 to 2018}
 	\label{fig:changeinrelativenumberruralurban}
 \end{figure}
 
-\begin{figure}
+It should be noted that the drop in number of firms in the aftermath of the 2008 great financial crisis is of nearly equal proportion in all categories of counties (Figure \ref{fig:changeinrelativenumberruralurban}).  Yet it is quite evident when looking in absolute numbers of extant institutional investors (Figure \ref{fig:changeinabsolutenumberruralurban}) that category 1 counties take a longer period of time to reestablish their number of investors.  
+
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIII/ChangeInAbsoluteNumberRuralUrban}
 	\caption[Absolute Numbers of Institutional Investors Over Time by County Urban-Rural Index]{Count of firms by County Urban Index Value from 1999 to 2018}
 	\label{fig:changeinabsolutenumberruralurban}
 \end{figure}
+
+This growth in secondary counties in a conurbation may also hint a second phenomenon, such as an increase preference and/or availability of suburban office space in response to the expense of downtown offices.  \cite{Pohl2004} examines the remaining stock of real-estate in Manhattan after the terrorist attack on the World Trade Center and concludes that the destruction of World Trade Center Buildings 1, 2 and 7, as well as the damage on the other buildings essentially removed nearly a quarter of Manhattan's tier 1 and 2 office space from the market, and that the resulting scramble for office space tightened Manhattans' office market, spilling over into the other 4 boroughs as well as suburban New York, New Jersey, and Connecticut.  
+
+
 
 
 \subsection{Investors By Region}
@@ -226,24 +229,27 @@ A way to reconcile the decline in market share of the New York region in Figures
 
 \nomenclature{Bos-Ny-Wash}{Boston-New York-Washington DC Megaregion}
 
-In the case of Figure \ref{fig:Percentage_firms_Region_USA}, the decline of the North East is much slower than one would expect from previous graphs, mostly due to the inclusion of the south shore of Connecticut and the North shore of New Jersey.  
-
-
-Increases in the number of Southern-based investors lies mainly in the growth of firms located in the DC/Arlington Virginia region as well as Atlanta. With regards to the decline of the Mid-West, as mentioned previously, this is more of a relative decline than an absolute decline, for while it started the study period with 321 (20\%) institutional investors and ended with 728 (17.6\%).
-
-
-\begin{figure}
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIII/Count_firms_USA}
 	\caption[Count of Institutional Investors by Region (as defined by the US Census Bureau) for the Period 1999 to 2018]{Relative percentage of institutional investors by region during the study period (March 1999 to December 2018)}
 	\label{fig:countfirmsusa}
 \end{figure}
 
-\begin{figure}
-\includegraphics[width=1\linewidth]{Figures/ChapterIII/Percentage_firms_Region_USA}
-\caption{Number of Firms by US Region}[Total number of firms by region  (as defined by the US Census Bureau) during the study period (March 1999 to December 2018)]
+
+In the case of Figure \ref{fig:Percentage_firms_Region_USA}, the decline of the North East is much slower than one would expect from previous graphs, mostly due to the inclusion of the south shore of Connecticut and the North shore of New Jersey. 
+ 
+\begin{figure}[h]
+	\includegraphics[width=1\linewidth]{Figures/ChapterIII/Percentage_firms_Region_USA}
+	\caption{Number of Firms by US Region}[Total number of firms by region  (as defined by the US Census Bureau) during the study period (March 1999 to December 2018)]
 	\label{fig:Percentage_firms_Region_USA}
 \end{figure}
+
+Increases in the number of Southern-based investors lies mainly in the growth of firms located in the DC/Arlington Virginia region as well as Atlanta. With regards to the decline of the Mid-West, as mentioned previously, this is more of a relative decline than an absolute decline, for while it started the study period with 321 (20\%) institutional investors and ended with 728 (17.6\%).
+
+
+
+
 
 %\subsection{Distances}
 
@@ -255,7 +261,7 @@ One of the earliest uses of point pattern analysis is the famous cholera map by 
 
 The examination of various ground scales is important since firms may exhibit different clustering tendencies at various scales.  The mirroring of population maps and geographic profile maps at a national scale is humorously examined in XKCD comic 1138 (Figure \ref{fig:heatmapxkcd}) \citep{XKCD1138}.  However, firms may behave differently at different scales.  For example, a national maps of firms such as coffee shops, fast food chains, banks, automated teller machines, gas stations and grocery stores may mirror the national population map, yet they would appear diffuse on a local map, for each operates their own local catchment areas.  However, other sectors such as software development have a tendency to cluster at the local and regional level \citep{Meyer2006}.  A useful tool for examining point patterns of institutional investment locations across multiple ground scales is Ripley's K function.  
 
-\begin{figure}
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=0.5\linewidth]{Figures/ChapterIII/heatmap_XKCD}
 	\caption[XKCD 1138 - Heatmaps]{XKCD \#1138 - Heatmaps by Randall Monroe. This illustrates the point that many patterns can be approximated by human density. Used with Permission (Creative Commons Attribution-NonCommercial 2.5 License)}
@@ -293,40 +299,37 @@ Where $|A|$ is the surface area of the study.  In order to determine whether a s
 
 The basic implementation of \textit{Ripley's K} technique assumes that the point pattern exists on a Euclidean surface.  While it may be justifiable to assume a Euclidean plain for regions of less than a few hundred kilometres \citep{HeatherJ.Lynch2008,wilschut2015spatial},  the use of Euclidean space becomes problematic above such distances, and the global distribution of institutional investors is certainly more than a few hundred kilometers, and thus spherical geometry becomes a better option. Furthermore, \cite{Tobler2002} demonstrates that while the Earth is technically an oblate spheroid, most statistical techniques on a continental scale can be done adequately on a sphere.  
 
-\begin{figure}[H]
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=.9\textwidth]{Figures/ChapterIII/Cross_Val_1k.pdf} 
 	\caption[Spherical K-function for Range Band 1km]{Spherical K-function for the range band of 1 km for the years 1999 to 2018.  Each quarter consist of 99 points representing a cross-validated K-function.}
 	\label{fig:Kfunction1}
 \end{figure}
-
-\begin{figure}[H]
+The K-function displayed in Figures \ref{fig:Kfunction1}, \ref{fig:Kfunction5to100}, \ref{fig:Kfunction100to750}, and \ref{fig:Kfunction1000to5000} were performed in statistical language R using Robeson's implementation of spherical geometry on Ripley's K \citep{SphericalK}.  This analysis was conducted with a 99-fold cross-validation, in which for each time step, the 1/99 of the data was randomly reserved from the data set\footnote{The calculation of the K function for the 80 quarters involved in this study was performed on 3 different computers for a duration of 3 months for a total of 9-computer/months calculation time}.  This creates an envelope of possible K-functions. Particular care should be noted for the third and fourth quarters of 2004.  These quarters were run a second time with a similar result, suggesting that the problem may lie with the data pipeline from Edgar rather than a sudden and reversible shift in locations preference. A similar, but less extreme discontinuity exists between the fourth quarter of 2013 and the first quarter of 2014. 
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=.9\textwidth]{Figures/ChapterIII/K_Function_5to50.pdf} 
 	\caption[Spherical K-function for Range Bands 5km to 50km]{Spherical K-function for range bands 5km, 10km, 25km, 50km for the years 1999 to 2018. Each quarter consist of 99 points representing a cross-validated K-function}
 	\label{fig:Kfunction5to100}
 \end{figure}
 
-\begin{figure}[H]
+As with the other forms of measuring the concentration and dispersion at various scales seen earlier, the overall trend of initial concentration and dispersion on or after 2007 continues with the K-function.  In greater detail, Figure \ref{fig:Kfunction1} looks at the 1 km scale, where there is an initial concentration followed by a gradual diffusion starting on or around 2003. Figure \ref{fig:Kfunction5to100} shows a slightly different picture, more akin to the County and CBSA graphs of concentration from 1999 to on or about 2007 and an increased diffusion afterwards.  Figure \ref{fig:Kfunction100to750} shows a similar pattern - just not as starkly.  Finally, Figure \ref{fig:Kfunction1000to5000} shows that the continental scales resemble the shape seen in Figure \ref{fig:Kfunction1}, since there is a continual diffusion of firms from a earlier peak.  
+
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=.9\textwidth]{Figures/ChapterIII/RIpley_K_100_750.pdf} 
 	\caption[Spherical K-function for Range Bands 100km to 750km]{Spherical K-function for range bands 100 km, 250 km, 500 km, 750 km for the years 1999 to 2018. Each quarter consist of 99 points representing a cross-validated K-function}
 	\label{fig:Kfunction100to750}
 \end{figure}
 
-
-\begin{figure}[H]
+This is an important confirmation of the trend, since Ripley's K is a point pattern analysis, and is thus immune to the  modifiable areal unit problem.  This suggests that something fundamental in the business world occurred in the time-frame of the pivot that changed the calculus in terms of benefits of the forces of agglomeration and desegregation.  There is precedence in the location preferences shifting in the past, with a substantial amount of dispersion occurring in the 1970s and 1980s when the first telecommunication revolution occurred \citep{bodenmanfirm2000}.
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=.9\textwidth]{Figures/ChapterIII/Cross_val_1000_5000.pdf} 
 	\caption[Spherical K-function for Range Bands 1000km to 5000km]{Spherical K-function for range bands 1000 km, 1500 km, 2000 km, 5000 km for the years 1999 to 2018. Each quarter consist of 99 points representing a cross-validated K-function}
 	\label{fig:Kfunction1000to5000}
 \end{figure}
 
-The K-function displayed in Figures \ref{fig:Kfunction1}, \ref{fig:Kfunction5to100}, \ref{fig:Kfunction100to750}, and \ref{fig:Kfunction1000to5000} were performed in statistical language R using Robeson's implementation of spherical geometry on Ripley's K \citep{SphericalK}.  This analysis was conducted with a 99-fold cross-validation, in which for each time step, the 1/99 of the data was randomly reserved from the data set\footnote{The calculation of the K function for the 80 quarters involved in this study was performed on 3 different computers for a duration of 3 months for a total of 9-computer/months calculation time}.  This creates an envelope of possible K-functions. Particular care should be noted for the third and fourth quarters of 2004.  These quarters were run a second time with a similar result, suggesting that the problem may lie with the data pipeline from Edgar rather than a sudden and reversible shift in locations preference. A similar, but less extreme discontinuity exists between the fourth quarter of 2013 and the first quarter of 2014. 
-
-As with the other forms of measuring the concentration and dispersion at various scales seen earlier, the overall trend of initial concentration and dispersion on or after 2007 continues with the K-function.  In greater detail, Figure \ref{fig:Kfunction1} looks at the 1 km scale, where there is an initial concentration followed by a gradual diffusion starting on or around 2003. Figure \ref{fig:Kfunction5to100} shows a slightly different picture, more akin to the County and CBSA graphs of concentration from 1999 to on or about 2007 and an increased diffusion afterwards.  Figure \ref{fig:Kfunction100to750} shows a similar pattern - just not as starkly.  Finally, Figure \ref{fig:Kfunction1000to5000} shows that the continental scales resemble the shape seen in Figure \ref{fig:Kfunction1}, since there is a continual diffusion of firms from a earlier peak.  
-
-This is an important confirmation of the trend, since Ripley's K is a point pattern analysis, and is thus immune to the  modifiable areal unit problem.  This suggests that something fundamental in the business world occurred in the time-frame of the pivot that changed the calculus in terms of benefits of the forces of agglomeration and desegregation.  There is precedence in the location preferences shifting in the past, with a substantial amount of dispersion occurring in the 1970s and 1980s when the first telecommunication revolution occurred \citep{bodenmanfirm2000}.
 
 While it is beyond the scope of this research, it would be interesting to examine if the rise of so called business-oriented ``smartphones" by Blackberry (formerly known as Research In Motion), touchscreen smartphones such as ``iPhone" and ``Android" devices, in addition to widespread wifi-enabled cafes have reduced the productivity tax of conducting business away from the office, and thus reduce the costs of locating outside of the central business district.   
 

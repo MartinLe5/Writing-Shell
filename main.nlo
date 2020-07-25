@@ -12,13 +12,13 @@
 \nomenclatureentry{aDJIA@[{DJIA}]\begingroup Dow Jones Industrial Average\nomeqref {3.0}|nompageref}{53}
 \nomenclatureentry{aDOW@[{DOW}]\begingroup Dow Jones Industrial Average\nomeqref {3.0}|nompageref}{53}
 \nomenclatureentry{aEDA@[{EDA}]\begingroup Exploratory Data Analysis\nomeqref {4.0}|nompageref}{57}
-\nomenclatureentry{aCIK@[{CIK}]\begingroup Central Index Key\nomeqref {4.0}|nompageref}{62}
+\nomenclatureentry{aCIK@[{CIK}]\begingroup Central Index Key\nomeqref {4.0}|nompageref}{63}
 \nomenclatureentry{aCBSA@[{CBSA}]\begingroup Core-Based Statistical Area\nomeqref {4.0}|nompageref}{63}
-\nomenclatureentry{aMAP@[{MAP}]\begingroup Modifiable Areal Problem\nomeqref {4.0}|nompageref}{72}
-\nomenclatureentry{aBos-Ny-Wash@[{Bos-Ny-Wash}]\begingroup Boston-New York-Washington DC Megaregion\nomeqref {4.0}|nompageref}{72}
-\nomenclatureentry{aRMSE@[{RMSE}]\begingroup Root Mean Square Error\nomeqref {4.5}|nompageref}{87}
-\nomenclatureentry{aMPT@[{MPT}]\begingroup Modern Portfolio Theory\nomeqref {6.0}|nompageref}{151}
-\nomenclatureentry{aVAR@[{VAR}]\begingroup Value at Risk\nomeqref {6.0}|nompageref}{152}
-\nomenclatureentry{aLDA@[{LDA}]\begingroup Latent Dirichlet allocation\nomeqref {6.0}|nompageref}{153}
-\nomenclatureentry{aLDA@[{LDA}]\begingroup Latent Dirichlet allocation\nomeqref {6.0}|nompageref}{153}
-\nomenclatureentry{aIPO@[{IPO}]\begingroup Initial Public Offering\nomeqref {6.9}|nompageref}{175}
+\nomenclatureentry{aMAP@[{MAP}]\begingroup Modifiable Areal Problem\nomeqref {4.0}|nompageref}{73}
+\nomenclatureentry{aBos-Ny-Wash@[{Bos-Ny-Wash}]\begingroup Boston-New York-Washington DC Megaregion\nomeqref {4.0}|nompageref}{74}
+\nomenclatureentry{aRMSE@[{RMSE}]\begingroup Root Mean Square Error\nomeqref {4.5}|nompageref}{91}
+\nomenclatureentry{aMPT@[{MPT}]\begingroup Modern Portfolio Theory\nomeqref {6.0}|nompageref}{149}
+\nomenclatureentry{aVAR@[{VAR}]\begingroup Value at Risk\nomeqref {6.0}|nompageref}{150}
+\nomenclatureentry{aLDA@[{LDA}]\begingroup Latent Dirichlet allocation\nomeqref {6.0}|nompageref}{151}
+\nomenclatureentry{aLDA@[{LDA}]\begingroup Latent Dirichlet allocation\nomeqref {6.0}|nompageref}{151}
+\nomenclatureentry{aIPO@[{IPO}]\begingroup Initial Public Offering\nomeqref {6.9}|nompageref}{173}
