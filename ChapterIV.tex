@@ -11,7 +11,7 @@ The space-time cube is a space-time analytical technique that bins point objects
 
 The first step in creating a space-time cube is the creation of a Network Common Data Form (NetCDF) file.   This file format permits ArcGIS to store multidimensional information with a defined geographical position (x and y) alongside a defined time period as well as any additional relevant information such as count data, sum, average, median and standard deviation.  This creates a data-structure in which further analysis can be performed, such as emerging hotspot analysis and local outlier analysis. Figure \ref{fig:timecube1} provides two perspectives on the data aggregation process. 
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	
 	
@@ -56,7 +56,7 @@ When creating the NetCDF file for the United States of America, the size of spat
 Figure \ref{fig:usahspcount} shows the results of the emerging hotspot analysis using the address book database. These results should come as no surprise after reading the previous chapter, in which the vast majority of institutional investors are located in the New York, Boston, Chicago, Los Angeles and San Francisco regions.  After all, institutional investment is a decidedly urban phenomenon despite being a theoretically footloose industry in an era of wireless telecommunications and computerized stock trading.  In addition to these regions, there is some strong, but inconsistent growth in the Texas Triangle (a megaregion that encompasses San Antonio, Dallas-Fort Worth and Houston), the Miami-Dade region of South Florida, the Ohio Valley and the Raleigh Triangle (Raleigh, Durham and Chapel Hill, North Carolina).  
 
 
-\begin{figure}[h]
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/USA_Count_EH}
 	\caption[Emerging Hot Spot Analysis of Locations of Institutional Investors in the USA 1999-2018]{Emerging hot spot analysis of locations of institutional investors in the United States of America for the period of March 1999 to December 2018.}
@@ -68,7 +68,7 @@ Painting a similar picture than Figure \ref{fig:usahspcount},  the local outlier
 What is also of interest, is the light sprinkling of high-low clusters in Figure \ref{fig:usaloacount}.  These light blue dots coincide with secondary and tertiary financial centres as well as State capitals where State-employee pension funds are managed.  
 Low-high clusters appear to be confined to bridging the gaps between nearby high-high clusters, such as the peripheral areas of the North-East mega-region.  These low-high clusters are not unexpected, since they are definitionally low areas surrounded on multiple sides by high areas.     
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/USA_Count_LO}
 	\caption[Local Outlier Analysis for Number of Institutional Investors in the USA 1999-2018]{Local outlier analysis for number of institutional investors in the USA for the time period March 1999 to December 2018}
@@ -79,7 +79,7 @@ Low-high clusters appear to be confined to bridging the gaps between nearby high
 
 Using the same technique on the holdings database presents a slightly different  outcome as seen in Figure \ref{fig:usaHSP_Money}. Using money under management rather than count data puts more emphasis on New York and San Francisco, while at the same time removing all of the consecutive cold spot areas and turning them into regions with no detectable patterns.  	
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/USA_Money_EH}
 	\caption[Hot Spot Analysis of USA-based Institutional Investors 2013-2018]{Hot spot analysis of USA-based institutional investors located in the United States of America for the period of June 2013 to December 2018. }
@@ -92,7 +92,7 @@ As with Figure \ref{fig:usaHSP_Money}, which is based on the holdings database, 
 
 
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=\linewidth]{Figures/ChapterIV/USA_Money_LO}
 	\caption[Local Outlier Analysis For Funds Under Management in the United States 2013-2018]{Local outlier analysis for funds under management in the United States for the time period of June 2013 to December 2018.}
@@ -108,30 +108,31 @@ As seen in the various tables and analysis in Chapter \ref{ChapterIIIb}, Boston 
 
 Figure \ref{fig:bostoncounthotspot} identifies a large cluster covering the areas of Central Boston as well as the southern tip of the Massachusetts Route 128 corridor between the suburban cities of Dedham, Needham and Wellsley.  This cluster essentially contains 3 different types of hot spots.  The first area of central Boston is classified as an intensifying hot spot. This indicates a very high rate of increase in density of institutional investors by hex bin in the area around Boston Commons in downtown Boston.  The second type of hot spot covers the outer periphery of central Boston, as well as the southern arc of Highway 128.  Lastly, the southern part of the community of Dedham contains a sporadic hot spot indicating that this zone sees intermittent changes in institutional investor count over time.  The inclusion of the southern part of the route 128 high tech corridor in the investment cluster isn't surprising considering the long history of partnership between high tech research and development and finance capital \citep{kenney1999technology}.  
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Bos_Count_EH}
 	\caption[Hot Spot Analysis of Number of Firms in Boston CBSA 1999-2018]{Hot spot analysis of number of firms in Boston CBSA for the time period March 1999 to December 2018}
 	\label{fig:bostoncounthotspot}
 \end{figure}
 
-Figure \ref{fig:bostoncountlocaloutliercount} displays of local outlier analysis confirms the importance of both central Boston as well as the southern arch of the route 128 corridor.   	
-
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Bos_Count_EH_Downtown}
 	\caption[Hot Spot Analysis of Number of Firms in Downtown Boston 1999-2018]{Hot spot analysis of number of firms in downtown Boston for the time period March 1999 to December 2018}
 	\label{fig:bostoncounthotspot_Downtown}
 \end{figure}
+Figure \ref{fig:bostoncountlocaloutliercount} displays of local outlier analysis confirms the importance of both central Boston as well as the southern arch of the route 128 corridor.   	
 
-\begin{figure}
+
+
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Bos_Count_LO}
 	\caption[Boston CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Boston CBSA local outlier analysis - count of institutional investors}
 	\label{fig:bostoncountlocaloutliercount}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Bos_Count_LO_Downtown}
 	\caption[Downtown Boston Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Downtown Boston local outlier analysis - count of institutional investors}
@@ -143,14 +144,14 @@ Figure \ref{fig:bostoncountlocaloutliercount} displays of local outlier analysis
 
 Unlike Figure \ref{fig:bostoncounthotspot}'s larger cluster, the emerging hot spot analysis in Figure \ref{fig:bostonmoneyhotspot} using funds under management as a criteria is more exclusionary since it only contains central Boston and ignores the Massachusetts Route 128 corridor.  A partial explanation for this is the high collection of bank and insurance based institutional investors located in Boston's financial district that abuts Boston Common .    	
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Bos_Money_EH}
 	\caption[Emerging Hot Spot Analysis of Funds Under Management for Boston CBSA 2013-2018]{Emerging hot spot analysis of funds under management for Boston CBSA for period June 2013 to December 2018}
 	\label{fig:bostonmoneyhotspot}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Bos_Money_EH_Downtown}
 	\caption[Emerging Hot Spot Analysis of Funds Under Management for Downtown Boston 2013-2018]{Emerging hot spot analysis of funds under management for downtown Boston for period June 2013 to December 2018}
@@ -160,7 +161,7 @@ Unlike Figure \ref{fig:bostoncounthotspot}'s larger cluster, the emerging hot sp
 
 Following in a similar theme to Figure \ref{fig:bostonmoneyhotspot}, the local outlier analysis only finds high-high clusters in central Boston. Interestingly, the model accurately picks out Boston Common as a non-cluster.  A look at the region shows that many institutional investors surround this 25 hectare urban park, and this creates a discontinuity.  
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Bos_Money_LO}
 	\caption[Boston CBSA Local Outlier Analysis - Funds Under Management 2013-2018]{Boston CBSA local outlier analysis - funds under management}
@@ -168,7 +169,7 @@ Following in a similar theme to Figure \ref{fig:bostonmoneyhotspot}, the local o
 \end{figure}
 
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Bos_Money_LO_Downtown}
 	\caption[Boston Downtown Local Outlier Analysis - Funds Under Management 2013-2018]{Boston Downtown local outlier analysis - funds under management}
@@ -181,14 +182,14 @@ Following in a similar theme to Figure \ref{fig:bostonmoneyhotspot}, the local o
 
 \subsection{Count Data}
 As displayed in Figure \ref{fig:Chicagocounthotspot}, Chicago contains one intensifying hot spot in the Chicago Loop neighbourhood, including satellite hot spots in the Napierville-Aurora suburb to the West, as well as Evanston and Highland Park to the North.  
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Chi_Count_EH}
 	\caption[Hot Spot Analysis of Number of Firms in Chicago CBSA 1999-2018]{Hot spot analysis of number of firms in Chicago for the time period March 1999 to December 2018}
 	\label{fig:Chicagocounthotspot}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Chi_Count_EH_Downtown}
 	\caption[Hot Spot Analysis of Number of Firms in Downtown Chicago 1999-2018]{Hot spot analysis of number of firms in Chicago for the time period March 1999 to December 2018}
@@ -197,14 +198,14 @@ As displayed in Figure \ref{fig:Chicagocounthotspot}, Chicago contains one inten
 
 
 Using local outlier analysis, only the Loop district contains high-high hexagons. This is consistent with institutional investors perfering CBDs.  Futhermore, there is a conspicuous absence of investors on the South Side of Chicago, however this is not a region of Chicago known for having much financial capital.  
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Chi_Count_LO}
 	\caption[Chicago CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Chicago local outlier analysis - count of institutional investors}
 	\label{fig:Chicagocountlocaloutliercount}
 \end{figure}	
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Chi_Count_LO_Downtown}
 	\caption[Downtown Chicago Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Chicago local outlier analysis - count of institutional investors}
@@ -215,14 +216,14 @@ Using local outlier analysis, only the Loop district contains high-high hexagons
 
 Figure \ref{fig:Chicagonmoneyhotspot} suggests a similar picture to the other emerging hot spot analysis maps where the key variable is funds under management, for there are less regions defined as a hot spot.  In this case, the hot spots in Evanston and Highland Park disappear, and the Napierville-Aurora cluster is much smaller in size.    
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Chi_Money_EH}
 	\caption[Emerging Hot Spot Analysis of Funds Under Management for Chicago CBSA 2013-2018]{Emerging hot spot analysis of funds under management for Chicago for period June 2013 to December 2018}
 	\label{fig:Chicagonmoneyhotspot}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Chi_Money_EH_Downtown}
 	\caption[Emerging Hot Spot Analysis of Funds Under Management for Downtown Chicago 2013-2018]{Emerging hot spot analysis of funds under management for Chicago for period June 2013 to December 2018}
@@ -232,7 +233,7 @@ Figure \ref{fig:Chicagonmoneyhotspot} suggests a similar picture to the other em
 Figure \ref{fig:Chicagolocaloutlier} paints a similar story than Figure \ref{fig:Chicagonmoneyhotspot}, for the main cluster of high-high hexagons is located in the Chicago Loop district.  A secondary cluster of a single high-high hexagon exists in the Napierville-Aurora region.  Furthermore, the cluster in the Loop neighbourhood of Chicago is much more defined in this analysis compared to the count map. This sharper cluster is not surprising considering the presence of the Chicago financial district, anchored by the Chicago Mercantile Exchange, at the centre of the Loop.
 
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Chi_Money_LO}
 	\caption[Chicago CBSA Local Outlier Analysis - Funds Under Management 2013-2018]{Chicago local outlier analysis - funds under management}
@@ -240,7 +241,7 @@ Figure \ref{fig:Chicagolocaloutlier} paints a similar story than Figure \ref{fig
 \end{figure}
 
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Chi_Money_LO_Downtown}
 	\caption[Downtown Chicago Local Outlier Analysis - Funds Under Management 2013-2018]{Chicago local outlier analysis - funds under management}
@@ -255,31 +256,32 @@ Figure \ref{fig:Chicagolocaloutlier} paints a similar story than Figure \ref{fig
 
 Figure \ref{fig:LAcounthotspot} indicates that there is an absence of a central financial district and that investors are more diffused.	As such, unlike Boston and Chicago, the emerging hot spot analysis map for Los Angeles offers more categories.  This broad spread of hot spots is not really surprising considering Los Angeles's history and reputation for urban sprawl and suburban office parks \citep{dearpostmodern1998,harrisconstructing1998}.  The lack of a historic CBD comprised of skyscrapers on the scale of New York's Wall Street and Midtown or Chicago's Loop district and decentralized city administration certainly help in creating multiple small intensifying hot spots around the city such as Downtown, Santa Monica, Beverly Hills, Costa Mesa and Irvine. 
 
-These hot spot locations also show up in Figure \ref{fig:LAcountlocaloutliercount} as local outliers.  However, there is a large amount of hexagons displaying the mixed outlier type in Santa Monica.  This can be partially explained by the diffuse nature of locations in Santa Monica compared to other clusters such that across time they might appear as high-highs or high-lows due to neighbourhood effects.  
+ 
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/LA_Count_EH}
 	\caption[Hot Spot Analysis of Number of Firms in Los Angeles CBSA 1999-2018]{Hot spot analysis of number of firms in Los Angeles for the time period March 1999 to December 2018}
 	\label{fig:LAcounthotspot}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/LA_Count_EH_Downtown}
 	\caption[Hot Spot Analysis of Number of Firms in Downtown Los Angeles and Santa Monica 1999-2018]{Hot spot analysis of number of firms in downtown Los Angeles and Santa Monica for the time period March 1999 to December 2018}
 	\label{fig:LAcounthotspot_Downtown}
 \end{figure}
 
+These hot spot locations also show up in Figure \ref{fig:LAcountlocaloutliercount} as local outliers.  However, there is a large amount of hexagons displaying the mixed outlier type in Santa Monica.  This can be partially explained by the diffuse nature of locations in Santa Monica compared to other clusters such that across time they might appear as high-highs or high-lows due to neighbourhood effects. 
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/LA_Count_LO}
 	\caption[Los Angeles CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Los Angeles local outlier analysis - count of institutional investors}
 	\label{fig:LAcountlocaloutliercount}
 \end{figure}	
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/LA_Count_LO_Downtown}
 	\caption[Downtown Los Angeles and Santa Monica Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Downtown Los Angeles and Santa Monica local outlier analysis - count of institutional investors}
@@ -290,31 +292,31 @@ These hot spot locations also show up in Figure \ref{fig:LAcountlocaloutliercoun
 
 Continuing the theme seen in all previous maps with regards to analysing funds under management, the map that is weighted by money rather then the mere presence of an investor reduces the importance of suburban investors.  This suggests that while suburban investors are becoming more common, their portfolio of holdings are smaller than CBD-based investors.  
 
-The emerging hot spot analysis for Figure \ref{fig:LAmoneyhotspot} as well as the local outlier analysis in Figure \ref{fig:LAlocaloutlier} drops the Costa Mesa  and Irvine hot spots.  Furthermore, the Downtown Los Angeles hot spot remains the only one that is still an intensifying hot spot.  This can be explained by the recent construction boom in high grade office towers being built in the Downtown after an influx of foreign capital and a planning mandate towards densification \citep{Marino19}.  
 
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/LA_Money_EH}
 	\caption[Emerging Hot Spot Analysis of Funds Under Management for Los Angeles CBSA 2013-2018]{Emerging hot spot analysis of funds under management for Los Angeles for period June 2013 to December 2018}
 	\label{fig:LAmoneyhotspot}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/LA_Money_EH_Downtown}
 	\caption[Emerging Hot Spot Analysis of Funds Under Management for Downtown Los Angeles and Santa Monica 2013-2018]{Emerging hot spot analysis of funds under management for downtown Los Angeles and Santa Monica for period June 2013 to December 2018}
 	\label{fig:LAmoneyhotspot_Downtown}
 \end{figure}
+The emerging hot spot analysis for Figure \ref{fig:LAmoneyhotspot} as well as the local outlier analysis in Figure \ref{fig:LAlocaloutlier} drops the Costa Mesa  and Irvine hot spots.  Furthermore, the Downtown Los Angeles hot spot remains the only one that is still an intensifying hot spot.  This can be explained by the recent construction boom in high grade office towers being built in the Downtown after an influx of foreign capital and a planning mandate towards densification \citep{Marino19}.  
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/LA_Money_LO}
 	\caption[Los Angeles CBSA Local Outlier Analysis - Funds Under Management 2013-2018]{Los Angeles local outlier analysis - funds under management}
 	\label{fig:LAlocaloutlier}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/LA_Money_LO_Downtown}
 	\caption[Downtown Los Angeles and Santa Monica Local Outlier Analysis - Funds Under Management 2013-2018]{Downtown Los Angeles and Santa Monica local outlier analysis - funds under management}
@@ -326,12 +328,7 @@ The emerging hot spot analysis for Figure \ref{fig:LAmoneyhotspot} as well as th
 \subsection{Count Data}
 
 Figure \ref{fig:NYCcounthotspot} displays the singular emerging hot spot cluster for the New York region.  Unsurprisingly, this hot spot covers the heart of the US financial universe: the Financial District and Midtown on Manhattan Island, and extending somewhat into the Bronx, Brooklyn and Hudson County, New Jersey.   Furthermore, the intensifying hotspot over Manhattan and the constant hot spot to the south of it is evidence in the shift northwards towards Midtown Manhattan due to the desire to be near the intercontinental exchange - that is to say where transatlantic fibre optic cables come to shore in North America \cite{Administration1989}.    
-
-Providing more detailed spatial resolution on high-high hot spots, Figure \ref{fig:NYCcountlocaloutliercount} finds that most of the high-high hexes are located in Manhattan, and a few isolated hexes are located in Brooklyn, Bronx and Hudson Counties.  Notable by its absence, the highly residential Stuyvesant Town neighbourhood on the east side of Manhattan is largely devoid of institutional investors.      
-
-
-
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/NY_Count_EH}
 	\caption[Hot Spot Analysis of Number of Firms in New York CBSA 1999-2018]{Hot spot analysis of number of firms in New York for the time period March 1999 to December 2018}
@@ -339,21 +336,26 @@ Providing more detailed spatial resolution on high-high hot spots, Figure \ref{f
 \end{figure}
 
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/NY_Count_EH_Downtown}
 	\caption[Hot Spot Analysis of Number of Firms in Downtown New York 1999-2018]{Hot spot analysis of number of firms in downtown New York for the time period March 1999 to December 2018}
 	\label{fig:NYCcounthotspot_Downtown}
 \end{figure}
+Providing more detailed spatial resolution on high-high hot spots, Figure \ref{fig:NYCcountlocaloutliercount} finds that most of the high-high hexes are located in Manhattan, and a few isolated hexes are located in Brooklyn, Bronx and Hudson Counties.  Notable by its absence, the highly residential Stuyvesant Town neighbourhood on the east side of Manhattan is largely devoid of institutional investors.      
 
-\begin{figure}
+
+
+
+
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/NY_Count_LO}
 	\caption[New York CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018]{New York local outlier analysis - count of institutional investors}
 	\label{fig:NYCcountlocaloutliercount}
 \end{figure}	
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/NY_Count_LO_Downtown}
 	\caption[Downtown New York Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Downtown New York local outlier analysis - count of institutional investors}
@@ -363,14 +365,14 @@ Providing more detailed spatial resolution on high-high hot spots, Figure \ref{f
 
 Once again, the use of funds under management as the unit of measure for emerging hot spot analysis shows a more restrictive hot spot. In fact, Figure \ref{fig:NYCmoneyhotspot} is simply a more restrictive version of Figure \ref{fig:NYCcounthotspot}.  The same can be said of Figure \ref{fig:NYClocaloutlier} treatment of local outlier analysis when compared to Figure \ref{fig:NYCcountlocaloutliercount}.  That being said, this more restrictive criteria removes most of the high-high clusters in Hudson County and Brooklyn County, suggesting once again that these investors located outside of the CBD have a smaller bankroll than the investors located in the CBD.   
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/NY_Money_EH}
 	\caption[Emerging Hot Spot Analysis of Funds Under Management for New York CBSA 2013-2018]{Emerging hot spot analysis of funds under management for New York for period June 2013 to December 2018}
 	\label{fig:NYCmoneyhotspot}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/NY_Money_EH_Downtown}
 	\caption[Emerging Hot Spot Analysis of Funds Under Management for Downtown New York 2013-2018]{Emerging hot spot analysis of funds under management for downtown New York for period June 2013 to December 2018}
@@ -378,14 +380,14 @@ Once again, the use of funds under management as the unit of measure for emergin
 \end{figure}
 
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/NY_Money_LO}
 	\caption[New York CBSA Local Outlier Analysis - Funds Under Management 2013-2018]{New York local outlier analysis - funds under management}
 	\label{fig:NYClocaloutlier}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/NY_Money_LO_Downtown}
 	\caption[Downtown New York Local Outlier Analysis - Funds Under Management 2013-2018]{Downtown New York local outlier analysis - funds under management}
@@ -400,14 +402,14 @@ Once again, the use of funds under management as the unit of measure for emergin
 
 Figure \ref{fig:SFcounthotspot} displays five hot spots: an emerging hot spot in San Francisco's central business district, San Mateo, a small emerging centre north of the Golden Gate Bridge along with consecutive hot spots in Palo Alto and Walnut Creek.   
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/SF_Count_EH}
 	\caption[Hot Spot Analysis of Number of Firms in San Francisco CBSA 1999-2018]{Hot spot analysis of number of firms in San Francisco for the time period March 1999 to December 2018}
 	\label{fig:SFcounthotspot}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/SF_Count_EH_Downtown}
 	\caption[Hot Spot Analysis of Number of Firms in Downtown San Francisco 1999-2018]{Hot spot analysis of number of firms in downtown San Francisco for the time period March 1999 to December 2018}
@@ -416,14 +418,14 @@ Figure \ref{fig:SFcounthotspot} displays five hot spots: an emerging hot spot in
 
 Figure \ref{fig:SFcountlocaloutliercount} displays the results of the local outlier analysis and finds the same five clusters.     
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/SF_Count_LO}
 	\caption[San Francisco CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018]{San Francisco local outlier analysis - count of institutional investors}
 	\label{fig:SFcountlocaloutliercount}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/SF_Count_LO_Downtown}
 	\caption[Downtown San Francisco Local Outlier Analysis - Count of Institutional Investors 1999-2018]{Downtown San Francisco local outlier analysis - count of institutional investors}
@@ -434,14 +436,14 @@ Figure \ref{fig:SFcountlocaloutliercount} displays the results of the local outl
 
 In a continuing theme of having the funds under management Figures \ref{fig:SFnmoneyhotspot} and \ref{fig:SFlocaloutlier} show fewer hot spots than count data.  These hot spots are located in San Francisco's CBD and in San Mateo.  	
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/SF_Money_EH}
 	\caption[Emerging Hot Spot Analysis of Funds Under Management for San Francisco CBSA 2013-2018]{Emerging hot spot analysis of funds under management for San Francisco for period June 2013 to December 2018}
 	\label{fig:SFnmoneyhotspot}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/SF_Money_EH_Downtown}
 	\caption[Emerging Hot Spot Analysis of Funds Under Management for Downtown San Francisco 2013-2018]{Emerging hot spot analysis of funds under management for downtown San Francisco for period June 2013 to December 2018}
@@ -449,14 +451,14 @@ In a continuing theme of having the funds under management Figures \ref{fig:SFnm
 \end{figure}
 
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/SF_Money_LO}
 	\caption[San Francisco CBSA Local Outlier Analysis - Funds Under Management 2013-2018]{San Francisco local outlier analysis - funds under management}
 	\label{fig:SFlocaloutlier}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterIV/SF_Money_LO_Downtown}
 	\caption[Downtown San Francisco Local Outlier Analysis - Funds Under Management 2013-2018]{Downtown San Francisco local outlier analysis - funds under management}
