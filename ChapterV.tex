@@ -176,15 +176,16 @@ Another practice that is common in literary-based uses of LDA is stemming words.
 
 LDA requires the user to determine \textit{a priori} the number of topics used in the topic model.  This leads to the lumper vs splitter problem.  Where one has to classify $n$ objects, the optimal number of categories will exist between 1 and $n$, for 1 category encompasses the ensemble of things to be classified, and $n$ categories will have perfect fit, but is utterly meaningless since it does not reduce data into a meaningful form.  As such, classification is an art as well as a science since many categories can exist as part of a continuum.
 
-
-In this case, the optimal number of topics selected was facilitated by the R package LDAtuning \citep{LDAtuning}. This package takes the Document-Term matrix and runs an ensemble of four different information criteria in order to find the optimal number of topics. These methods were established by \cite{Arun2010}; \cite{CAO2009}; \cite{Griffiths2004} and \cite{deveaud2014}.  From these four information criterion techniques, the suggested number of topics occurs where differences between these methods are minimized. Figure \ref{fig:topicselection} displays the results of LDAtunings' estimates for the number of topics.  This resultant plot shows that the numbers of topics where the differences are minimized occur at 8, 14, 34 and 72 topics.  However, we can further refine this for a better fit.  A $n$ of 8 and 14 offer a poor fit under \cite{Griffiths2004}, and thus this method suggest a much larger optimal number.  By contrast, \cite{CAO2009} and \cite{deveaud2014} suggest topics at 8, 14 and 34, with \cite{deveaud2014} offering poorer solutions as the number of topics increases.  As such, 34 topics offers the best compromise between the different tuning methods and was chosen. 
-
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/ChapterV/TopicSelection}
 	\caption[LDAtuning Ensemble for Determining the Number of Topics in LDA]{LDAtuning ensemble for determining the number of topics in LDA.   As can be seen from the short distance between Deveaud (2014) and CaoJuan (2009) around 14 topics and the close agreement between the Griffiths (2004) and Arun (2010) measure as the number of topics increases - especially after 58.  This suggests that a number of topics should be between 14 and 58.  Within  this band, all 4 metrics are in closest agreement at 34 topics, therefore 34 topics will be used in the LDA analysis.    }
 	\label{fig:topicselection}
 \end{figure}
+
+In this case, the optimal number of topics selected was facilitated by the R package LDAtuning \citep{LDAtuning}. This package takes the Document-Term matrix and runs an ensemble of four different information criteria in order to find the optimal number of topics. These methods were established by \cite{Arun2010}; \cite{CAO2009}; \cite{Griffiths2004} and \cite{deveaud2014}.  From these four information criterion techniques, the suggested number of topics occurs where differences between these methods are minimized. Figure \ref{fig:topicselection} displays the results of LDAtunings' estimates for the number of topics.  This resultant plot shows that the numbers of topics where the differences are minimized occur at 8, 14, 34 and 72 topics.  However, we can further refine this for a better fit.  A $n$ of 8 and 14 offer a poor fit under \cite{Griffiths2004}, and thus this method suggest a much larger optimal number.  By contrast, \cite{CAO2009} and \cite{deveaud2014} suggest topics at 8, 14 and 34, with \cite{deveaud2014} offering poorer solutions as the number of topics increases.  As such, 34 topics offers the best compromise between the different tuning methods and was chosen. 
+
+
 
 \section{Applying the Model to the Data}
 
