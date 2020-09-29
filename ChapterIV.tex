@@ -11,22 +11,14 @@ The space-time cube is a space-time analytical technique that bins point objects
 
 The first step in creating a space-time cube is the creation of a Network Common Data Form (NetCDF) file.   This file format permits ArcGIS to store multidimensional information with a defined geographical position (x and y) alongside a defined time period as well as any additional relevant information such as count data, sum, average, median and standard deviation.  This creates a data-structure in which further analysis can be performed, such as emerging hotspot analysis and local outlier analysis. Figure \ref{fig:timecube1} provides two perspectives on the data aggregation process. 
 
-\begin{figure}[H]
+\begin{figure}[H]{0.75\textwidth}
 	\centering
-	
-	
-	\begin{subfigure}[b]{0.45\textwidth}
-		\includegraphics[width=1\linewidth]{Figures/ChapterIV/TimeCube}
+
+	\includegraphics[width=1\linewidth]{Figures/ChapterIV/Time_cube_slice_martin}
 		\caption{A schematic explanation of the time-cube }
 		\label{fig:Timecube}
-	\end{subfigure}
-	\begin{subfigure}[b]{0.45\textwidth}
-		\includegraphics[width=1\linewidth]{Figures/ChapterIV/Time_Cube_Slice}
-		\caption{Examination of a time-cube cell}
-		\label{fig:timesclice}
-	\end{subfigure}
-	
-	\caption[ESRI Schematic Illustrations of a Time-Cube]{Schematic illustration of a time-cube. It should be noted that unlike this schematic representation of the time-cube, the analysis in this paper uses a hexagonal bin rather than a square bin for spatial data.  Image from: \url{http://desktop.arcgis.com/en/arcmap/10.3/tools/space-time-pattern-mining-toolbox/visualizing-cube-data.htm}}
+
+	\caption[Schematic Illustrations of a Time-Cube]{Schematic illustration of a time-cube. It should be noted that unlike this schematic representation of the time-cube, the analysis in this paper uses a hexagonal bin rather than a square bin for spatial data.  Image created by the author adapted from the following illustration: \url{http://desktop.arcgis.com/en/arcmap/10.3/tools/space-time-pattern-mining-toolbox/visualizing-cube-data.htm}}
 	\label{fig:timecube1}
 \end{figure}
 
