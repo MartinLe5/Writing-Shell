@@ -6,19 +6,19 @@
 \nomenclatureentry{aOLS@[{OLS}]\begingroup ordinary least squares\nomeqref {2.0}|nompageref}{20}
 \nomenclatureentry{aFIRE@[{FIRE}]\begingroup Finance, Insurance and Real Estate\nomeqref {2.0}|nompageref}{21}
 \nomenclatureentry{aCBD@[{CBD}]\begingroup Central Business District\nomeqref {2.0}|nompageref}{21}
-\nomenclatureentry{aUSD@[{USD}]\begingroup United States Dollar\nomeqref {3.0}|nompageref}{29}
-\nomenclatureentry{aNASDAQ@[{NASDAQ}]\begingroup National Association of Securities Dealers Automated Quotations Composite\nomeqref {3.0}|nompageref}{32}
-\nomenclatureentry{aS\&P 500@[{S\&P 500}]\begingroup The Standard and Poors 500 Index\nomeqref {3.0}|nompageref}{32}
-\nomenclatureentry{aDJIA@[{DJIA}]\begingroup Dow Jones Industrial Average\nomeqref {3.0}|nompageref}{32}
-\nomenclatureentry{aDOW@[{DOW}]\begingroup Dow Jones Industrial Average\nomeqref {3.0}|nompageref}{32}
-\nomenclatureentry{aEDA@[{EDA}]\begingroup Exploratory Data Analysis\nomeqref {4.0}|nompageref}{35}
-\nomenclatureentry{aCIK@[{CIK}]\begingroup Central Index Key\nomeqref {4.0}|nompageref}{40}
-\nomenclatureentry{aCBSA@[{CBSA}]\begingroup Core-Based Statistical Area\nomeqref {4.0}|nompageref}{41}
-\nomenclatureentry{aMAP@[{MAP}]\begingroup Modifiable Areal Problem\nomeqref {4.0}|nompageref}{49}
-\nomenclatureentry{aBos-Ny-Wash@[{Bos-Ny-Wash}]\begingroup Boston-New York-Washington DC Megaregion\nomeqref {4.0}|nompageref}{50}
+\nomenclatureentry{aUSD@[{USD}]\begingroup United States Dollar\nomeqref {3.0}|nompageref}{30}
+\nomenclatureentry{aNASDAQ@[{NASDAQ}]\begingroup National Association of Securities Dealers Automated Quotations Composite\nomeqref {3.0}|nompageref}{33}
+\nomenclatureentry{aS\&P 500@[{S\&P 500}]\begingroup The Standard and Poors 500 Index\nomeqref {3.0}|nompageref}{33}
+\nomenclatureentry{aDJIA@[{DJIA}]\begingroup Dow Jones Industrial Average\nomeqref {3.0}|nompageref}{33}
+\nomenclatureentry{aDOW@[{DOW}]\begingroup Dow Jones Industrial Average\nomeqref {3.0}|nompageref}{33}
+\nomenclatureentry{aEDA@[{EDA}]\begingroup Exploratory Data Analysis\nomeqref {4.0}|nompageref}{37}
+\nomenclatureentry{aCIK@[{CIK}]\begingroup Central Index Key\nomeqref {4.0}|nompageref}{42}
+\nomenclatureentry{aCBSA@[{CBSA}]\begingroup Core-Based Statistical Area\nomeqref {4.0}|nompageref}{43}
+\nomenclatureentry{aMAP@[{MAP}]\begingroup Modifiable Areal Problem\nomeqref {4.0}|nompageref}{51}
+\nomenclatureentry{aBos-Ny-Wash@[{Bos-Ny-Wash}]\begingroup Boston-New York-Washington DC Megaregion\nomeqref {4.0}|nompageref}{52}
 \nomenclatureentry{aRMSE@[{RMSE}]\begingroup Root Mean Square Error\nomeqref {4.5}|nompageref}{61}
-\nomenclatureentry{aMPT@[{MPT}]\begingroup Modern Portfolio Theory\nomeqref {6.0}|nompageref}{127}
-\nomenclatureentry{aVAR@[{VAR}]\begingroup Value at Risk\nomeqref {6.0}|nompageref}{128}
-\nomenclatureentry{aLDA@[{LDA}]\begingroup Latent Dirichlet allocation\nomeqref {6.0}|nompageref}{129}
-\nomenclatureentry{aLDA@[{LDA}]\begingroup Latent Dirichlet allocation\nomeqref {6.0}|nompageref}{129}
-\nomenclatureentry{aIPO@[{IPO}]\begingroup Initial Public Offering\nomeqref {6.9}|nompageref}{147}
+\nomenclatureentry{aMPT@[{MPT}]\begingroup Modern Portfolio Theory\nomeqref {6.0}|nompageref}{129}
+\nomenclatureentry{aVAR@[{VAR}]\begingroup Value at Risk\nomeqref {6.0}|nompageref}{130}
+\nomenclatureentry{aLDA@[{LDA}]\begingroup Latent Dirichlet allocation\nomeqref {6.0}|nompageref}{131}
+\nomenclatureentry{aLDA@[{LDA}]\begingroup Latent Dirichlet allocation\nomeqref {6.0}|nompageref}{131}
+\nomenclatureentry{aIPO@[{IPO}]\begingroup Initial Public Offering\nomeqref {6.9}|nompageref}{149}

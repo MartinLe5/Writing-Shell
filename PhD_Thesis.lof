@@ -2,91 +2,124 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Funds Under Management for Hedge Funds from 2000 to Q3 2018}}{7}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Count of 13-F Filers by Quarter}}{27}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Stock Indices for 1999 to May 2018}}{31}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Count of 13-F Filers by Quarter}}{28}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Stock Indices for 1999 to May 2018}}{32}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Funds Under Management per Country in Log10}}{36}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Percentage of Investor by State}}{37}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Count of Institutional Investors by State}}{38}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Distance Moved by Firms}}{40}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Count of Institutional Investors by CBSA}}{42}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Share of Institutional Investors by CBSA}}{43}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Percent by Share of Institutional Investors CBSA}}{44}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Sum of Institutional Investors by County}}{44}%
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Count of Institutional Investors by County}}{45}%
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Gini Coefficient of US County Count}}{46}%
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Chow Test Result}}{63}%
-\contentsline {figure}{\numberline {4.12}{\ignorespaces Relative Numbers of Institutional Investors Over Time by County Urban-Rural Index}}{64}%
-\contentsline {figure}{\numberline {4.13}{\ignorespaces Absolute Numbers of Institutional Investors Over Time by County Urban-Rural Index}}{65}%
-\contentsline {figure}{\numberline {4.14}{\ignorespaces Count of Institutional Investors by Region (as defined by the US Census Bureau) for the Period 1999 to 2018}}{66}%
-\contentsline {figure}{\numberline {4.15}{\ignorespaces Number of Firms by US Region\relax }}{67}%
-\contentsline {figure}{\numberline {4.16}{\ignorespaces XKCD 1138 - Heatmaps}}{68}%
-\contentsline {figure}{\numberline {4.17}{\ignorespaces Spherical K-function for Range Band 1km}}{68}%
-\contentsline {figure}{\numberline {4.18}{\ignorespaces Spherical K-function for Range Bands 5km to 50km}}{69}%
-\contentsline {figure}{\numberline {4.19}{\ignorespaces Spherical K-function for Range Bands 100km to 750km}}{69}%
-\contentsline {figure}{\numberline {4.20}{\ignorespaces Spherical K-function for Range Bands 1000km to 5000km}}{70}%
-\contentsline {figure}{\numberline {4.21}{\ignorespaces Standard Deviation Ellipse}}{71}%
-\contentsline {figure}{\numberline {4.22}{\ignorespaces Standard Deviation Ellipse Eccentricity}}{72}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Funds Under Management per Country in Log10}}{38}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Percentage of Investor by State}}{39}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Count of Institutional Investors by State}}{41}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Distance Moved by Firms}}{42}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Count of Institutional Investors by CBSA}}{44}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Share of Institutional Investors by CBSA}}{45}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Percent by Share of Institutional Investors CBSA}}{46}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Sum of Institutional Investors by County}}{46}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Count of Institutional Investors by County}}{47}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Gini Coefficient of US County Count}}{48}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Chow Test Result}}{64}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Relative Numbers of Institutional Investors Over Time by County Urban-Rural Index}}{65}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Absolute Numbers of Institutional Investors Over Time by County Urban-Rural Index}}{66}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Count of Institutional Investors by Region (as defined by the US Census Bureau) for the Period 1999 to 2018}}{67}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Number of Firms by US Region\relax }}{68}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces XKCD 1138 - Heatmaps}}{69}%
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Spherical K-function for Range Band 1km}}{69}%
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Spherical K-function for Range Bands 5km to 50km}}{70}%
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Spherical K-function for Range Bands 100km to 750km}}{70}%
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Spherical K-function for Range Bands 1000km to 5000km}}{71}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces ESRI Schematic Illustrations of a Time-Cube}}{74}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Emerging Hot Spot Analysis of Locations of Institutional Investors in the USA 1999-2018}}{78}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Local Outlier Analysis for Number of Institutional Investors in the USA 1999-2018}}{79}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Hot Spot Analysis of USA-based Institutional Investors 2013-2018}}{80}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Local Outlier Analysis For Funds Under Management in the United States 2013-2018}}{81}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Hot Spot Analysis of Number of Firms in Boston CBSA 1999-2018}}{83}%
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Hot Spot Analysis of Number of Firms in Downtown Boston 1999-2018}}{84}%
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Boston CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018}}{85}%
-\contentsline {figure}{\numberline {5.9}{\ignorespaces Downtown Boston Local Outlier Analysis - Count of Institutional Investors 1999-2018}}{86}%
-\contentsline {figure}{\numberline {5.10}{\ignorespaces Emerging Hot Spot Analysis of Funds Under Management for Boston CBSA 2013-2018}}{87}%
-\contentsline {figure}{\numberline {5.11}{\ignorespaces Emerging Hot Spot Analysis of Funds Under Management for Downtown Boston 2013-2018}}{88}%
-\contentsline {figure}{\numberline {5.12}{\ignorespaces Boston CBSA Local Outlier Analysis - Funds Under Management 2013-2018}}{89}%
-\contentsline {figure}{\numberline {5.13}{\ignorespaces Boston Downtown Local Outlier Analysis - Funds Under Management 2013-2018}}{90}%
-\contentsline {figure}{\numberline {5.14}{\ignorespaces Hot Spot Analysis of Number of Firms in Chicago CBSA 1999-2018}}{91}%
-\contentsline {figure}{\numberline {5.15}{\ignorespaces Hot Spot Analysis of Number of Firms in Downtown Chicago 1999-2018}}{92}%
-\contentsline {figure}{\numberline {5.16}{\ignorespaces Chicago CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018}}{93}%
-\contentsline {figure}{\numberline {5.17}{\ignorespaces Downtown Chicago Local Outlier Analysis - Count of Institutional Investors 1999-2018}}{94}%
-\contentsline {figure}{\numberline {5.18}{\ignorespaces Emerging Hot Spot Analysis of Funds Under Management for Chicago CBSA 2013-2018}}{95}%
-\contentsline {figure}{\numberline {5.19}{\ignorespaces Emerging Hot Spot Analysis of Funds Under Management for Downtown Chicago 2013-2018}}{96}%
-\contentsline {figure}{\numberline {5.20}{\ignorespaces Chicago CBSA Local Outlier Analysis - Funds Under Management 2013-2018}}{97}%
-\contentsline {figure}{\numberline {5.21}{\ignorespaces Downtown Chicago Local Outlier Analysis - Funds Under Management 2013-2018}}{98}%
-\contentsline {figure}{\numberline {5.22}{\ignorespaces Hot Spot Analysis of Number of Firms in Los Angeles CBSA 1999-2018}}{100}%
-\contentsline {figure}{\numberline {5.23}{\ignorespaces Hot Spot Analysis of Number of Firms in Downtown Los Angeles and Santa Monica 1999-2018}}{101}%
-\contentsline {figure}{\numberline {5.24}{\ignorespaces Los Angeles CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018}}{102}%
-\contentsline {figure}{\numberline {5.25}{\ignorespaces Downtown Los Angeles and Santa Monica Local Outlier Analysis - Count of Institutional Investors 1999-2018}}{103}%
-\contentsline {figure}{\numberline {5.26}{\ignorespaces Emerging Hot Spot Analysis of Funds Under Management for Los Angeles CBSA 2013-2018}}{104}%
-\contentsline {figure}{\numberline {5.27}{\ignorespaces Emerging Hot Spot Analysis of Funds Under Management for Downtown Los Angeles and Santa Monica 2013-2018}}{105}%
-\contentsline {figure}{\numberline {5.28}{\ignorespaces Los Angeles CBSA Local Outlier Analysis - Funds Under Management 2013-2018}}{106}%
-\contentsline {figure}{\numberline {5.29}{\ignorespaces Downtown Los Angeles and Santa Monica Local Outlier Analysis - Funds Under Management 2013-2018}}{107}%
-\contentsline {figure}{\numberline {5.30}{\ignorespaces Hot Spot Analysis of Number of Firms in New York CBSA 1999-2018}}{109}%
-\contentsline {figure}{\numberline {5.31}{\ignorespaces Hot Spot Analysis of Number of Firms in Downtown New York 1999-2018}}{110}%
-\contentsline {figure}{\numberline {5.32}{\ignorespaces New York CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018}}{111}%
-\contentsline {figure}{\numberline {5.33}{\ignorespaces Downtown New York Local Outlier Analysis - Count of Institutional Investors 1999-2018}}{112}%
-\contentsline {figure}{\numberline {5.34}{\ignorespaces Emerging Hot Spot Analysis of Funds Under Management for New York CBSA 2013-2018}}{113}%
-\contentsline {figure}{\numberline {5.35}{\ignorespaces Emerging Hot Spot Analysis of Funds Under Management for Downtown New York 2013-2018}}{114}%
-\contentsline {figure}{\numberline {5.36}{\ignorespaces New York CBSA Local Outlier Analysis - Funds Under Management 2013-2018}}{115}%
-\contentsline {figure}{\numberline {5.37}{\ignorespaces Downtown New York Local Outlier Analysis - Funds Under Management 2013-2018}}{116}%
-\contentsline {figure}{\numberline {5.38}{\ignorespaces Hot Spot Analysis of Number of Firms in San Francisco CBSA 1999-2018}}{117}%
-\contentsline {figure}{\numberline {5.39}{\ignorespaces Hot Spot Analysis of Number of Firms in Downtown San Francisco 1999-2018}}{118}%
-\contentsline {figure}{\numberline {5.40}{\ignorespaces San Francisco CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018}}{119}%
-\contentsline {figure}{\numberline {5.41}{\ignorespaces Downtown San Francisco Local Outlier Analysis - Count of Institutional Investors 1999-2018}}{120}%
-\contentsline {figure}{\numberline {5.42}{\ignorespaces Emerging Hot Spot Analysis of Funds Under Management for San Francisco CBSA 2013-2018}}{121}%
-\contentsline {figure}{\numberline {5.43}{\ignorespaces Emerging Hot Spot Analysis of Funds Under Management for Downtown San Francisco 2013-2018}}{122}%
-\contentsline {figure}{\numberline {5.44}{\ignorespaces San Francisco CBSA Local Outlier Analysis - Funds Under Management 2013-2018}}{123}%
-\contentsline {figure}{\numberline {5.45}{\ignorespaces Downtown San Francisco Local Outlier Analysis - Funds Under Management 2013-2018}}{124}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces A schematic explanation of the time-cube \relax }}{75}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Schematic Illustrations of a Time-Cube}}{75}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Emerging Hot Spot Analysis of Locations of Institutional Investors in the USA 1999-2018}}{79}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Local Outlier Analysis for Number of Institutional Investors in the USA 1999-2018}}{80}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Hot Spot Analysis of USA-based Institutional Investors 2013-2018}}{81}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Local Outlier Analysis For Funds Under Management in the United States 2013-2018}}{82}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Hot Spot Analysis of Number of Firms in Boston CBSA 1999-2018}}{84}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Hot Spot Analysis of Number of Firms in Downtown Boston 1999-2018}}{85}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Boston CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018}}{86}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Downtown Boston Local Outlier Analysis - Count of Institutional Investors 1999-2018}}{87}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Emerging Hot Spot Analysis of Funds Under Management for Boston CBSA 2013-2018}}{88}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Emerging Hot Spot Analysis of Funds Under Management for Downtown Boston 2013-2018}}{89}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Boston CBSA Local Outlier Analysis - Funds Under Management 2013-2018}}{90}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Boston Downtown Local Outlier Analysis - Funds Under Management 2013-2018}}{91}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Hot Spot Analysis of Number of Firms in Chicago CBSA 1999-2018}}{92}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Hot Spot Analysis of Number of Firms in Downtown Chicago 1999-2018}}{93}%
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Chicago CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018}}{94}%
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Downtown Chicago Local Outlier Analysis - Count of Institutional Investors 1999-2018}}{95}%
+\contentsline {figure}{\numberline {5.19}{\ignorespaces Emerging Hot Spot Analysis of Funds Under Management for Chicago CBSA 2013-2018}}{96}%
+\contentsline {figure}{\numberline {5.20}{\ignorespaces Emerging Hot Spot Analysis of Funds Under Management for Downtown Chicago 2013-2018}}{97}%
+\contentsline {figure}{\numberline {5.21}{\ignorespaces Chicago CBSA Local Outlier Analysis - Funds Under Management 2013-2018}}{98}%
+\contentsline {figure}{\numberline {5.22}{\ignorespaces Downtown Chicago Local Outlier Analysis - Funds Under Management 2013-2018}}{99}%
+\contentsline {figure}{\numberline {5.23}{\ignorespaces Hot Spot Analysis of Number of Firms in Los Angeles CBSA 1999-2018}}{101}%
+\contentsline {figure}{\numberline {5.24}{\ignorespaces Hot Spot Analysis of Number of Firms in Downtown Los Angeles and Santa Monica 1999-2018}}{102}%
+\contentsline {figure}{\numberline {5.25}{\ignorespaces Los Angeles CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018}}{103}%
+\contentsline {figure}{\numberline {5.26}{\ignorespaces Downtown Los Angeles and Santa Monica Local Outlier Analysis - Count of Institutional Investors 1999-2018}}{104}%
+\contentsline {figure}{\numberline {5.27}{\ignorespaces Emerging Hot Spot Analysis of Funds Under Management for Los Angeles CBSA 2013-2018}}{105}%
+\contentsline {figure}{\numberline {5.28}{\ignorespaces Emerging Hot Spot Analysis of Funds Under Management for Downtown Los Angeles and Santa Monica 2013-2018}}{106}%
+\contentsline {figure}{\numberline {5.29}{\ignorespaces Los Angeles CBSA Local Outlier Analysis - Funds Under Management 2013-2018}}{107}%
+\contentsline {figure}{\numberline {5.30}{\ignorespaces Downtown Los Angeles and Santa Monica Local Outlier Analysis - Funds Under Management 2013-2018}}{108}%
+\contentsline {figure}{\numberline {5.31}{\ignorespaces Hot Spot Analysis of Number of Firms in New York CBSA 1999-2018}}{110}%
+\contentsline {figure}{\numberline {5.32}{\ignorespaces Hot Spot Analysis of Number of Firms in Downtown New York 1999-2018}}{111}%
+\contentsline {figure}{\numberline {5.33}{\ignorespaces New York CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018}}{112}%
+\contentsline {figure}{\numberline {5.34}{\ignorespaces Downtown New York Local Outlier Analysis - Count of Institutional Investors 1999-2018}}{113}%
+\contentsline {figure}{\numberline {5.35}{\ignorespaces Emerging Hot Spot Analysis of Funds Under Management for New York CBSA 2013-2018}}{114}%
+\contentsline {figure}{\numberline {5.36}{\ignorespaces Emerging Hot Spot Analysis of Funds Under Management for Downtown New York 2013-2018}}{115}%
+\contentsline {figure}{\numberline {5.37}{\ignorespaces New York CBSA Local Outlier Analysis - Funds Under Management 2013-2018}}{116}%
+\contentsline {figure}{\numberline {5.38}{\ignorespaces Downtown New York Local Outlier Analysis - Funds Under Management 2013-2018}}{117}%
+\contentsline {figure}{\numberline {5.39}{\ignorespaces Hot Spot Analysis of Number of Firms in San Francisco CBSA 1999-2018}}{118}%
+\contentsline {figure}{\numberline {5.40}{\ignorespaces Hot Spot Analysis of Number of Firms in Downtown San Francisco 1999-2018}}{119}%
+\contentsline {figure}{\numberline {5.41}{\ignorespaces San Francisco CBSA Local Outlier Analysis - Count of Institutional Investors 1999-2018}}{120}%
+\contentsline {figure}{\numberline {5.42}{\ignorespaces Downtown San Francisco Local Outlier Analysis - Count of Institutional Investors 1999-2018}}{121}%
+\contentsline {figure}{\numberline {5.43}{\ignorespaces Emerging Hot Spot Analysis of Funds Under Management for San Francisco CBSA 2013-2018}}{122}%
+\contentsline {figure}{\numberline {5.44}{\ignorespaces Emerging Hot Spot Analysis of Funds Under Management for Downtown San Francisco 2013-2018}}{123}%
+\contentsline {figure}{\numberline {5.45}{\ignorespaces San Francisco CBSA Local Outlier Analysis - Funds Under Management 2013-2018}}{124}%
+\contentsline {figure}{\numberline {5.46}{\ignorespaces Downtown San Francisco Local Outlier Analysis - Funds Under Management 2013-2018}}{125}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Graphical Model of Latent Dirichlet allocation}}{132}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces LDAtuning Ensemble for Determining the Number of Topics in LDA}}{136}%
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Topic Model with 34 Topics, Topics 1 thought 9}}{138}%
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Topic Model with 34 Topics, Topics 10 thought 19}}{139}%
-\contentsline {figure}{\numberline {6.5}{\ignorespaces Topic Model with 34 Topics, Topics 19 thought 27}}{140}%
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Topic Model with 34 Topics, Topics 28 thought 34}}{141}%
-\contentsline {figure}{\numberline {6.7}{\ignorespaces Regional Shifts using 34 Topic LDA, Topics 1 thought 9}}{149}%
-\contentsline {figure}{\numberline {6.8}{\ignorespaces Regional Shifts using 34 Topic LDA, Topics 10 thought 19}}{150}%
-\contentsline {figure}{\numberline {6.9}{\ignorespaces Regional Shifts using 34 Topic LDA, Topics 19 thought 27}}{151}%
-\contentsline {figure}{\numberline {6.10}{\ignorespaces Regional Shifts using 34 Topic LDA, Topics 28 thought 34}}{152}%
-\contentsline {figure}{\numberline {6.11}{\ignorespaces Violin Plot of Firm Holding Size for CA, IL, MA and NY.}}{153}%
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Graphical Model of Latent Dirichlet allocation}}{134}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces LDAtuning Ensemble for Determining the Number of Topics in LDA}}{138}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Topic Model with 34 Topics, Topics 1 thought 9}}{140}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Topic Model with 34 Topics, Topics 10 thought 19}}{141}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Topic Model with 34 Topics, Topics 19 thought 27}}{142}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Topic Model with 34 Topics, Topics 28 thought 34}}{143}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Regional Shifts using 34 Topic LDA, Topics 1 thought 9}}{151}%
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Regional Shifts using 34 Topic LDA, Topics 10 thought 19}}{152}%
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Regional Shifts using 34 Topic LDA, Topics 19 thought 27}}{153}%
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Regional Shifts using 34 Topic LDA, Topics 28 thought 34}}{154}%
+\contentsline {figure}{\numberline {6.11}{\ignorespaces Violin Plot of Firm Holding Size for CA, IL, MA and NY.}}{155}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {D.1}{\ignorespaces Count of Firms for Topic 1 by Quarter}}{251}%
+\contentsline {figure}{\numberline {D.2}{\ignorespaces Count of Firms for Topic 2 by Quarter}}{252}%
+\contentsline {figure}{\numberline {D.3}{\ignorespaces Count of Firms for Topic 3 by Quarter}}{253}%
+\contentsline {figure}{\numberline {D.4}{\ignorespaces Count of Firms for Topic 4 by Quarter}}{254}%
+\contentsline {figure}{\numberline {D.5}{\ignorespaces Count of Firms for Topic 5 by Quarter}}{255}%
+\contentsline {figure}{\numberline {D.6}{\ignorespaces Count of Firms for Topic 6 by Quarter}}{256}%
+\contentsline {figure}{\numberline {D.7}{\ignorespaces Count of Firms for Topic 7 by Quarter}}{257}%
+\contentsline {figure}{\numberline {D.8}{\ignorespaces Count of Firms for Topic 8 by Quarter}}{258}%
+\contentsline {figure}{\numberline {D.9}{\ignorespaces Count of Firms for Topic 9 by Quarter}}{259}%
+\contentsline {figure}{\numberline {D.10}{\ignorespaces Count of Firms for Topic 10 by Quarter}}{260}%
+\contentsline {figure}{\numberline {D.11}{\ignorespaces Count of Firms for Topic 11 by Quarter}}{261}%
+\contentsline {figure}{\numberline {D.12}{\ignorespaces Count of Firms for Topic 12 by Quarter}}{262}%
+\contentsline {figure}{\numberline {D.13}{\ignorespaces Count of Firms for Topic 13 by Quarter}}{263}%
+\contentsline {figure}{\numberline {D.14}{\ignorespaces Count of Firms for Topic 14 by Quarter}}{264}%
+\contentsline {figure}{\numberline {D.15}{\ignorespaces Count of Firms for Topic 15 by Quarter}}{265}%
+\contentsline {figure}{\numberline {D.16}{\ignorespaces Count of Firms for Topic 16 by Quarter}}{266}%
+\contentsline {figure}{\numberline {D.17}{\ignorespaces Count of Firms for Topic 17 by Quarter}}{267}%
+\contentsline {figure}{\numberline {D.18}{\ignorespaces Count of Firms for Topic 18 by Quarter}}{268}%
+\contentsline {figure}{\numberline {D.19}{\ignorespaces Count of Firms for Topic 19 by Quarter}}{269}%
+\contentsline {figure}{\numberline {D.20}{\ignorespaces Count of Firms for Topic 20 by Quarter}}{270}%
+\contentsline {figure}{\numberline {D.21}{\ignorespaces Count of Firms for Topic 21 by Quarter}}{271}%
+\contentsline {figure}{\numberline {D.22}{\ignorespaces Count of Firms for Topic 22 by Quarter}}{272}%
+\contentsline {figure}{\numberline {D.23}{\ignorespaces Count of Firms for Topic 23 by Quarter}}{273}%
+\contentsline {figure}{\numberline {D.24}{\ignorespaces Count of Firms for Topic 24 by Quarter}}{274}%
+\contentsline {figure}{\numberline {D.25}{\ignorespaces Count of Firms for Topic 25 by Quarter}}{275}%
+\contentsline {figure}{\numberline {D.26}{\ignorespaces Count of Firms for Topic 26 by Quarter}}{276}%
+\contentsline {figure}{\numberline {D.27}{\ignorespaces Count of Firms for Topic 27 by Quarter}}{277}%
+\contentsline {figure}{\numberline {D.28}{\ignorespaces Count of Firms for Topic 28 by Quarter}}{278}%
+\contentsline {figure}{\numberline {D.29}{\ignorespaces Count of Firms for Topic 29 by Quarter}}{279}%
+\contentsline {figure}{\numberline {D.30}{\ignorespaces Count of Firms for Topic 30 by Quarter}}{280}%
+\contentsline {figure}{\numberline {D.31}{\ignorespaces Count of Firms for Topic 31 by Quarter}}{281}%
+\contentsline {figure}{\numberline {D.32}{\ignorespaces Count of Firms for Topic 32 by Quarter}}{282}%
+\contentsline {figure}{\numberline {D.33}{\ignorespaces Count of Firms for Topic 33 by Quarter}}{283}%
+\contentsline {figure}{\numberline {D.34}{\ignorespaces Count of Firms for Topic 34 by Quarter}}{284}%
