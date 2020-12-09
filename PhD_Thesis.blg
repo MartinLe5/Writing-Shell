@@ -24,8 +24,6 @@ The style file: chicago.bst
 Reallocating 'name_of_file' (item size: 1) to 15 items.
 Reallocating 'name_of_file' (item size: 1) to 27 items.
 A level-1 auxiliary file: Appendix/CountiesCount.aux
-Reallocating 'name_of_file' (item size: 1) to 22 items.
-A level-1 auxiliary file: Appendix/SE_Top_5.aux
 Reallocating 'name_of_file' (item size: 1) to 26 items.
 A level-1 auxiliary file: Appendix/GravityModel.aux
 Reallocating 'name_of_file' (item size: 1) to 25 items.
@@ -119,7 +117,7 @@ Warning--empty organization in WhaleReport13
 Warning--no number and no volume in Zhu2002
 You've used 166 entries,
             2859 wiz_defined-function locations,
-            1611 strings with 30457 characters,
+            1610 strings with 30436 characters,
 and the built_in function-call counts, 101518 in all, are:
 = -- 8549
 > -- 6714

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.28)  9 DEC 2020 04:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.28)  9 DEC 2020 15:55
 entering extended mode
 **./PhD_Thesis.tex
 (PhD_Thesis.tex
@@ -1108,8 +1108,8 @@ File: l3backend-pdftex.def 2020-09-01 L3 backend support: PDF output (pdfTeX)
 )
 (PhD_Thesis.aux (ChapterI.aux) (ChapterII.aux) (ChapterIII.aux)
 (ChapterIIIb.aux) (ChapterIV.aux) (ChapterV.aux) (Conclusion.aux)
-(Appendix/CountiesCount.aux) (Appendix/SE_Top_5.aux) (Appendix/GravityModel.aux
-) (Appendix/Shift_share.aux) (Appendix/CountbyState_Lda34.aux))
+(Appendix/CountiesCount.aux) (Appendix/GravityModel.aux)
+(Appendix/Shift_share.aux) (Appendix/CountbyState_Lda34.aux))
 \openout1 = `PhD_Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 298.
@@ -1273,15 +1273,11 @@ Underfull \vbox (badness 4168) has occurred while \output is active []
 \openout6 = `PhD_Thesis.lof'.
 
 
-[16] (PhD_Thesis.lot
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17])
+[16] (PhD_Thesis.lot [17])
 \tf@lot=\write7
 \openout7 = `PhD_Thesis.lot'.
 
-
-[18]
+ [18]
 No file PhD_Thesis.nls.
 \openout2 = `ChapterI.aux'.
 
@@ -2330,15 +2326,11 @@ Appendix C.
 
 ] [217] [218] [219] [220] [221] [222] [223] [224] [225] [226]
 [227] [228] [229] [230] [231] [232] [233] [234] [235] [236] [237] [238]
-[239] [240] [241] [242] [243] [244]
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table C.1 on input line 928.
-
-[245])
+[239] [240] [241] [242] [243] [244] [245])
 \openout2 = `Appendix/CountbyState_Lda34.aux'.
 
- (Appendix/CountbyState_Lda34.tex [246
+ (Appendix/CountbyState_Lda34.tex
+[246
 
 
 
@@ -2588,26 +2580,19 @@ Package natbib Warning: There were undefined citations.
 [285
 
 
-]
-
-Package longtable Warning: Table widths have changed. Rerun LaTeX.
-
-(PhD_Thesis.aux (ChapterI.aux) (ChapterII.aux) (ChapterIII.aux)
+] (PhD_Thesis.aux (ChapterI.aux) (ChapterII.aux) (ChapterIII.aux)
 (ChapterIIIb.aux) (ChapterIV.aux) (ChapterV.aux) (Conclusion.aux)
 (Appendix/CountiesCount.aux) (Appendix/GravityModel.aux)
 (Appendix/Shift_share.aux) (Appendix/CountbyState_Lda34.aux))
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 21411 strings out of 481165
- 413383 string characters out of 2912171
- 893143 words of memory out of 3000000
- 36356 multiletter control sequences out of 15000+200000
+ 21386 strings out of 481165
+ 413028 string characters out of 2912171
+ 891237 words of memory out of 3000000
+ 36334 multiletter control sequences out of 15000+200000
  581756 words of font info for 140 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  65i,11n,116p,2420b,803s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2624,7 +2609,7 @@ fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/txfonts/txtt.pfb><C:/Program
  Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
 times/utmri8a.pfb>
-Output written on PhD_Thesis.pdf (302 pages, 47027467 bytes).
+Output written on PhD_Thesis.pdf (302 pages, 47026251 bytes).
 PDF statistics:
  1904 PDF objects out of 2073 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
