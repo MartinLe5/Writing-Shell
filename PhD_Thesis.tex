@@ -3,19 +3,19 @@
 \documentclass[12pt,letterpaper]{book}
 %% Decomment next line to use PostScript fonts
 %%\UsePackage{times}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%                                                                    %%
-%%                    ***   I M P O R T A N T   ***                   %%
-%%                                                                    %%
-%% Fill in the following fields with the required information:        %%
-%%  - \department{Geography}  name of the graduate department               %%
-%%  - \degree{Masters}      name of the degree obtained                   %%
-%%  - \author{Martin Raymond Lefebvre}      name of the author                            %%
-%%  - \title{...}       title of the thesis                           %%
-%%  - \gyear{...}       year of graduation                            %%
-%%  - \super{...}    supervisor
-%%  - \firstname, \middlename, \lastname... there is additional documentation by the actual fields, so I'll leave it at that
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                    %%
+%                    ***   I M P O R T A N T   ***                   %%
+%                                                                    %%
+% Fill in the following fields with the required information:        %%
+%  - \department{Geography}  name of the graduate department               %%
+%  - \degree{Masters}      name of the degree obtained                   %%
+%  - \author{Martin Raymond Lefebvre}      name of the author                            %%
+%  - \title{...}       title of the thesis                           %%
+%  - \gyear{...}       year of graduation                            %%
+%  - \super{...}    supervisor
+%  - \firstname, \middlename, \lastname... there is additional documentation by the actual fields, so I'll leave it at that
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{appendix}
 \usepackage{array}
 \usepackage{graphicx}
@@ -291,7 +291,9 @@
 		\end{spacing}
 	\end{titlepage}
 	
-}%\maketitle
+}
+
+
 
 
 \makeatother
@@ -308,15 +310,15 @@
 	\begin{preliminary}
 		
 		%% This generates the title page from the information given above.
-		%	\maketitle
-		%	\addcontentsline{toc}{chapter}{Certificate of Examination}
-		%\make
-		%	\newpage
+		\maketitle
+			\addcontentsline{toc}{chapter}{Certificate of Examination}
+	%	\make
+			\newpage
 		
 		%\addcontentsline{toc}{chapter}{Co-Authorship Statement}
 		%\coauthor{\makecoauthor}  %comment this out if none
-		%\newpage
-		%\acknowlege{\makeacknowlege}	%as above
+		\newpage
+	%	\acknowlege{\makeacknowlege}	%as above
 		\addcontentsline{toc}{chapter}{Abstract}
 		\Large\begin{center}\textbf{Abstract}\end{center}\normalsize
 		%%  ***  Put your Abstract here.   ***
@@ -346,7 +348,7 @@
 		\begin{spacing}{2}
 			This thesis examines the evolution of spatial preference of institutional investors located in the United States of America for the time period of 1999 to 2018 using a mix of exploratory data analysis techniques and more sophisticated space-time and machine learning techniques such as ESRI Space-Time cube and Latent Dirichlet Allocation (LDA) topic modeling.  This thesis concludes that institutional investors show a high preference for urban locations, and that despite having an apparent lack of fixed investments tying investors to a particular local, institutional investors are attracted to highly dynamic urban centres and on the 20 year time horizon, these location choices do not seem to change.  This is consistent with the existing literature suggesting that institutional investors choose their location due to ease of access to high quality information as well as advanced professional services (such as but not limited to boutique lawyers and accounting firms) that would be needed for investors to properly allocate their capital in the economy.  A close examination of the data shows that while New York State may be in relative decline nationally, it is still the fastest growing location in both absolute number of investors and money under management, and thus remains at the centre of the US financial system. Furthermore, the LDA analysis indicates that across a multitude of strategies, investors in the State of California show surprisingly low growth in terms of money under management.  However this weakness can be explained by California's high level of venture capital investment (investing in startups rather than established companies listed on the stock market), hinting again that local knowledge plays an important role in investment strategy decisions. 
 			
-			Cette th\`{e}se examine l'\'{e}volution de la pr\'{e}f\'{e}rence spatiale des investisseurs institutionnels situ\'{e}s aux \'{E}tats-Unis d'Am\'{e}rique pour la p\'{e}riode de 1999 \`{a} 2018 en utilisant un m\'{e}lange de techniques d'analyse de donn\'{e}es exploratoires et de techniques spatio-temporelles et d'apprentissage automatique plus sophistiqu\'{e}es telles que la mod\'{e}lisation de cube de temps et espace par ESRI et de rubriques d'allocation Dirichlet latent. Cette th\`{e}se conclut que les investisseurs institutionnels montrent une forte pr\'{e}f\'{e}rence pour les emplacements urbains, et que malgr\'{e} un manque apparent d'investissements fixes liant les investisseurs \`{a} un local particulier, les investisseurs institutionnels sont attir\'{e}s par les centres urbains tr\`{e}s dynamiques et \`{a} l'horizon de 20 ans, le choix d'emplacement ne semblent pas changer. Cela est coh\'{e}rent avec la litt\'{e}rature existante sugg\'{e}rant que les investisseurs institutionnels choisissent leur emplacement en raison de la facilit\'{e} d'acc\`{e}s \`{a} des informations de haute qualit\'{e} ainsi que des services professionnels avanc\'{e}s (tels que, mais sans s'y limiter, des avocats sp\'{e}cialis\'{e}s et des cabinets comptables) qui seraient n\'{e}cessaires pour que les investisseurs allouent leur capital \`{a} l'\'{e}conomie. Un examen attentif des donn\'{e}es montre que, bien que l'\'{E}tat de New York soit en d\'{e}clin relatif \`{a} l'\'{e}chelle nationale, il reste le lieu qui connaît la croissance la plus rapide en nombre absolu d'investisseurs et d'argent sous gestion, et reste fermement au sommet de la hi\'{e}rarchie urbaine des investisseurs am\'{e}ricains. En outre, l'analyse de la d'allocation Dirichlet latent indique que dans une multitude de strat\'{e}gies, les investisseurs de l'\'{e}tat de Californie affichent une croissance \'{e}tonnamment faible en termes de fonds sous gestion. Cependant, cette faiblesse peut s'expliquer par le niveau \'{e}lev\'{e} d'investissement en capital-risque de la Californie (investir dans des startups plutôt que dans des entreprises \'{e}tablies cot\'{e}es en bourse), laissant entendre \`{a} nouveau que les connaissances locales jouent un r\^{o}le important dans les d\'{e}cisions de strat\'{e}gie d'investissement.
+			Cette th\`{e}se examine l'\'{e}volution de la pr\'{e}f\'{e}rence spatiale des investisseurs institutionnels situ\'{e}s aux \'{E}tats-Unis d'Am\'{e}rique pour la p\'{e}riode de 1999 \`{a} 2018 en utilisant un m\'{e}lange de techniques d'analyse de donn\'{e}es exploratoires et de techniques spatio-temporelles et d'apprentissage automatique plus sophistiqu\'{e}es telles que la mod\'{e}lisation de cube de temps et espace par ESRI et de rubriques d'allocation Dirichlet latent. Cette th\`{e}se conclut que les investisseurs institutionnels montrent une forte pr\'{e}f\'{e}rence pour les emplacements urbains, et que malgr\'{e} un manque apparent d'investissements fixes liant les investisseurs \`{a} un local particulier, les investisseurs institutionnels sont attir\'{e}s par les centres urbains tr\`{e}s dynamiques et \`{a} l'horizon de 20 ans, le choix d'emplacement ne semblent pas changer. Cela est coh\'{e}rent avec la litt\'{e}rature existante sugg\'{e}rant que les investisseurs institutionnels choisissent leur emplacement en raison de la facilit\'{e} d'acc\`{e}s \`{a} des informations de haute qualit\'{e} ainsi que des services professionnels avanc\'{e}s (tels que, mais sans s'y limiter, des avocats sp\'{e}cialis\'{e}s et des cabinets comptables) qui seraient n\'{e}cessaires pour que les investisseurs allouent leur capital \`{a} l'\'{e}conomie. Un examen attentif des donn\'{e}es montre que, bien que l'\'{E}tat de New York soit en d\'{e}clin relatif \`{a} l'\'{e}chelle nationale, il reste le lieu qui conna\^{\i}t la croissance la plus rapide en nombre absolu d'investisseurs et d'argent sous gestion, et reste fermement au sommet de la hi\'{e}rarchie urbaine des investisseurs am\'{e}ricains. En outre, l'analyse de la d'allocation Dirichlet latent indique que dans une multitude de strat\'{e}gies, les investisseurs de l'\'{e}tat de Californie affichent une croissance \'{e}tonnamment faible en termes de fonds sous gestion. Cependant, cette faiblesse peut s'expliquer par le niveau \'{e}lev\'{e} d'investissement en capital-risque de la Californie (investir dans des startups plutôt que dans des entreprises \'{e}tablies cot\'{e}es en bourse), laissant entendre \`{a} nouveau que les connaissances locales jouent un r\^{o}le important dans les d\'{e}cisions de strat\'{e}gie d'investissement.
 			
 			
 		\end{spacing}

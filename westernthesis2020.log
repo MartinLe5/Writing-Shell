@@ -1,0 +1,2745 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.28)  16 DEC 2020 17:37
+entering extended mode
+**./westernthesis2020.tex
+(westernthesis2020.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-09-03>
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@chapter=\count169
+\c@section=\count170
+\c@subsection=\count171
+\c@subsubsection=\count172
+\c@paragraph=\count173
+\c@subparagraph=\count174
+\c@figure=\count175
+\c@table=\count176
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/appendix\appendix.sty"
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count177
+\c@@ppsavesec=\count178
+\c@@ppsaveapp=\count179
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen135
+\ar@mcellbox=\box45
+\extrarowheight=\dimen136
+\NC@list=\toks15
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box46
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2020/08/26 v1.2 Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen137
+\Gin@req@width=\dimen138
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf.sty"
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/infwarerr\infwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/grfext\grfext.sty"
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/kvdefinekeys\kvdefinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/kvoptions\kvoptions.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/booktabs\booktabs.sty"
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen139
+\lightrulewidth=\dimen140
+\cmidrulewidth=\dimen141
+\belowrulesep=\dimen142
+\belowbottomsep=\dimen143
+\aboverulesep=\dimen144
+\abovetopsep=\dimen145
+\cmidrulesep=\dimen146
+\cmidrulekern=\dimen147
+\defaultaddspace=\dimen148
+\@cmidla=\count180
+\@cmidlb=\count181
+\@aboverulesep=\dimen149
+\@belowrulesep=\dimen150
+\@thisruleclass=\count182
+\@lastruleclass=\count183
+\@thisrulewidth=\dimen151
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\color.sty"
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\dvipsnam.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/placeins\placeins.sty"
+Package: placeins 2005/04/18  v 2.2
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/supertabular\supertabular.sty"
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count184
+\ST@wd=\dimen152
+\ST@rightskip=\skip51
+\ST@leftskip=\skip52
+\ST@parfillskip=\skip53
+\ST@pageleft=\dimen153
+\ST@headht=\dimen154
+\ST@tailht=\dimen155
+\ST@pagesofar=\dimen156
+\ST@pboxht=\dimen157
+\ST@lineht=\dimen158
+\ST@prevht=\dimen159
+\ST@toadd=\dimen160
+\ST@dimen=\dimen161
+\ST@pbox=\box47
+)
+(chicago.sty
+Using Chicago Manual of Style bibliography: 31 August 1992
+\bibhang=\skip54
+\bibindent=\dimen162
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/frontendlayer\tikz.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/utilities\pgfrcs.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen163
+\pgfutil@tempdimb=\dimen164
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfutil-common-lists.te
+x")) ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfutil-latex.def"
+\pgfutil@abb=\box48
+("C:\Program Files\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfrcs.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf\pgf.revision.tex")
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgfcore.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/systemlayer\pgfsys.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsys.code.tex"
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfkeysfiltered.code.te
+x"
+\pgfkeys@tmptoks=\toks20
+))
+\pgf@x=\dimen165
+\pgf@y=\dimen166
+\pgf@xa=\dimen167
+\pgf@ya=\dimen168
+\pgf@xb=\dimen169
+\pgf@yb=\dimen170
+\pgf@xc=\dimen171
+\pgf@yc=\dimen172
+\pgf@xd=\dimen173
+\pgf@yd=\dimen174
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count185
+\c@pgf@countb=\count186
+\c@pgf@countc=\count187
+\c@pgf@countd=\count188
+\t@pgf@toka=\toks21
+\t@pgf@tokb=\toks22
+\t@pgf@tokc=\toks23
+\pgf@sys@id@count=\count189
+ ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgf.cfg"
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+"
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.t
+ex"
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count190
+\pgfsyssoftpath@bigbuffer@items=\count191
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsysprotocol.code.t
+ex"
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) ("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcore.code.tex"
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathcalc.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathutil.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen175
+\pgfmath@count=\count192
+\pgfmath@box=\box49
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.basic.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.trigonometr
+ic.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.random.code
+.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.comparison.
+code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.base.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.round.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.misc.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.integerarit
+hmetics.code.tex")))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count193
+))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfint.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+"
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen176
+\pgf@picmaxx=\dimen177
+\pgf@picminy=\dimen178
+\pgf@picmaxy=\dimen179
+\pgf@pathminx=\dimen180
+\pgf@pathmaxx=\dimen181
+\pgf@pathminy=\dimen182
+\pgf@pathmaxy=\dimen183
+\pgf@xx=\dimen184
+\pgf@xy=\dimen185
+\pgf@yx=\dimen186
+\pgf@yy=\dimen187
+\pgf@zx=\dimen188
+\pgf@zy=\dimen189
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepathconstruct.c
+ode.tex"
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen190
+\pgf@path@lasty=\dimen191
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepathusage.code.
+tex"
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen192
+\pgf@shorten@start@additional=\dimen193
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+"
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box50
+\pgf@hbox=\box51
+\pgf@layerbox@main=\box52
+\pgf@picture@serial@count=\count194
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoregraphicstate.co
+de.tex"
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen194
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoretransformations
+.code.tex"
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen195
+\pgf@pt@y=\dimen196
+\pgf@pt@temp=\dimen197
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreobjects.code.te
+x"
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepathprocessing.
+code.tex"
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+"
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen198
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen199
+\pgf@sys@shading@range@num=\count195
+\pgf@shadingcount=\count196
+) ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreimage.code.te
+x"
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreexternal.code.t
+ex"
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box53
+))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+"
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoretransparency.co
+de.tex"
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepatterns.code.t
+ex"
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/modules\pgfmoduleshapes.code.
+tex"
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box54
+) ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/modules\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/compatibility\pgfcomp-version-0-65.
+sty"
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen256
+\pgf@nodesepend=\dimen257
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/compatibility\pgfcomp-version-1-18.
+sty"
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+)) ("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/utilities\pgffor.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/utilities\pgfkeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfkeys.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/math\pgfmath.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgffor.code.tex"
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.code.tex")
+\pgffor@iter=\dimen258
+\pgffor@skip=\dimen259
+\pgffor@stack=\toks27
+\pgffor@toks=\toks28
+))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex"
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries\pgflibraryplothandlers.
+code.tex"
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count197
+\pgfplotmarksize=\dimen260
+)
+\tikz@lastx=\dimen261
+\tikz@lasty=\dimen262
+\tikz@lastxsaved=\dimen263
+\tikz@lastysaved=\dimen264
+\tikz@lastmovetox=\dimen265
+\tikz@lastmovetoy=\dimen266
+\tikzleveldistance=\dimen267
+\tikzsiblingdistance=\dimen268
+\tikz@figbox=\box55
+\tikz@figbox@bg=\box56
+\tikz@tempbox=\box57
+\tikz@tempbox@bg=\box58
+\tikztreelevel=\count198
+\tikznumberofchildren=\count199
+\tikznumberofcurrentchild=\count266
+\tikz@fig@count=\count267
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count268
+\pgfmatrixcurrentcolumn=\count269
+\pgf@matrix@numberofcolumns=\count270
+)
+\tikz@expandcount=\count271
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+librarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count272
+\float@exts=\toks29
+\float@box=\box59
+\@float@everytoks=\toks30
+\@floatcapt=\box60
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip55
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks31
+\ex@=\dimen269
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen270
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count273
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count274
+\leftroot@=\count275
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count276
+\DOTSCASE@=\count277
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box61
+\strutbox@=\box62
+\big@size=\dimen271
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count278
+\c@MaxMatrixCols=\count279
+\dotsspace@=\muskip17
+\c@parentequation=\count280
+\dspbrk@lvl=\count281
+\tag@help=\toks32
+\row@=\count282
+\column@=\count283
+\maxfields@=\count284
+\andhelp@=\toks33
+\eqnshift@=\dimen272
+\alignsep@=\dimen273
+\tagshift@=\dimen274
+\tagwidth@=\dimen275
+\totwidth@=\dimen276
+\lineht@=\dimen277
+\@envbody=\toks34
+\multlinegap=\skip56
+\multlinetaggap=\skip57
+\mathdisplay@stack=\toks35
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/smartref\smartref.sty"
+Package: smartref 2002/02/28 v1.9 Increase reference capability (deep reference
+)
+\c@@smartlistlen=\count285
+\c@less@smartlist=\count286
+\c@@currsmartlistplace=\count287
+\sm@rtintern@ltok=\toks36
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/smartref\byname.sty"
+Package: byname 2001/07/12 v1.1 Increase reference capability (reference by nam
+e)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/txfonts\txfonts.sty"
+Package: txfonts 2008/01/22 v3.2.1
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/txr/m/n --> OT1/txr/bx/n on input line 22.
+\symitalic=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `italic' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/txss/m/n --> OT1/txss/b/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/txtt/m/n --> OT1/txtt/b/n on input line 51.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/txmi/m/it --> OML/txmi/bx/it on input line 59.
+\symlettersA=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/txmia/m/it --> U/txmia/bx/it on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/txsy/m/n --> OMS/txsy/bx/n on input line 78.
+\symAMSa=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/txsya/m/n --> U/txsya/bx/n on input line 94.
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/txsyb/m/n --> U/txsyb/bx/n on input line 103.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/txsyc/m/n --> U/txsyc/bx/n on input line 113.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/txex/m/n --> OMX/txex/bx/n on input line 121.
+\symlargesymbolsA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `bold'
+(Font)                  U/txexa/m/n --> U/txexa/bx/n on input line 129.
+LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 164.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 591.
+LaTeX Info: Redefining \not on input line 1043.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/tocloft\tocloft.sty"
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip58
+\cftbeforetoctitleskip=\skip59
+\cftaftertoctitleskip=\skip60
+\cftbeforepartskip=\skip61
+\cftpartnumwidth=\skip62
+\cftpartindent=\skip63
+\cftbeforechapskip=\skip64
+\cftchapindent=\skip65
+\cftchapnumwidth=\skip66
+\cftbeforesecskip=\skip67
+\cftsecindent=\skip68
+\cftsecnumwidth=\skip69
+\cftbeforesubsecskip=\skip70
+\cftsubsecindent=\skip71
+\cftsubsecnumwidth=\skip72
+\cftbeforesubsubsecskip=\skip73
+\cftsubsubsecindent=\skip74
+\cftsubsubsecnumwidth=\skip75
+\cftbeforeparaskip=\skip76
+\cftparaindent=\skip77
+\cftparanumwidth=\skip78
+\cftbeforesubparaskip=\skip79
+\cftsubparaindent=\skip80
+\cftsubparanumwidth=\skip81
+\cftbeforeloftitleskip=\skip82
+\cftafterloftitleskip=\skip83
+\cftbeforefigskip=\skip84
+\cftfigindent=\skip85
+\cftfignumwidth=\skip86
+\c@lofdepth=\count288
+\c@lotdepth=\count289
+\cftbeforelottitleskip=\skip87
+\cftafterlottitleskip=\skip88
+\cftbeforetabskip=\skip89
+\cfttabindent=\skip90
+\cfttabnumwidth=\skip91
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen278
+\WF@size=\dimen279
+\c@WF@wrappedlines=\count290
+\WF@box=\box63
+\WF@everypar=\toks37
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks38
+\inpenc@posthook=\toks39
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\latin1.def"
+File: latin1.def 2018/08/11 v1.3c Input encoding file
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+LaTeX Font Info:    Redeclaring symbol font `AMSa' on input line 59.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `normal'
+(Font)                  U/txsya/m/n --> U/msa/m/n on input line 59.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/txsya/bx/n --> U/msa/m/n on input line 59.
+LaTeX Font Info:    Redeclaring symbol font `AMSb' on input line 60.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `normal'
+(Font)                  U/txsyb/m/n --> U/msb/m/n on input line 60.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/txsyb/bx/n --> U/msb/m/n on input line 60.
+LaTeX Font Info:    Redeclaring math delimiter \ulcorner on input line 74.
+LaTeX Font Info:    Redeclaring math delimiter \urcorner on input line 75.
+LaTeX Font Info:    Redeclaring math delimiter \llcorner on input line 76.
+LaTeX Font Info:    Redeclaring math delimiter \lrcorner on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \square on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \lozenge on input line 142.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+LaTeX Font Info:    Redeclaring math symbol \boxdot on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \boxplus on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \boxtimes on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \blacksquare on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \centerdot on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \blacklozenge on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \circlearrowright on input line 52.
+
+LaTeX Font Info:    Redeclaring math symbol \circlearrowleft on input line 53.
+LaTeX Font Info:    Redeclaring math symbol \leftrightharpoons on input line 56
+.
+LaTeX Font Info:    Redeclaring math symbol \boxminus on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \Vdash on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \Vvdash on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \vDash on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \twoheadrightarrow on input line 61
+.
+LaTeX Font Info:    Redeclaring math symbol \twoheadleftarrow on input line 62.
+
+LaTeX Font Info:    Redeclaring math symbol \leftleftarrows on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \rightrightarrows on input line 64.
+
+LaTeX Font Info:    Redeclaring math symbol \upuparrows on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \downdownarrows on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \upharpoonright on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \downharpoonright on input line 69.
+
+LaTeX Font Info:    Redeclaring math symbol \upharpoonleft on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \downharpoonleft on input line 71.
+LaTeX Font Info:    Redeclaring math symbol \rightarrowtail on input line 72.
+LaTeX Font Info:    Redeclaring math symbol \leftarrowtail on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \leftrightarrows on input line 74.
+LaTeX Font Info:    Redeclaring math symbol \rightleftarrows on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Lsh on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \Rsh on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \leftrightsquigarrow on input line 
+79.
+LaTeX Font Info:    Redeclaring math symbol \looparrowleft on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \looparrowright on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \circeq on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \succsim on input line 83.
+LaTeX Font Info:    Redeclaring math symbol \gtrsim on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \gtrapprox on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \multimap on input line 86.
+LaTeX Font Info:    Redeclaring math symbol \therefore on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \because on input line 88.
+LaTeX Font Info:    Redeclaring math symbol \doteqdot on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \triangleq on input line 91.
+LaTeX Font Info:    Redeclaring math symbol \precsim on input line 92.
+LaTeX Font Info:    Redeclaring math symbol \lesssim on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \lessapprox on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \eqslantless on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \eqslantgtr on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \curlyeqprec on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \curlyeqsucc on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \preccurlyeq on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \leqq on input line 100.
+LaTeX Font Info:    Redeclaring math symbol \leqslant on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \lessgtr on input line 102.
+LaTeX Font Info:    Redeclaring math symbol \backprime on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \risingdotseq on input line 104.
+LaTeX Font Info:    Redeclaring math symbol \fallingdotseq on input line 105.
+LaTeX Font Info:    Redeclaring math symbol \succcurlyeq on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \geqq on input line 107.
+LaTeX Font Info:    Redeclaring math symbol \geqslant on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \gtrless on input line 109.
+LaTeX Font Info:    Redeclaring math symbol \bigstar on input line 117.
+LaTeX Font Info:    Redeclaring math symbol \between on input line 118.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangledown on input line 11
+9.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleright on input line 1
+20.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleleft on input line 12
+1.
+LaTeX Font Info:    Redeclaring math symbol \vartriangle on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangle on input line 123.
+LaTeX Font Info:    Redeclaring math symbol \triangledown on input line 124.
+LaTeX Font Info:    Redeclaring math symbol \eqcirc on input line 125.
+LaTeX Font Info:    Redeclaring math symbol \lesseqgtr on input line 126.
+LaTeX Font Info:    Redeclaring math symbol \gtreqless on input line 127.
+LaTeX Font Info:    Redeclaring math symbol \lesseqqgtr on input line 128.
+LaTeX Font Info:    Redeclaring math symbol \gtreqqless on input line 129.
+LaTeX Font Info:    Redeclaring math symbol \Rrightarrow on input line 130.
+LaTeX Font Info:    Redeclaring math symbol \Lleftarrow on input line 131.
+LaTeX Font Info:    Redeclaring math symbol \veebar on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \barwedge on input line 133.
+LaTeX Font Info:    Redeclaring math symbol \doublebarwedge on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \measuredangle on input line 137.
+LaTeX Font Info:    Redeclaring math symbol \sphericalangle on input line 138.
+LaTeX Font Info:    Redeclaring math symbol \varpropto on input line 139.
+LaTeX Font Info:    Redeclaring math symbol \smallsmile on input line 140.
+LaTeX Font Info:    Redeclaring math symbol \smallfrown on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \Subset on input line 142.
+LaTeX Font Info:    Redeclaring math symbol \Supset on input line 143.
+LaTeX Font Info:    Redeclaring math symbol \Cup on input line 144.
+LaTeX Font Info:    Redeclaring math symbol \Cap on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \curlywedge on input line 148.
+LaTeX Font Info:    Redeclaring math symbol \curlyvee on input line 149.
+LaTeX Font Info:    Redeclaring math symbol \leftthreetimes on input line 150.
+LaTeX Font Info:    Redeclaring math symbol \rightthreetimes on input line 151.
+
+LaTeX Font Info:    Redeclaring math symbol \subseteqq on input line 152.
+LaTeX Font Info:    Redeclaring math symbol \supseteqq on input line 153.
+LaTeX Font Info:    Redeclaring math symbol \bumpeq on input line 154.
+LaTeX Font Info:    Redeclaring math symbol \Bumpeq on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \lll on input line 156.
+LaTeX Font Info:    Redeclaring math symbol \ggg on input line 158.
+LaTeX Font Info:    Redeclaring math symbol \circledS on input line 160.
+LaTeX Font Info:    Redeclaring math symbol \pitchfork on input line 161.
+LaTeX Font Info:    Redeclaring math symbol \dotplus on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \backsim on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \backsimeq on input line 164.
+LaTeX Font Info:    Redeclaring math symbol \complement on input line 165.
+LaTeX Font Info:    Redeclaring math symbol \intercal on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \circledcirc on input line 167.
+LaTeX Font Info:    Redeclaring math symbol \circledast on input line 168.
+LaTeX Font Info:    Redeclaring math symbol \circleddash on input line 169.
+LaTeX Font Info:    Redeclaring math symbol \lvertneqq on input line 171.
+LaTeX Font Info:    Redeclaring math symbol \gvertneqq on input line 172.
+LaTeX Font Info:    Redeclaring math symbol \nleq on input line 173.
+LaTeX Font Info:    Redeclaring math symbol \ngeq on input line 174.
+LaTeX Font Info:    Redeclaring math symbol \nless on input line 175.
+LaTeX Font Info:    Redeclaring math symbol \ngtr on input line 176.
+LaTeX Font Info:    Redeclaring math symbol \nprec on input line 177.
+LaTeX Font Info:    Redeclaring math symbol \nsucc on input line 178.
+LaTeX Font Info:    Redeclaring math symbol \lneqq on input line 179.
+LaTeX Font Info:    Redeclaring math symbol \gneqq on input line 180.
+LaTeX Font Info:    Redeclaring math symbol \nleqslant on input line 181.
+LaTeX Font Info:    Redeclaring math symbol \ngeqslant on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \lneq on input line 183.
+LaTeX Font Info:    Redeclaring math symbol \gneq on input line 184.
+LaTeX Font Info:    Redeclaring math symbol \npreceq on input line 185.
+LaTeX Font Info:    Redeclaring math symbol \nsucceq on input line 186.
+LaTeX Font Info:    Redeclaring math symbol \precnsim on input line 187.
+LaTeX Font Info:    Redeclaring math symbol \succnsim on input line 188.
+LaTeX Font Info:    Redeclaring math symbol \lnsim on input line 189.
+LaTeX Font Info:    Redeclaring math symbol \gnsim on input line 190.
+LaTeX Font Info:    Redeclaring math symbol \nleqq on input line 191.
+LaTeX Font Info:    Redeclaring math symbol \ngeqq on input line 192.
+LaTeX Font Info:    Redeclaring math symbol \precneqq on input line 193.
+LaTeX Font Info:    Redeclaring math symbol \succneqq on input line 194.
+LaTeX Font Info:    Redeclaring math symbol \precnapprox on input line 195.
+LaTeX Font Info:    Redeclaring math symbol \succnapprox on input line 196.
+LaTeX Font Info:    Redeclaring math symbol \lnapprox on input line 197.
+LaTeX Font Info:    Redeclaring math symbol \gnapprox on input line 198.
+LaTeX Font Info:    Redeclaring math symbol \nsim on input line 199.
+LaTeX Font Info:    Redeclaring math symbol \ncong on input line 200.
+LaTeX Font Info:    Redeclaring math symbol \diagup on input line 201.
+LaTeX Font Info:    Redeclaring math symbol \diagdown on input line 202.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneq on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \varsupsetneq on input line 204.
+LaTeX Font Info:    Redeclaring math symbol \nsubseteqq on input line 205.
+LaTeX Font Info:    Redeclaring math symbol \nsupseteqq on input line 206.
+LaTeX Font Info:    Redeclaring math symbol \subsetneqq on input line 207.
+LaTeX Font Info:    Redeclaring math symbol \supsetneqq on input line 208.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneqq on input line 209.
+LaTeX Font Info:    Redeclaring math symbol \varsupsetneqq on input line 210.
+LaTeX Font Info:    Redeclaring math symbol \subsetneq on input line 211.
+LaTeX Font Info:    Redeclaring math symbol \supsetneq on input line 212.
+LaTeX Font Info:    Redeclaring math symbol \nsubseteq on input line 213.
+LaTeX Font Info:    Redeclaring math symbol \nsupseteq on input line 214.
+LaTeX Font Info:    Redeclaring math symbol \nparallel on input line 215.
+LaTeX Font Info:    Redeclaring math symbol \nmid on input line 216.
+LaTeX Font Info:    Redeclaring math symbol \nshortmid on input line 217.
+LaTeX Font Info:    Redeclaring math symbol \nshortparallel on input line 218.
+LaTeX Font Info:    Redeclaring math symbol \nvdash on input line 219.
+LaTeX Font Info:    Redeclaring math symbol \nVdash on input line 220.
+LaTeX Font Info:    Redeclaring math symbol \nvDash on input line 221.
+LaTeX Font Info:    Redeclaring math symbol \nVDash on input line 222.
+LaTeX Font Info:    Redeclaring math symbol \ntrianglerighteq on input line 223
+.
+LaTeX Font Info:    Redeclaring math symbol \ntrianglelefteq on input line 224.
+
+LaTeX Font Info:    Redeclaring math symbol \ntriangleleft on input line 225.
+LaTeX Font Info:    Redeclaring math symbol \ntriangleright on input line 226.
+LaTeX Font Info:    Redeclaring math symbol \nleftarrow on input line 227.
+LaTeX Font Info:    Redeclaring math symbol \nrightarrow on input line 228.
+LaTeX Font Info:    Redeclaring math symbol \nLeftarrow on input line 229.
+LaTeX Font Info:    Redeclaring math symbol \nRightarrow on input line 230.
+LaTeX Font Info:    Redeclaring math symbol \nLeftrightarrow on input line 231.
+
+LaTeX Font Info:    Redeclaring math symbol \nleftrightarrow on input line 232.
+
+LaTeX Font Info:    Redeclaring math symbol \divideontimes on input line 233.
+LaTeX Font Info:    Redeclaring math symbol \varnothing on input line 234.
+LaTeX Font Info:    Redeclaring math symbol \nexists on input line 235.
+LaTeX Font Info:    Redeclaring math symbol \Finv on input line 236.
+LaTeX Font Info:    Redeclaring math symbol \Game on input line 237.
+LaTeX Font Info:    Redeclaring math symbol \eth on input line 240.
+LaTeX Font Info:    Redeclaring math symbol \eqsim on input line 241.
+LaTeX Font Info:    Redeclaring math symbol \beth on input line 242.
+LaTeX Font Info:    Redeclaring math symbol \gimel on input line 243.
+LaTeX Font Info:    Redeclaring math symbol \daleth on input line 244.
+LaTeX Font Info:    Redeclaring math symbol \lessdot on input line 245.
+LaTeX Font Info:    Redeclaring math symbol \gtrdot on input line 246.
+LaTeX Font Info:    Redeclaring math symbol \ltimes on input line 247.
+LaTeX Font Info:    Redeclaring math symbol \rtimes on input line 248.
+LaTeX Font Info:    Redeclaring math symbol \shortmid on input line 249.
+LaTeX Font Info:    Redeclaring math symbol \shortparallel on input line 250.
+LaTeX Font Info:    Redeclaring math symbol \smallsetminus on input line 251.
+LaTeX Font Info:    Redeclaring math symbol \thicksim on input line 252.
+LaTeX Font Info:    Redeclaring math symbol \thickapprox on input line 253.
+LaTeX Font Info:    Redeclaring math symbol \approxeq on input line 254.
+LaTeX Font Info:    Redeclaring math symbol \succapprox on input line 255.
+LaTeX Font Info:    Redeclaring math symbol \precapprox on input line 256.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowleft on input line 257.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowright on input line 258.
+
+LaTeX Font Info:    Redeclaring math symbol \digamma on input line 259.
+LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 260.
+LaTeX Font Info:    Redeclaring math symbol \Bbbk on input line 261.
+LaTeX Font Info:    Redeclaring math symbol \hslash on input line 262.
+LaTeX Font Info:    Redeclaring math symbol \backepsilon on input line 265.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/csquotes\csquotes.sty"
+Package: csquotes 2019-12-06 v5.2j context-sensitive quotations (JAW)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2020/08/24 v2.5j e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count291
+)
+\csq@reset=\count292
+\csq@gtype=\count293
+\csq@glevel=\count294
+\csq@qlevel=\count295
+\csq@maxlvl=\count296
+\csq@tshold=\count297
+\csq@ltx@everypar=\toks40
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/csquotes\csquotes.def"
+File: csquotes.def 2019-12-06 v5.2j csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/csquotes\csquotes.cfg"
+File: csquotes.cfg 
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\rotating.sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count298
+\rotFPtop=\skip92
+\rotFPbot=\skip93
+\rot@float@box=\box64
+\rot@mess@toks=\toks41
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\longtable.sty"
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip94
+\LTright=\skip95
+\LTpre=\skip96
+\LTpost=\skip97
+\LTchunksize=\count299
+\LTcapwidth=\dimen280
+\LT@head=\box65
+\LT@firsthead=\box66
+\LT@foot=\box67
+\LT@lastfoot=\box68
+\LT@cols=\count300
+\LT@rows=\count301
+\c@LT@tables=\count302
+\c@LT@chunks=\count303
+\LT@p@ftn=\toks42
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/pdflscape\pdflscape.sty"
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/footmisc\footmisc.sty"
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks43
+\footnotemargin=\dimen281
+\c@pp@next@reset=\count304
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+
+
+! LaTeX Error: Command \bibhang already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.637 \newlength{\bibhang}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+\bibsep=\skip98
+LaTeX Info: Redefining \cite on input line 694.
+LaTeX Info: Redefining \citeyear on input line 735.
+\c@NAT@ctr=\count305
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/nomencl\nomencl.sty"
+Package: nomencl 2019/11/23 v5.3 Nomenclature package
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.tex"
+\XKV@toks=\toks44
+\XKV@tempa@toks=\toks45
+)
+\XKV@depth=\count306
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\tocbasic.sty"
+Package: tocbasic 2020/07/22 v3.31 KOMA-Script package (handling toc-files)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\scrbase.sty"
+Package: scrbase 2020/07/22 v3.31 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\scrlfile.sty"
+Package: scrlfile 2020/07/22 v3.31 KOMA-Script package (loading files)
+))
+\scr@dte@tocline@numberwidth=\skip99
+\scr@dte@tocline@numbox=\box69
+)
+Package tocbasic Info: babel extension for `nlo' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 163.
+Package tocbasic Info: babel extension for `nls' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 164.
+\nomlabelwidth=\dimen282
+\nom@tempdim=\dimen283
+\nomitemsep=\skip100
+)
+\@nomenclaturefile=\write4
+\openout4 = `westernthesis2020.nlo'.
+
+Package nomencl Info: Writing nomenclature file westernthesis2020.nlo on input 
+line 57.
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/genmisc\nth.sty"
+Package: nth 2002/02/27
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\subcaption.sty"
+Package: subcaption 2020/08/23 v1.3g Sub-captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption.sty"
+Package: caption 2020/09/02 v3.5a Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption3.sty"
+Package: caption3 2020/08/30 v2.0 caption3 kernel (AR)
+\captionmargin=\dimen284
+\captionmargin@=\dimen285
+\captionwidth=\dimen286
+\caption@tempdima=\dimen287
+\caption@indent=\dimen288
+\caption@parindent=\dimen289
+\caption@hangindent=\dimen290
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count307
+\c@continuedfloat=\count308
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\ltcaption.sty"
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: supertabular package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+\c@subfigure=\count309
+\c@subtable=\count310
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count311
+\Gm@cntv=\count312
+\c@Gm@tempcnt=\count313
+\Gm@bindingoffset=\dimen291
+\Gm@wd@mp=\dimen292
+\Gm@odd@mp=\dimen293
+\Gm@even@mp=\dimen294
+\Gm@layoutwidth=\dimen295
+\Gm@layoutheight=\dimen296
+\Gm@layouthoffset=\dimen297
+\Gm@layoutvoffset=\dimen298
+\Gm@dimlist=\toks46
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
+Defining \sgetchapterval ...
+Defining \schapterref ...
+Defining \srefchapterref ...
+Defining \chapterref ...
+\c@theorem=\count314
+\c@myappendices=\count315
+\cftbeforemyappendicesskip=\skip101
+\cftmyappendicesindent=\skip102
+\cftmyappendicesnumwidth=\skip103
+\c@appdepth=\count316
+\cftbeforeapptitleskip=\skip104
+\cftafterapptitleskip=\skip105
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... none found.
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdftex.def"
+File: l3backend-pdftex.def 2020-09-01 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count317
+\l__pdf_internal_box=\box70
+)
+(westernthesis2020.aux (ChapterI.aux) (ChapterII.aux) (ChapterIII.aux)
+(ChapterIIIb.aux) (ChapterIV.aux) (ChapterV.aux) (Conclusion.aux)
+(Appendix/CountiesCount.aux) (Appendix/GravityModel.aux)
+(Appendix/Shift_share.aux) (Appendix/CountbyState_Lda34.aux))
+\openout1 = `westernthesis2020.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 360.
+LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
+360.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/txfonts\omltxmi.fd"
+File: omltxmi.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 360.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 360.
+LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 
+360.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/txfonts\omstxsy.fd"
+File: omstxsy.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 360.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 360.
+LaTeX Font Info:    ... okay on input line 360.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 360.
+LaTeX Font Info:    ... okay on input line 360.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 360.
+LaTeX Font Info:    ... okay on input line 360.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 360.
+LaTeX Font Info:    Trying to load font information for OMX+txex on input line 
+360.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/txfonts\omxtxex.fd"
+File: omxtxex.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 360.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 360.
+LaTeX Font Info:    Trying to load font information for U+txexa on input line 3
+60.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/txfonts\utxexa.fd"
+File: utxexa.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 360.
+LaTeX Font Info:    Trying to load font information for OT1+txr on input line 3
+60.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/txfonts\ot1txr.fd"
+File: ot1txr.fd 2000/12/15 v3.1
+)
+("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count318
+\scratchdimen=\dimen299
+\scratchbox=\box71
+\nofMPsegments=\count319
+\nofMParguments=\count320
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count321
+\MPscratchDim=\dimen300
+\MPnumerator=\count322
+\makeMPintoPDFobject=\count323
+\everyMPtoPDFconversion=\toks48
+) ABD: EveryShipout initializing macros
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(113.81102pt, 429.3521pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=451.6875pt
+* \textheight=650.43pt
+* \oddsidemargin=18.06749pt
+* \evensidemargin=0.0pt
+* \topmargin=-36.135pt
+* \headheight=12.0pt
+* \headsep=24.135pt
+* \topskip=12.0pt
+* \footskip=36.135pt
+* \marginparwidth=54.2025pt
+* \marginparsep=9.03374pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 3
+72.
+("C:\Program Files\MiKTeX 2.9\tex/latex/txfonts\utxmia.fd"
+File: utxmia.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 372
+.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 372
+.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 3
+72.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/txfonts\utxsyc.fd"
+File: utxsyc.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for TS1+txr on input line 3
+72.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/txfonts\ts1txr.fd"
+File: ts1txr.fd 2000/12/15 v3.1
+) [1
+
+{C:/Users/marti/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <14.4> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 374.
+
+Overfull \hbox (40.69499pt too wide) in paragraph at lines 374--374
+[][]   [] 
+ []
+
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <12> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 374.
+
+Overfull \hbox (40.69499pt too wide) in paragraph at lines 374--374
+[][]   [] 
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 380--380
+
+ []
+
+[3]
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <17.28> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 382.
+ [4] [5]
+Overfull \hbox (25.49254pt too wide) in paragraph at lines 401--402
+\OT1/txr/m/n/12 tech-niques d'analyse de donn[]ees ex-ploratoires et de tech-ni
+ques spatio-temporelles et d'apprentissage
+ []
+
+[6] (westernthesis2020.nls [7]
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <24.88> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 2.
+) (westernthesis2020.toc [8
+
+] [9] [10]
+Underfull \vbox (badness 2103) has occurred while \output is active []
+
+ [11])
+\tf@toc=\write5
+\openout5 = `westernthesis2020.toc'.
+
+
+[12] (westernthesis2020.lof [13]
+Overfull \hbox (8.1861pt too wide) in paragraph at lines 40--40
+ [][] []\OT1/txr/m/n/12 Emerging Hot Spot Anal-y-sis of Funds Un-der Man-age-me
+nt for Down-town Boston 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+Overfull \hbox (14.1741pt too wide) in paragraph at lines 48--48
+ [][] []\OT1/txr/m/n/12 Emerging Hot Spot Anal-y-sis of Funds Un-der Man-age-me
+nt for Down-town Chicago 
+ []
+
+
+Overfull \hbox (0.7701pt too wide) in paragraph at lines 63--63
+ [][] []\OT1/txr/m/n/12 Emerging Hot Spot Anal-y-sis of Funds Un-der Man-age-me
+nt for New York CBSA 
+ []
+
+
+Underfull \vbox (badness 1377) has occurred while \output is active []
+
+ [15]
+Overfull \hbox (2.07811pt too wide) in paragraph at lines 66--66
+ [][] []\OT1/txr/m/n/12 Downtown New York Lo-cal Out-lier Anal-y-sis - Funds Un
+-der Man-age-ment 2013- 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+Underfull \vbox (badness 4168) has occurred while \output is active []
+
+ [17])
+\tf@lof=\write6
+\openout6 = `westernthesis2020.lof'.
+
+
+[18] (westernthesis2020.lot [19])
+\tf@lot=\write7
+\openout7 = `westernthesis2020.lot'.
+
+ [20]
+\openout2 = `ChapterI.aux'.
+
+ (ChapterI.tex
+Chapter 1.
+[1
+
+
+]
+Underfull \vbox (badness 4341) has occurred while \output is active []
+
+ [2]
+[3]) [4]
+\openout2 = `ChapterII.aux'.
+
+ (ChapterII.tex
+Chapter 2.
+LaTeX Font Info:    Trying to load font information for OT1+txtt on input line 
+9.
+("C:\Program Files\MiKTeX 2.9\tex/latex/txfonts\ot1txtt.fd"
+File: ot1txtt.fd 2000/12/15 v3.1
+)
+Underfull \vbox (badness 7722) has occurred while \output is active []
+
+ [5
+
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+<Figures/ChapterII/Hedge_Funds_Under_Management_Barkley_Hedge.pdf, id=94, 578.1
+6pt x 433.62pt>
+File: Figures/ChapterII/Hedge_Funds_Under_Management_Barkley_Hedge.pdf Graphic 
+file (type pdf)
+<use Figures/ChapterII/Hedge_Funds_Under_Management_Barkley_Hedge.pdf>
+Package pdftex.def Info: Figures/ChapterII/Hedge_Funds_Under_Management_Barkley
+_Hedge.pdf  used on input line 19.
+(pdftex.def)             Requested size: 451.6875pt x 338.76479pt.
+
+[7 <./Figures/ChapterII/Hedge_Funds_Under_Management_Barkley_Hedge.pdf>]
+
+Package natbib Warning: Citation `US Code' undefined on input line 33.
+
+[8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+[10] [11]
+Underfull \vbox (badness 2005) has occurred while \output is active []
+
+ [12]
+Overfull \hbox (31.12051pt too wide) in paragraph at lines 77--78
+\OT1/txr/m/n/12 In 1900, French math-e-mati-cian Louis Bachel-lier sub-mit-ted 
+his the-sis called \OT1/txr/m/it/12 "Theorie de speculation"\OT1/txr/m/n/12 ,
+
+ []
+
+
+Underfull \vbox (badness 1137) has occurred while \output is active []
+
+ [13]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+[16] [17]
+Underfull \vbox (badness 3386) has occurred while \output is active []
+
+ [18]
+[19]
+Underfull \vbox (badness 1484) has occurred while \output is active []
+
+ [20]
+[21] [22]) [23]
+\openout2 = `ChapterIII.aux'.
+
+ (ChapterIII.tex
+Chapter 3.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24
+
+
+
+]
+[25]
+<Figures/ChapterIII/Count_of_Filers.pdf, id=164, 794.97pt x 614.295pt>
+File: Figures/ChapterIII/Count_of_Filers.pdf Graphic file (type pdf)
+<use Figures/ChapterIII/Count_of_Filers.pdf>
+Package pdftex.def Info: Figures/ChapterIII/Count_of_Filers.pdf  used on input 
+line 23.
+(pdftex.def)             Requested size: 451.6875pt x 349.03635pt.
+ [26] [27 <./Figures/ChapterIII/Count_of_Filers.pdf>] [28]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29]
+<Figures/ChapterII/Stock_Market.png, id=183, 1129.21875pt x 949.29657pt>
+File: Figures/ChapterII/Stock_Market.png Graphic file (type png)
+<use Figures/ChapterII/Stock_Market.png>
+Package pdftex.def Info: Figures/ChapterII/Stock_Market.png  used on input line
+ 57.
+(pdftex.def)             Requested size: 451.6875pt x 379.72638pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30]
+[31 <./Figures/ChapterII/Stock_Market.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32]
+[33]) [34]
+\openout2 = `ChapterIIIb.aux'.
+
+ (ChapterIIIb.tex
+Chapter 4.
+<Figures/ChapterIII/Funds_Per_Country_Slopegraph.pdf, id=200, 1011.78pt x 614.2
+95pt>
+File: Figures/ChapterIII/Funds_Per_Country_Slopegraph.pdf Graphic file (type pd
+f)
+<use Figures/ChapterIII/Funds_Per_Country_Slopegraph.pdf>
+Package pdftex.def Info: Figures/ChapterIII/Funds_Per_Country_Slopegraph.pdf  u
+sed on input line 13.
+(pdftex.def)             Requested size: 451.6875pt x 274.24619pt.
+[35
+
+
+
+]
+Underfull \vbox (badness 2635) has occurred while \output is active []
+
+ [36 <./Figures/ChapterIII/Funds_Per_Country_Slopegraph.pdf>]
+<Figures/ChapterIII/Precentage_State.pdf, id=222, 794.97pt x 614.295pt>
+File: Figures/ChapterIII/Precentage_State.pdf Graphic file (type pdf)
+<use Figures/ChapterIII/Precentage_State.pdf>
+Package pdftex.def Info: Figures/ChapterIII/Precentage_State.pdf  used on input
+ line 29.
+(pdftex.def)             Requested size: 451.6875pt x 349.03635pt.
+ [37 <./Figures/ChapterIII/Precentage_State.pdf>]
+<Figures/ChapterIII/Count_II_BY_State.pdf, id=240, 794.97pt x 614.295pt>
+File: Figures/ChapterIII/Count_II_BY_State.pdf Graphic file (type pdf)
+<use Figures/ChapterIII/Count_II_BY_State.pdf>
+Package pdftex.def Info: Figures/ChapterIII/Count_II_BY_State.pdf  used on inpu
+t line 37.
+(pdftex.def)             Requested size: 451.6875pt x 349.03635pt.
+
+Underfull \vbox (badness 6741) has occurred while \output is active []
+
+ [38 <./Figures/ChapterIII/Count_II_BY_State.pdf>]
+<Figures/ChapterIII/Distance_Moved_Histogram.pdf, id=258, 568.1225pt x 454.6987
+5pt>
+File: Figures/ChapterIII/Distance_Moved_Histogram.pdf Graphic file (type pdf)
+<use Figures/ChapterIII/Distance_Moved_Histogram.pdf>
+Package pdftex.def Info: Figures/ChapterIII/Distance_Moved_Histogram.pdf  used 
+on input line 62.
+(pdftex.def)             Requested size: 316.17987pt x 253.06154pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[39]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40 <./Figures/ChapterIII/Distance_Moved_Histogram.pdf>]
+<Figures/ChapterIII/Count_by_CBSA_Legal.pdf, id=271, 1011.78pt x 614.295pt>
+File: Figures/ChapterIII/Count_by_CBSA_Legal.pdf Graphic file (type pdf)
+<use Figures/ChapterIII/Count_by_CBSA_Legal.pdf>
+Package pdftex.def Info: Figures/ChapterIII/Count_by_CBSA_Legal.pdf  used on in
+put line 88.
+(pdftex.def)             Requested size: 451.6875pt x 274.24619pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 2005) has occurred while \output is active []
+
+ [41]
+<Figures/ChapterIII/Percentage_of_Investment_Firms_by_CBSA.pdf, id=276, 1011.78
+pt x 614.295pt>
+File: Figures/ChapterIII/Percentage_of_Investment_Firms_by_CBSA.pdf Graphic fil
+e (type pdf)
+<use Figures/ChapterIII/Percentage_of_Investment_Firms_by_CBSA.pdf>
+Package pdftex.def Info: Figures/ChapterIII/Percentage_of_Investment_Firms_by_C
+BSA.pdf  used on input line 100.
+(pdftex.def)             Requested size: 451.6875pt x 274.24619pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/ChapterIII/Percentage_of_Firms_by_CBSA.pdf, id=277, 1011.78pt x 614.29
+5pt>
+File: Figures/ChapterIII/Percentage_of_Firms_by_CBSA.pdf Graphic file (type pdf
+)
+<use Figures/ChapterIII/Percentage_of_Firms_by_CBSA.pdf>
+Package pdftex.def Info: Figures/ChapterIII/Percentage_of_Firms_by_CBSA.pdf  us
+ed on input line 109.
+(pdftex.def)             Requested size: 451.6875pt x 274.24619pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42 <./Figures/ChapterIII/Count_by_CBSA_Legal.pdf>]
+<Figures/ChapterIII/Sum_by_County.pdf, id=290, 1011.78pt x 614.295pt>
+File: Figures/ChapterIII/Sum_by_County.pdf Graphic file (type pdf)
+<use Figures/ChapterIII/Sum_by_County.pdf>
+Package pdftex.def Info: Figures/ChapterIII/Sum_by_County.pdf  used on input li
+ne 124.
+(pdftex.def)             Requested size: 451.6875pt x 274.24619pt.
+<Figures/ChapterIII/Count_by_County.pdf, id=291, 1011.78pt x 614.295pt>
+File: Figures/ChapterIII/Count_by_County.pdf Graphic file (type pdf)
+<use Figures/ChapterIII/Count_by_County.pdf>
+Package pdftex.def Info: Figures/ChapterIII/Count_by_County.pdf  used on input 
+line 132.
+(pdftex.def)             Requested size: 451.6875pt x 274.24619pt.
+ [43 <./Figures/ChapterIII/Percentage_of_Investment_Firms_by_CBSA.pdf>] [44 <./
+Figures/ChapterIII/Percentage_of_Firms_by_CBSA.pdf> <./Figures/ChapterIII/Sum_b
+y_County.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Figures/ChapterIII/Sum_by_County.pdf): PDF
+ inclusion: multiple pdfs with page group included in a single page
+>]
+<Figures/ChapterIII/GINI_County.pdf, id=334, 794.97pt x 614.295pt>
+File: Figures/ChapterIII/GINI_County.pdf Graphic file (type pdf)
+<use Figures/ChapterIII/GINI_County.pdf>
+Package pdftex.def Info: Figures/ChapterIII/GINI_County.pdf  used on input line
+ 141.
+(pdftex.def)             Requested size: 451.6875pt x 349.03635pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/ChapterIII/ChowTest.pdf, id=335, 853.1875pt x 853.1875pt>
+File: Figures/ChapterIII/ChowTest.pdf Graphic file (type pdf)
+<use Figures/ChapterIII/ChowTest.pdf>
+Package pdftex.def Info: Figures/ChapterIII/ChowTest.pdf  used on input line 15
+1.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45 <./Figures/ChapterIII/Count_by_County.pdf>] [46 <./Figures/ChapterIII/GINI
+_County.pdf>] [47]
+<Figures/ChapterIII/ChangeInRelativeNumberRuralUrban.pdf, id=368, 1011.78pt x 6
+14.295pt>
+File: Figures/ChapterIII/ChangeInRelativeNumberRuralUrban.pdf Graphic file (typ
+e pdf)
+<use Figures/ChapterIII/ChangeInRelativeNumberRuralUrban.pdf>
+Package pdftex.def Info: Figures/ChapterIII/ChangeInRelativeNumberRuralUrban.pd
+f  used on input line 205.
+(pdftex.def)             Requested size: 451.6875pt x 274.24619pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/ChapterIII/ChangeInAbsoluteNumberRuralUrban.pdf, id=369, 505.89pt x 36
+1.35pt>
+File: Figures/ChapterIII/ChangeInAbsoluteNumberRuralUrban.pdf Graphic file (typ
+e pdf)
+<use Figures/ChapterIII/ChangeInAbsoluteNumberRuralUrban.pdf>
+Package pdftex.def Info: Figures/ChapterIII/ChangeInAbsoluteNumberRuralUrban.pd
+f  used on input line 214.
+(pdftex.def)             Requested size: 451.6875pt x 322.6426pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[48]
+<Figures/ChapterIII/Count_firms_USA.pdf, id=373, 794.97pt x 614.295pt>
+File: Figures/ChapterIII/Count_firms_USA.pdf Graphic file (type pdf)
+<use Figures/ChapterIII/Count_firms_USA.pdf>
+Package pdftex.def Info: Figures/ChapterIII/Count_firms_USA.pdf  used on input 
+line 234.
+(pdftex.def)             Requested size: 451.6875pt x 349.03635pt.
+ [49]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/ChapterIII/Percentage_firms_Region_USA.pdf, id=377, 794.97pt x 614.295
+pt>
+File: Figures/ChapterIII/Percentage_firms_Region_USA.pdf Graphic file (type pdf
+)
+<use Figures/ChapterIII/Percentage_firms_Region_USA.pdf>
+Package pdftex.def Info: Figures/ChapterIII/Percentage_firms_Region_USA.pdf  us
+ed on input line 243.
+(pdftex.def)             Requested size: 451.6875pt x 349.03635pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[50]
+<Figures/ChapterIII/heatmap_XKCD.png, id=381, 501.875pt x 544.0325pt>
+File: Figures/ChapterIII/heatmap_XKCD.png Graphic file (type png)
+<use Figures/ChapterIII/heatmap_XKCD.png>
+Package pdftex.def Info: Figures/ChapterIII/heatmap_XKCD.png  used on input lin
+e 266.
+(pdftex.def)             Requested size: 225.84375pt x 244.82066pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[51] [52]
+<Figures/ChapterIII/Cross_Val_1k.pdf, id=391, 1011.78pt x 614.295pt>
+File: Figures/ChapterIII/Cross_Val_1k.pdf Graphic file (type pdf)
+<use Figures/ChapterIII/Cross_Val_1k.pdf>
+Package pdftex.def Info: Figures/ChapterIII/Cross_Val_1k.pdf  used on input lin
+e 304.
+(pdftex.def)             Requested size: 406.51599pt x 246.8197pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/ChapterIII/K_Function_5to50.pdf, id=392, 1011.78pt x 614.295pt>
+File: Figures/ChapterIII/K_Function_5to50.pdf Graphic file (type pdf)
+<use Figures/ChapterIII/K_Function_5to50.pdf>
+Package pdftex.def Info: Figures/ChapterIII/K_Function_5to50.pdf  used on input
+ line 311.
+(pdftex.def)             Requested size: 406.51599pt x 246.8197pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 6893) has occurred while \output is active []
+
+ [53]
+<Figures/ChapterIII/RIpley_K_100_750.pdf, id=397, 1011.78pt x 614.295pt>
+File: Figures/ChapterIII/RIpley_K_100_750.pdf Graphic file (type pdf)
+<use Figures/ChapterIII/RIpley_K_100_750.pdf>
+Package pdftex.def Info: Figures/ChapterIII/RIpley_K_100_750.pdf  used on input
+ line 320.
+(pdftex.def)             Requested size: 406.51599pt x 246.8197pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/ChapterIII/Cross_val_1000_5000.pdf, id=398, 1011.78pt x 614.295pt>
+File: Figures/ChapterIII/Cross_val_1000_5000.pdf Graphic file (type pdf)
+<use Figures/ChapterIII/Cross_val_1000_5000.pdf>
+Package pdftex.def Info: Figures/ChapterIII/Cross_val_1000_5000.pdf  used on in
+put line 328.
+(pdftex.def)             Requested size: 406.51599pt x 246.8197pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[54]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [55]
+Underfull \vbox (badness 4193) has occurred while \output is active []
+
+ [56]
+Underfull \vbox (badness 2057) has occurred while \output is active []
+
+ [57]
+Underfull \vbox (badness 1484) has occurred while \output is active []
+
+ [58]
+[59]) [60] [61 <./Figures/ChapterIII/ChowTest.pdf>] [62 <./Figures/ChapterIII/C
+hangeInRelativeNumberRuralUrban.pdf>] [63 <./Figures/ChapterIII/ChangeInAbsolut
+eNumberRuralUrban.pdf>] [64 <./Figures/ChapterIII/Count_firms_USA.pdf>]
+[65 <./Figures/ChapterIII/Percentage_firms_Region_USA.pdf>] [66 <./Figures/Chap
+terIII/heatmap_XKCD.png> <./Figures/ChapterIII/Cross_Val_1k.pdf>] [67 <./Figure
+s/ChapterIII/K_Function_5to50.pdf> <./Figures/ChapterIII/RIpley_K_100_750.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Figures/ChapterIII/RIpley_K_100_750.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>] [68 <./Figures/ChapterIII/Cross_val_1000_5000.pdf>]
+\openout2 = `ChapterIV.aux'.
+
+ (ChapterIV.tex
+Chapter 5.
+[69
+
+
+
+]
+<Figures/ChapterIV/Time_cube_slice_martin.png, id=523, 141.4083pt x 116.5956pt>
+
+File: Figures/ChapterIV/Time_cube_slice_martin.png Graphic file (type png)
+<use Figures/ChapterIV/Time_cube_slice_martin.png>
+Package pdftex.def Info: Figures/ChapterIV/Time_cube_slice_martin.png  used on 
+input line 17.
+(pdftex.def)             Requested size: 451.6875pt x 372.4339pt.
+
+Underfull \hbox (badness 1168) in paragraph at lines 21--21
+\OT1/txr/m/n/12 bin rather than a square bin for spa-tial data. Im-age cre-ated
+ by the au-thor adapted
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [70]
+
+LaTeX Warning: Reference `fig:timesclice' on page 71 undefined on input line 26
+.
+
+
+Underfull \vbox (badness 1377) has occurred while \output is active []
+
+ [71 <./Figures/ChapterIV/Time_cube_slice_martin.png>]
+Overfull \hbox (23.31158pt too wide) in paragraph at lines 34--35
+\OT1/txtt/m/n/12 https : / / pro . arcgis . com / en / pro-[]app / tool-[]refer
+ence / space-[]time-[]pattern-[]mining /
+ []
+
+
+Underfull \vbox (badness 2005) has occurred while \output is active []
+
+ [72]
+[73]
+<Figures/ChapterIV/USA_Count_EH.pdf, id=539, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/USA_Count_EH.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/USA_Count_EH.pdf>
+Package pdftex.def Info: Figures/ChapterIV/USA_Count_EH.pdf  used on input line
+ 53.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [74]
+<Figures/ChapterIV/USA_Count_LO.pdf, id=543, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/USA_Count_LO.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/USA_Count_LO.pdf>
+Package pdftex.def Info: Figures/ChapterIV/USA_Count_LO.pdf  used on input line
+ 65.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [75 <./Figures/ChapterIV/USA_Count_EH.pdf>]
+<Figures/ChapterIV/USA_Money_EH.pdf, id=556, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/USA_Money_EH.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/USA_Money_EH.pdf>
+Package pdftex.def Info: Figures/ChapterIV/USA_Money_EH.pdf  used on input line
+ 76.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [76 <./Figures/ChapterIV/USA_Count_LO.pdf>]
+<Figures/ChapterIV/USA_Money_LO.pdf, id=569, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/USA_Money_LO.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/USA_Money_LO.pdf>
+Package pdftex.def Info: Figures/ChapterIV/USA_Money_LO.pdf  used on input line
+ 89.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [77 <./Figures/ChapterIV/USA_Money_EH.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [78 <./Figures/ChapterIV/USA_Money_LO.pdf>]
+<Figures/ChapterIV/Bos_Count_EH.pdf, id=595, 568.1225pt x 853.1875pt>
+File: Figures/ChapterIV/Bos_Count_EH.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/Bos_Count_EH.pdf>
+Package pdftex.def Info: Figures/ChapterIV/Bos_Count_EH.pdf  used on input line
+ 105.
+(pdftex.def)             Requested size: 451.6875pt x 678.35895pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [79]
+Overfull \vbox (66.92894pt too high) has occurred while \output is active []
+
+
+[80 <./Figures/ChapterIV/Bos_Count_EH.pdf>]
+<Figures/ChapterIV/Bos_Count_EH_Downtown.pdf, id=608, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/Bos_Count_EH_Downtown.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/Bos_Count_EH_Downtown.pdf>
+Package pdftex.def Info: Figures/ChapterIV/Bos_Count_EH_Downtown.pdf  used on i
+nput line 112.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+<Figures/ChapterIV/Bos_Count_LO.pdf, id=609, 568.1225pt x 853.1875pt>
+File: Figures/ChapterIV/Bos_Count_LO.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/Bos_Count_LO.pdf>
+Package pdftex.def Info: Figures/ChapterIV/Bos_Count_LO.pdf  used on input line
+ 122.
+(pdftex.def)             Requested size: 451.6875pt x 678.35895pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [81 <./Figures/ChapterIV/Bos_Count_EH_Downtown.pdf>]
+Overfull \vbox (52.42894pt too high) has occurred while \output is active []
+
+
+[82 <./Figures/ChapterIV/Bos_Count_LO.pdf>]
+<Figures/ChapterIV/Bos_Count_LO_Downtown.pdf, id=631, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/Bos_Count_LO_Downtown.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/Bos_Count_LO_Downtown.pdf>
+Package pdftex.def Info: Figures/ChapterIV/Bos_Count_LO_Downtown.pdf  used on i
+nput line 129.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+<Figures/ChapterIV/Bos_Money_EH.pdf, id=632, 710.655pt x 853.1875pt>
+File: Figures/ChapterIV/Bos_Money_EH.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/Bos_Money_EH.pdf>
+Package pdftex.def Info: Figures/ChapterIV/Bos_Money_EH.pdf  used on input line
+ 141.
+(pdftex.def)             Requested size: 451.6875pt x 542.28879pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [83 <./Figures/ChapterIV/Bos_Count_LO_Downtown.pdf>]
+<Figures/ChapterIV/Bos_Money_EH_Downtown.pdf, id=646, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/Bos_Money_EH_Downtown.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/Bos_Money_EH_Downtown.pdf>
+Package pdftex.def Info: Figures/ChapterIV/Bos_Money_EH_Downtown.pdf  used on i
+nput line 148.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [84 <./Figures/ChapterIV/Bos_Money_EH.pdf>]
+<Figures/ChapterIV/Bos_Money_LO.pdf, id=656, 568.1225pt x 853.1875pt>
+File: Figures/ChapterIV/Bos_Money_LO.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/Bos_Money_LO.pdf>
+Package pdftex.def Info: Figures/ChapterIV/Bos_Money_LO.pdf  used on input line
+ 158.
+(pdftex.def)             Requested size: 451.6875pt x 678.35895pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [85 <./Figures/ChapterIV/Bos_Money_EH_Downtown.pdf>]
+Overfull \vbox (52.42894pt too high) has occurred while \output is active []
+
+
+[86 <./Figures/ChapterIV/Bos_Money_LO.pdf>]
+<Figures/ChapterIV/Bos_Money_LO_Downtown.pdf, id=678, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/Bos_Money_LO_Downtown.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/Bos_Money_LO_Downtown.pdf>
+Package pdftex.def Info: Figures/ChapterIV/Bos_Money_LO_Downtown.pdf  used on i
+nput line 166.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+<Figures/ChapterIV/Chi_Count_EH.pdf, id=679, 568.1225pt x 853.1875pt>
+File: Figures/ChapterIV/Chi_Count_EH.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/Chi_Count_EH.pdf>
+Package pdftex.def Info: Figures/ChapterIV/Chi_Count_EH.pdf  used on input line
+ 179.
+(pdftex.def)             Requested size: 451.6875pt x 678.35895pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [87 <./Figures/ChapterIV/Bos_Money_LO_Downtown.pdf>]
+Overfull \vbox (66.92894pt too high) has occurred while \output is active []
+
+
+[88 <./Figures/ChapterIV/Chi_Count_EH.pdf>]
+<Figures/ChapterIV/Chi_Count_EH_Downtown.pdf, id=701, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/Chi_Count_EH_Downtown.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/Chi_Count_EH_Downtown.pdf>
+Package pdftex.def Info: Figures/ChapterIV/Chi_Count_EH_Downtown.pdf  used on i
+nput line 186.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+<Figures/ChapterIV/Chi_Count_LO.pdf, id=702, 568.1225pt x 853.1875pt>
+File: Figures/ChapterIV/Chi_Count_LO.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/Chi_Count_LO.pdf>
+Package pdftex.def Info: Figures/ChapterIV/Chi_Count_LO.pdf  used on input line
+ 195.
+(pdftex.def)             Requested size: 451.6875pt x 678.35895pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [89 <./Figures/ChapterIV/Chi_Count_EH_Downtown.pdf>]
+Overfull \vbox (52.42894pt too high) has occurred while \output is active []
+
+
+[90 <./Figures/ChapterIV/Chi_Count_LO.pdf>]
+<Figures/ChapterIV/Chi_Count_LO_Downtown.pdf, id=725, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/Chi_Count_LO_Downtown.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/Chi_Count_LO_Downtown.pdf>
+Package pdftex.def Info: Figures/ChapterIV/Chi_Count_LO_Downtown.pdf  used on i
+nput line 202.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+<Figures/ChapterIV/Chi_Money_EH.pdf, id=726, 568.1225pt x 853.1875pt>
+File: Figures/ChapterIV/Chi_Money_EH.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/Chi_Money_EH.pdf>
+Package pdftex.def Info: Figures/ChapterIV/Chi_Money_EH.pdf  used on input line
+ 213.
+(pdftex.def)             Requested size: 451.6875pt x 678.35895pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [91 <./Figures/ChapterIV/Chi_Count_LO_Downtown.pdf>]
+Overfull \vbox (66.92894pt too high) has occurred while \output is active []
+
+
+[92 <./Figures/ChapterIV/Chi_Money_EH.pdf>]
+<Figures/ChapterIV/Chi_Money_EH_Downtown.pdf, id=748, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/Chi_Money_EH_Downtown.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/Chi_Money_EH_Downtown.pdf>
+Package pdftex.def Info: Figures/ChapterIV/Chi_Money_EH_Downtown.pdf  used on i
+nput line 220.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+<Figures/ChapterIV/Chi_Money_LO.pdf, id=749, 568.1225pt x 853.1875pt>
+File: Figures/ChapterIV/Chi_Money_LO.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/Chi_Money_LO.pdf>
+Package pdftex.def Info: Figures/ChapterIV/Chi_Money_LO.pdf  used on input line
+ 230.
+(pdftex.def)             Requested size: 451.6875pt x 678.35895pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [93 <./Figures/ChapterIV/Chi_Money_EH_Downtown.pdf>]
+Overfull \vbox (52.42894pt too high) has occurred while \output is active []
+
+
+[94 <./Figures/ChapterIV/Chi_Money_LO.pdf>]
+<Figures/ChapterIV/Chi_Money_LO_Downtown.pdf, id=771, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/Chi_Money_LO_Downtown.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/Chi_Money_LO_Downtown.pdf>
+Package pdftex.def Info: Figures/ChapterIV/Chi_Money_LO_Downtown.pdf  used on i
+nput line 238.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+<Figures/ChapterIV/LA_Count_EH.pdf, id=772, 568.1225pt x 853.1875pt>
+File: Figures/ChapterIV/LA_Count_EH.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/LA_Count_EH.pdf>
+Package pdftex.def Info: Figures/ChapterIV/LA_Count_EH.pdf  used on input line 
+255.
+(pdftex.def)             Requested size: 451.6875pt x 678.35895pt.
+ [95 <./Figures/ChapterIV/Chi_Money_LO_Downtown.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [96]
+Overfull \vbox (66.92894pt too high) has occurred while \output is active []
+
+
+[97 <./Figures/ChapterIV/LA_Count_EH.pdf>]
+<Figures/ChapterIV/LA_Count_EH_Downtown.pdf, id=798, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/LA_Count_EH_Downtown.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/LA_Count_EH_Downtown.pdf>
+Package pdftex.def Info: Figures/ChapterIV/LA_Count_EH_Downtown.pdf  used on in
+put line 262.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+<Figures/ChapterIV/LA_Count_LO.pdf, id=799, 568.1225pt x 853.1875pt>
+File: Figures/ChapterIV/LA_Count_LO.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/LA_Count_LO.pdf>
+Package pdftex.def Info: Figures/ChapterIV/LA_Count_LO.pdf  used on input line 
+271.
+(pdftex.def)             Requested size: 451.6875pt x 678.35895pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [98 <./Figures/ChapterIV/LA_Count_EH_Downtown.pdf>]
+Overfull \vbox (52.42894pt too high) has occurred while \output is active []
+
+
+[99 <./Figures/ChapterIV/LA_Count_LO.pdf>]
+<Figures/ChapterIV/LA_Count_LO_Downtown.pdf, id=821, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/LA_Count_LO_Downtown.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/LA_Count_LO_Downtown.pdf>
+Package pdftex.def Info: Figures/ChapterIV/LA_Count_LO_Downtown.pdf  used on in
+put line 278.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+<Figures/ChapterIV/LA_Money_EH.pdf, id=822, 568.1225pt x 853.1875pt>
+File: Figures/ChapterIV/LA_Money_EH.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/LA_Money_EH.pdf>
+Package pdftex.def Info: Figures/ChapterIV/LA_Money_EH.pdf  used on input line 
+291.
+(pdftex.def)             Requested size: 451.6875pt x 678.35895pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [100 <./Figures/ChapterIV/LA_Count_LO_Downtown.pdf>]
+Overfull \vbox (66.92894pt too high) has occurred while \output is active []
+
+
+[101 <./Figures/ChapterIV/LA_Money_EH.pdf>]
+<Figures/ChapterIV/LA_Money_EH_Downtown.pdf, id=845, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/LA_Money_EH_Downtown.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/LA_Money_EH_Downtown.pdf>
+Package pdftex.def Info: Figures/ChapterIV/LA_Money_EH_Downtown.pdf  used on in
+put line 298.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+<Figures/ChapterIV/LA_Money_LO.pdf, id=846, 568.1225pt x 853.1875pt>
+File: Figures/ChapterIV/LA_Money_LO.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/LA_Money_LO.pdf>
+Package pdftex.def Info: Figures/ChapterIV/LA_Money_LO.pdf  used on input line 
+306.
+(pdftex.def)             Requested size: 451.6875pt x 678.35895pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [102 <./Figures/ChapterIV/LA_Money_EH_Downtown.pdf>]
+Overfull \vbox (52.42894pt too high) has occurred while \output is active []
+
+
+[103 <./Figures/ChapterIV/LA_Money_LO.pdf>]
+<Figures/ChapterIV/LA_Money_LO_Downtown.pdf, id=868, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/LA_Money_LO_Downtown.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/LA_Money_LO_Downtown.pdf>
+Package pdftex.def Info: Figures/ChapterIV/LA_Money_LO_Downtown.pdf  used on in
+put line 313.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+<Figures/ChapterIV/NY_Count_EH.pdf, id=869, 568.1225pt x 853.1875pt>
+File: Figures/ChapterIV/NY_Count_EH.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/NY_Count_EH.pdf>
+Package pdftex.def Info: Figures/ChapterIV/NY_Count_EH.pdf  used on input line 
+325.
+(pdftex.def)             Requested size: 451.6875pt x 678.35895pt.
+ [104 <./Figures/ChapterIV/LA_Money_LO_Downtown.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [105]
+Overfull \vbox (66.92894pt too high) has occurred while \output is active []
+
+
+[106 <./Figures/ChapterIV/NY_Count_EH.pdf>]
+<Figures/ChapterIV/NY_Count_EH_Downtown.pdf, id=894, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/NY_Count_EH_Downtown.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/NY_Count_EH_Downtown.pdf>
+Package pdftex.def Info: Figures/ChapterIV/NY_Count_EH_Downtown.pdf  used on in
+put line 333.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+<Figures/ChapterIV/NY_Count_LO.pdf, id=895, 568.1225pt x 853.1875pt>
+File: Figures/ChapterIV/NY_Count_LO.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/NY_Count_LO.pdf>
+Package pdftex.def Info: Figures/ChapterIV/NY_Count_LO.pdf  used on input line 
+345.
+(pdftex.def)             Requested size: 451.6875pt x 678.35895pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [107 <./Figures/ChapterIV/NY_Count_EH_Downtown.pdf>]
+Overfull \vbox (52.42894pt too high) has occurred while \output is active []
+
+
+[108 <./Figures/ChapterIV/NY_Count_LO.pdf>]
+<Figures/ChapterIV/NY_Count_LO_Downtown.pdf, id=918, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/NY_Count_LO_Downtown.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/NY_Count_LO_Downtown.pdf>
+Package pdftex.def Info: Figures/ChapterIV/NY_Count_LO_Downtown.pdf  used on in
+put line 352.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+<Figures/ChapterIV/NY_Money_EH.pdf, id=919, 568.1225pt x 853.1875pt>
+File: Figures/ChapterIV/NY_Money_EH.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/NY_Money_EH.pdf>
+Package pdftex.def Info: Figures/ChapterIV/NY_Money_EH.pdf  used on input line 
+362.
+(pdftex.def)             Requested size: 451.6875pt x 678.35895pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [109 <./Figures/ChapterIV/NY_Count_LO_Downtown.pdf>]
+Overfull \vbox (66.92894pt too high) has occurred while \output is active []
+
+
+[110 <./Figures/ChapterIV/NY_Money_EH.pdf>]
+<Figures/ChapterIV/NY_Money_EH_Downtown.pdf, id=941, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/NY_Money_EH_Downtown.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/NY_Money_EH_Downtown.pdf>
+Package pdftex.def Info: Figures/ChapterIV/NY_Money_EH_Downtown.pdf  used on in
+put line 369.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+<Figures/ChapterIV/NY_Money_LO.pdf, id=942, 568.1225pt x 853.1875pt>
+File: Figures/ChapterIV/NY_Money_LO.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/NY_Money_LO.pdf>
+Package pdftex.def Info: Figures/ChapterIV/NY_Money_LO.pdf  used on input line 
+377.
+(pdftex.def)             Requested size: 451.6875pt x 678.35895pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [111 <./Figures/ChapterIV/NY_Money_EH_Downtown.pdf>]
+Overfull \vbox (52.42894pt too high) has occurred while \output is active []
+
+
+[112 <./Figures/ChapterIV/NY_Money_LO.pdf>]
+<Figures/ChapterIV/NY_Money_LO_Downtown.pdf, id=964, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/NY_Money_LO_Downtown.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/NY_Money_LO_Downtown.pdf>
+Package pdftex.def Info: Figures/ChapterIV/NY_Money_LO_Downtown.pdf  used on in
+put line 384.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+<Figures/ChapterIV/SF_Count_EH.pdf, id=965, 568.1225pt x 853.1875pt>
+File: Figures/ChapterIV/SF_Count_EH.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/SF_Count_EH.pdf>
+Package pdftex.def Info: Figures/ChapterIV/SF_Count_EH.pdf  used on input line 
+399.
+(pdftex.def)             Requested size: 451.6875pt x 678.35895pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [113 <./Figures/ChapterIV/NY_Money_LO_Downtown.pdf>]
+Overfull \vbox (66.92894pt too high) has occurred while \output is active []
+
+
+[114 <./Figures/ChapterIV/SF_Count_EH.pdf>]
+<Figures/ChapterIV/SF_Count_EH_Downtown.pdf, id=988, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/SF_Count_EH_Downtown.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/SF_Count_EH_Downtown.pdf>
+Package pdftex.def Info: Figures/ChapterIV/SF_Count_EH_Downtown.pdf  used on in
+put line 406.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+<Figures/ChapterIV/SF_Count_LO.pdf, id=989, 568.1225pt x 853.1875pt>
+File: Figures/ChapterIV/SF_Count_LO.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/SF_Count_LO.pdf>
+Package pdftex.def Info: Figures/ChapterIV/SF_Count_LO.pdf  used on input line 
+415.
+(pdftex.def)             Requested size: 451.6875pt x 678.35895pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [115 <./Figures/ChapterIV/SF_Count_EH_Downtown.pdf>]
+Overfull \vbox (52.42894pt too high) has occurred while \output is active []
+
+
+[116 <./Figures/ChapterIV/SF_Count_LO.pdf>]
+<Figures/ChapterIV/SF_Count_LO_Downtown.pdf, id=1011, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/SF_Count_LO_Downtown.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/SF_Count_LO_Downtown.pdf>
+Package pdftex.def Info: Figures/ChapterIV/SF_Count_LO_Downtown.pdf  used on in
+put line 422.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+<Figures/ChapterIV/SF_Money_EH.pdf, id=1012, 568.1225pt x 853.1875pt>
+File: Figures/ChapterIV/SF_Money_EH.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/SF_Money_EH.pdf>
+Package pdftex.def Info: Figures/ChapterIV/SF_Money_EH.pdf  used on input line 
+433.
+(pdftex.def)             Requested size: 451.6875pt x 678.35895pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [117 <./Figures/ChapterIV/SF_Count_LO_Downtown.pdf>]
+Overfull \vbox (66.92894pt too high) has occurred while \output is active []
+
+
+[118 <./Figures/ChapterIV/SF_Money_EH.pdf>]
+<Figures/ChapterIV/SF_Money_EH_Downtown.pdf, id=1034, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/SF_Money_EH_Downtown.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/SF_Money_EH_Downtown.pdf>
+Package pdftex.def Info: Figures/ChapterIV/SF_Money_EH_Downtown.pdf  used on in
+put line 440.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+<Figures/ChapterIV/SF_Money_LO.pdf, id=1035, 568.1225pt x 853.1875pt>
+File: Figures/ChapterIV/SF_Money_LO.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/SF_Money_LO.pdf>
+Package pdftex.def Info: Figures/ChapterIV/SF_Money_LO.pdf  used on input line 
+448.
+(pdftex.def)             Requested size: 451.6875pt x 678.35895pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [119 <./Figures/ChapterIV/SF_Money_EH_Downtown.pdf>]
+Overfull \vbox (52.42894pt too high) has occurred while \output is active []
+
+
+[120 <./Figures/ChapterIV/SF_Money_LO.pdf>]
+<Figures/ChapterIV/SF_Money_LO_Downtown.pdf, id=1058, 853.1875pt x 568.1225pt>
+File: Figures/ChapterIV/SF_Money_LO_Downtown.pdf Graphic file (type pdf)
+<use Figures/ChapterIV/SF_Money_LO_Downtown.pdf>
+Package pdftex.def Info: Figures/ChapterIV/SF_Money_LO_Downtown.pdf  used on in
+put line 455.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+ [121 <./Figures/ChapterIV/SF_Money_LO_Downtown.pdf>]) [122] [123]
+\openout2 = `ChapterV.aux'.
+
+ (ChapterV.tex
+Chapter 6.
+[124
+
+
+
+] [125] [126] [127] [128] [129] [130] [131] [132]
+<Figures/ChapterV/TopicSelection.pdf, id=1106, 794.97pt x 614.295pt>
+File: Figures/ChapterV/TopicSelection.pdf Graphic file (type pdf)
+<use Figures/ChapterV/TopicSelection.pdf>
+Package pdftex.def Info: Figures/ChapterV/TopicSelection.pdf  used on input lin
+e 181.
+(pdftex.def)             Requested size: 451.6875pt x 349.03635pt.
+
+Overfull \hbox (0.4806pt too wide) in paragraph at lines 186--187
+[]\OT1/txr/m/n/12 In this case, the op-ti-mal num-ber of top-ics se-lected was 
+fa-cil-i-tated by the R pack-age LDAtun-
+ []
+
+
+Underfull \vbox (badness 1418) has occurred while \output is active []
+
+ [133 <./Figures/ChapterV/TopicSelection.pdf>] [134]
+<Figures/ChapterV/LDA34_1-9.pdf, id=1118, 853.1875pt x 568.1225pt>
+File: Figures/ChapterV/LDA34_1-9.pdf Graphic file (type pdf)
+<use Figures/ChapterV/LDA34_1-9.pdf>
+Package pdftex.def Info: Figures/ChapterV/LDA34_1-9.pdf  used on input line 206
+.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+<Figures/ChapterV/LDA34_10_18.pdf, id=1119, 853.1875pt x 568.1225pt>
+File: Figures/ChapterV/LDA34_10_18.pdf Graphic file (type pdf)
+<use Figures/ChapterV/LDA34_10_18.pdf>
+Package pdftex.def Info: Figures/ChapterV/LDA34_10_18.pdf  used on input line 2
+13.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/ChapterV/LDA34_19_27.pdf, id=1120, 853.1875pt x 568.1225pt>
+File: Figures/ChapterV/LDA34_19_27.pdf Graphic file (type pdf)
+<use Figures/ChapterV/LDA34_19_27.pdf>
+Package pdftex.def Info: Figures/ChapterV/LDA34_19_27.pdf  used on input line 2
+20.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/ChapterV/LDA34_28_34.pdf, id=1121, 853.1875pt x 568.1225pt>
+File: Figures/ChapterV/LDA34_28_34.pdf Graphic file (type pdf)
+<use Figures/ChapterV/LDA34_28_34.pdf>
+Package pdftex.def Info: Figures/ChapterV/LDA34_28_34.pdf  used on input line 2
+27.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [135 <./Figures/ChapterV/LDA34_1-9.pdf>] [136 <./Figures/ChapterV/LDA34_10_18.
+pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [137 <./Figures/ChapterV/LDA34_19_27.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [138 <./Figures/ChapterV/LDA34_28_34.pdf>]
+Underfull \vbox (badness 8132) has occurred while \output is active []
+
+ [139]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [140]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [141]
+[142] [143]
+Underfull \vbox (badness 2521) has occurred while \output is active []
+
+ [144]
+<Figures/ChapterV/States_01_09.jpg, id=1190, 852.93657pt x 852.93657pt>
+File: Figures/ChapterV/States_01_09.jpg Graphic file (type jpg)
+<use Figures/ChapterV/States_01_09.jpg>
+Package pdftex.def Info: Figures/ChapterV/States_01_09.jpg  used on input line 
+337.
+(pdftex.def)             Requested size: 451.6875pt x 451.68982pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [145]
+<Figures/ChapterV/States_10_18.jpg, id=1194, 852.93657pt x 852.93657pt>
+File: Figures/ChapterV/States_10_18.jpg Graphic file (type jpg)
+<use Figures/ChapterV/States_10_18.jpg>
+Package pdftex.def Info: Figures/ChapterV/States_10_18.jpg  used on input line 
+344.
+(pdftex.def)             Requested size: 451.6875pt x 451.68982pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [146 <./Figures/ChapterV/States_01_09.jpg>]
+<Figures/ChapterV/States_19_27.jpg, id=1199, 852.93657pt x 852.93657pt>
+File: Figures/ChapterV/States_19_27.jpg Graphic file (type jpg)
+<use Figures/ChapterV/States_19_27.jpg>
+Package pdftex.def Info: Figures/ChapterV/States_19_27.jpg  used on input line 
+351.
+(pdftex.def)             Requested size: 451.6875pt x 451.68982pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [147 <./Figures/ChapterV/States_10_18.jpg>]
+<Figures/ChapterV/States_28_34.jpg, id=1204, 852.93657pt x 852.93657pt>
+File: Figures/ChapterV/States_28_34.jpg Graphic file (type jpg)
+<use Figures/ChapterV/States_28_34.jpg>
+Package pdftex.def Info: Figures/ChapterV/States_28_34.jpg  used on input line 
+358.
+(pdftex.def)             Requested size: 451.6875pt x 451.68982pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [148 <./Figures/ChapterV/States_19_27.jpg>]
+<Figures/ChapterV/Violinplot_q1.pdf, id=1209, 853.1875pt x 568.1225pt>
+File: Figures/ChapterV/Violinplot_q1.pdf Graphic file (type pdf)
+<use Figures/ChapterV/Violinplot_q1.pdf>
+Package pdftex.def Info: Figures/ChapterV/Violinplot_q1.pdf  used on input line
+ 365.
+(pdftex.def)             Requested size: 451.6875pt x 300.77406pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [149 <./Figures/ChapterV/States_28_34.jpg>] [150 <./Figures/ChapterV/Violinplo
+t_q1.pdf>]) [151]
+\openout2 = `Conclusion.aux'.
+
+ (Conclusion.tex
+Chapter 7.
+[152
+
+
+
+]
+Underfull \vbox (badness 4366) has occurred while \output is active []
+
+ [153]
+[154] [155]) [156] (westernthesis2020.bbl
+Underfull \hbox (badness 4832) in paragraph at lines 20--24
+\OT1/txr/m/n/12 ton Post $\OT1/txtt/m/n/12 http : / / www . washingtonpost . co
+m / wp-[]dyn / content / article / 2008 / 12 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--51
+[]\OT1/txr/m/n/12 Bagli, C. V. (2011).  Re-gret-ting Move, Bank May Re-turn to 
+Man-hat-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--51
+\OT1/txr/m/n/12 tan.  New York Times $\OT1/txtt/m/n/12 http : / / www . nytimes
+ . com / 2011 / 06 / 09 / nyregion /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--64
+[]\OT1/txr/m/n/12 BarclayHedge (2018).  Hedge Fund As-sets Un-der Man-age-ment.
+  $\OT1/txtt/m/n/12 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--64
+\OT1/txtt/m/n/12 / / www . barclayhedge . com / solutions / assets-[]under-[]ma
+nagement /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--64
+\OT1/txtt/m/n/12 hedge-[]fund-[]assets-[]under-[]management / hedge-[]fund-[]in
+dustry/$ \OT1/txr/m/n/12 (Acessed on
+ []
+
+[157
+
+
+] [158] [159]
+Underfull \hbox (badness 1127) in paragraph at lines 301--305
+\OT1/txr/m/n/12 Mi-gra-tion.  $\OT1/txtt/m/n/12 https : / / scholar . harvard .
+ edu / files / elloraderenoncourt / files /
+ []
+
+[160]
+LaTeX Font Info:    Trying to load font information for OML+txr on input line 4
+53.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/txfonts\omltxr.fd"
+File: omltxr.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Font shape `OML/txr/m/n' in size <12> not available
+(Font)              Font shape `OML/txmi/m/it' tried instead on input line 453.
+
+ [161]
+[162] [163] [164] [165] [166]
+Underfull \hbox (badness 10000) in paragraph at lines 991--996
+[]\OT1/txr/m/n/12 WilmerHale (2013, Jan-uary).  \OT1/txr/m/it/12 Re-port of JP-
+Mor-gan Chase & Co. Man-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 991--996
+\OT1/txr/m/it/12 age-ment Task Force Re-gard-ing 2012 CIO Losses\OT1/txr/m/n/12
+ .  Avail-able on-line at
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 991--996
+\OT1/txtt/m/n/12 http : / / files . shareholder . com / downloads / ONE / 22729
+84969x0x628656 /
+ []
+
+) [167]
+\openout2 = `Appendix/CountiesCount.aux'.
+
+ (Appendix/CountiesCount.tex
+Appendix A.
+[168
+
+
+] [169
+
+] [170] [171] [172] [173] [174] [175] [176] [177] [178] [179]
+[180] [181] [182] [183])
+\openout2 = `Appendix/GravityModel.aux'.
+
+ (Appendix/GravityModel.tex
+Appendix B.
+
+Overfull \hbox (18.24437pt too wide) in paragraph at lines 746--778
+ [] 
+ []
+
+
+Overfull \hbox (18.24437pt too wide) in paragraph at lines 826--859
+ [] 
+ []
+
+) [184
+
+
+
+
+] [185] [186] [187] [188] [189] [190] [191] [192] [193] [194] [195]
+[196] [197] [198] [199] [200] [201] [202] [203] [204] [205] [206]
+\openout2 = `Appendix/Shift_share.aux'.
+
+
+(Appendix/Shift_share.tex
+Appendix C.
+[207
+
+
+
+] [208
+
+] [209] [210] [211] [212] [213] [214] [215] [216] [217] [218]
+[219] [220] [221] [222] [223] [224] [225] [226] [227] [228] [229] [230]
+[231] [232] [233] [234] [235] [236] [237])
+\openout2 = `Appendix/CountbyState_Lda34.aux'.
+
+ (Appendix/CountbyState_Lda34.tex
+Appendix D.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 3.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 49.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 94.
+
+<Figures/ChapterV/USA_34_Topic01.pdf, id=1501, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic01.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic01.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic01.pdf  used on input lin
+e 145.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic02.pdf, id=1502, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic02.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic02.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic02.pdf  used on input lin
+e 152.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic03.pdf, id=1503, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic03.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic03.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic03.pdf  used on input lin
+e 159.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic04.pdf, id=1504, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic04.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic04.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic04.pdf  used on input lin
+e 166.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic05.pdf, id=1505, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic05.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic05.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic05.pdf  used on input lin
+e 173.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic06.pdf, id=1506, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic06.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic06.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic06.pdf  used on input lin
+e 180.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic07.pdf, id=1507, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic07.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic07.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic07.pdf  used on input lin
+e 187.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic08.pdf, id=1508, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic08.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic08.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic08.pdf  used on input lin
+e 194.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic09.pdf, id=1509, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic09.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic09.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic09.pdf  used on input lin
+e 201.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic10.pdf, id=1510, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic10.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic10.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic10.pdf  used on input lin
+e 208.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic11.pdf, id=1511, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic11.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic11.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic11.pdf  used on input lin
+e 215.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic12.pdf, id=1512, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic12.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic12.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic12.pdf  used on input lin
+e 222.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic13.pdf, id=1513, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic13.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic13.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic13.pdf  used on input lin
+e 229.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic14.pdf, id=1514, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic14.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic14.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic14.pdf  used on input lin
+e 236.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic15.pdf, id=1515, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic15.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic15.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic15.pdf  used on input lin
+e 243.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic16.pdf, id=1516, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic16.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic16.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic16.pdf  used on input lin
+e 250.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic17.pdf, id=1517, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic17.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic17.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic17.pdf  used on input lin
+e 257.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic18.pdf, id=1518, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic18.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic18.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic18.pdf  used on input lin
+e 264.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic19.pdf, id=1519, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic19.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic19.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic19.pdf  used on input lin
+e 271.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic20.pdf, id=1520, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic20.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic20.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic20.pdf  used on input lin
+e 278.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic21.pdf, id=1521, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic21.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic21.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic21.pdf  used on input lin
+e 285.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic22.pdf, id=1522, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic22.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic22.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic22.pdf  used on input lin
+e 292.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic23.pdf, id=1523, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic23.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic23.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic23.pdf  used on input lin
+e 299.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic24.pdf, id=1524, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic24.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic24.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic24.pdf  used on input lin
+e 306.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic25.pdf, id=1525, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic25.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic25.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic25.pdf  used on input lin
+e 313.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic26.pdf, id=1526, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic26.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic26.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic26.pdf  used on input lin
+e 320.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic27.pdf, id=1527, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic27.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic27.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic27.pdf  used on input lin
+e 327.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic28.pdf, id=1528, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic28.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic28.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic28.pdf  used on input lin
+e 334.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic29.pdf, id=1529, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic29.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic29.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic29.pdf  used on input lin
+e 341.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic30.pdf, id=1530, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic30.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic30.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic30.pdf  used on input lin
+e 348.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic31.pdf, id=1531, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic31.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic31.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic31.pdf  used on input lin
+e 355.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic32.pdf, id=1532, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic32.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic32.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic32.pdf  used on input lin
+e 362.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic33.pdf, id=1533, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic33.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic33.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic33.pdf  used on input lin
+e 369.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+<Figures/ChapterV/USA_34_Topic34.pdf, id=1534, 853.1875pt x 853.1875pt>
+File: Figures/ChapterV/USA_34_Topic34.pdf Graphic file (type pdf)
+<use Figures/ChapterV/USA_34_Topic34.pdf>
+Package pdftex.def Info: Figures/ChapterV/USA_34_Topic34.pdf  used on input lin
+e 376.
+(pdftex.def)             Requested size: 451.6875pt x 451.69252pt.
+) [238
+
+
+
+
+] [239] [240] [241] [242 <./Figures/ChapterV/USA_34_Topic01.pdf>]
+[243 <./Figures/ChapterV/USA_34_Topic02.pdf>] [244 <./Figures/ChapterV/USA_34_T
+opic03.pdf>] [245 <./Figures/ChapterV/USA_34_Topic04.pdf>] [246 <./Figures/Chap
+terV/USA_34_Topic05.pdf>] [247 <./Figures/ChapterV/USA_34_Topic06.pdf>]
+[248 <./Figures/ChapterV/USA_34_Topic07.pdf>] [249 <./Figures/ChapterV/USA_34_T
+opic08.pdf>] [250 <./Figures/ChapterV/USA_34_Topic09.pdf>] [251 <./Figures/Chap
+terV/USA_34_Topic10.pdf>] [252 <./Figures/ChapterV/USA_34_Topic11.pdf>]
+[253 <./Figures/ChapterV/USA_34_Topic12.pdf>] [254 <./Figures/ChapterV/USA_34_T
+opic13.pdf>] [255 <./Figures/ChapterV/USA_34_Topic14.pdf>] [256 <./Figures/Chap
+terV/USA_34_Topic15.pdf>] [257 <./Figures/ChapterV/USA_34_Topic16.pdf>]
+[258 <./Figures/ChapterV/USA_34_Topic17.pdf>] [259 <./Figures/ChapterV/USA_34_T
+opic18.pdf>] [260 <./Figures/ChapterV/USA_34_Topic19.pdf>] [261 <./Figures/Chap
+terV/USA_34_Topic20.pdf>] [262 <./Figures/ChapterV/USA_34_Topic21.pdf>]
+[263 <./Figures/ChapterV/USA_34_Topic22.pdf>] [264 <./Figures/ChapterV/USA_34_T
+opic23.pdf>] [265 <./Figures/ChapterV/USA_34_Topic24.pdf>] [266 <./Figures/Chap
+terV/USA_34_Topic25.pdf>] [267 <./Figures/ChapterV/USA_34_Topic26.pdf>]
+[268 <./Figures/ChapterV/USA_34_Topic27.pdf>] [269 <./Figures/ChapterV/USA_34_T
+opic28.pdf>] [270 <./Figures/ChapterV/USA_34_Topic29.pdf>] [271 <./Figures/Chap
+terV/USA_34_Topic30.pdf>] [272 <./Figures/ChapterV/USA_34_Topic31.pdf>]
+[273 <./Figures/ChapterV/USA_34_Topic32.pdf>] [274 <./Figures/ChapterV/USA_34_T
+opic33.pdf>] [275 <./Figures/ChapterV/USA_34_Topic34.pdf>]
+
+Package natbib Warning: There were undefined citations.
+
+[276
+
+
+] (westernthesis2020.aux (ChapterI.aux) (ChapterII.aux) (ChapterIII.aux)
+(ChapterIIIb.aux) (ChapterIV.aux) (ChapterV.aux) (Conclusion.aux)
+(Appendix/CountiesCount.aux) (Appendix/GravityModel.aux)
+(Appendix/Shift_share.aux) (Appendix/CountbyState_Lda34.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 21410 strings out of 481165
+ 413624 string characters out of 2912171
+ 892368 words of memory out of 3000000
+ 36350 multiletter control sequences out of 15000+200000
+ 587746 words of font info for 155 fonts, out of 3000000 for 9000
+ 1142 hyphenation exceptions out of 8191
+ 65i,13n,116p,2428b,803s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/txfonts/rtcxi.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/txfonts/rtcxr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/txfonts/rtxb.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/txfonts/rtxi
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/txfonts/rtxmi.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/txfonts/rtxr.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/txfonts/rtxsc.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/txfonts/txex.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/t
+xfonts/txsy.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/txfonts/txsyc.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/txfonts/txtt.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
+times/utmri8a.pfb>
+Output written on westernthesis2020.pdf (296 pages, 47024225 bytes).
+PDF statistics:
+ 1885 PDF objects out of 2073 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 573 words of extra memory for PDF output out of 10000 (max. 10000000)
+
