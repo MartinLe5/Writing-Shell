@@ -369,15 +369,14 @@ Chair of the Thesis Examination Board
 %% This sets the page style and numbering for preliminary sections.
 \begin{preliminary}
 %% This generates the title page from the information given above.
-\maketitle
-\addcontentsline{toc}{chapter}{Certificate of Examination}
-\makecert
-\newpage
+%\maketitle
+%\addcontentsline{toc}{chapter}{Certificate of Examination}
+%\makecert
+%\newpage
 %\addcontentsline{toc}{chapter}{Co-Authorship Statement}
 %\coauthor{\makecoauthor}  %comment this out if none
 %\newpage
-\addcontentsline{toc}{chapter}{Acknowlegements}
-\acknowlege{\makeacknowlege}	%as above
+	%as above
 \addcontentsline{toc}{chapter}{Abstract}
 \Large\begin{center}\textbf{Abstract}\end{center}\normalsize
 
@@ -404,6 +403,8 @@ Cette th\`{e}se examine l'\'{e}volution de la pr\'{e}f\'{e}rence spatiale des in
 \end{spacing}
 
 \begin{spacing}{1.5}
+\addcontentsline{toc}{chapter}{Acknowlegements}
+\acknowlege{\makeacknowlege}
 \printnomenclature[1.75in]	
 \tableofcontents\newpage
 \newpage

@@ -1,10 +1,9 @@
-\contentsline {chapter}{Certificate of Examination}{ii}%
-\contentsline {chapter}{Acknowlegements}{iii}%
-\contentsline {chapter}{Abstract}{iv}%
-\contentsline {chapter}{Summary for Lay Audience}{vi}%
-\contentsline {chapter}{\nonumberline Nomenclature}{viii}%
-\contentsline {chapter}{List of Figures}{xiii}%
-\contentsline {chapter}{List of Tables}{xix}%
+\contentsline {chapter}{Abstract}{i}%
+\contentsline {chapter}{Summary for Lay Audience}{iii}%
+\contentsline {chapter}{Acknowlegements}{iv}%
+\contentsline {chapter}{\nonumberline Nomenclature}{vi}%
+\contentsline {chapter}{List of Figures}{xi}%
+\contentsline {chapter}{List of Tables}{xvii}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}%
 \contentsline {section}{\numberline {1.1}A Thought Experiment}{1}%
 \contentsline {chapter}{\numberline {2}Literature Review and Related Works}{5}%
